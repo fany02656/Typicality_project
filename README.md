@@ -8,10 +8,10 @@ Side notes and contribution: https://docs.google.com/document/d/1b-B63kTOaFtAqev
 # Project Directory
 ``` bash
 ├── Image                   # Images used in modeling
-    ├── Architecture<br />
+    ├── Architecture
     ├── Daily_Object        # Only resized bananas and mugs were used for modeling
-    ├── Landscape_Scenery<br />
-    ├── Vehicle<br />
+    ├── Landscape_Scenery
+    ├── Vehicle
     ├── image_resize.ipynb  # Used for universalizing Daily_objects
 ├── Literature_review       # Reference papers
 ├── .gitignore
