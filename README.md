@@ -1,10 +1,13 @@
 # Human vs. Convolutional Neural Network Typicality ratings
-```bash
+
 Project Proposal: https://drive.google.com/file/d/1f7eFFinxWgmkz5e-nOiyRX5H7wWRHfBV/view?usp=sharing
+
 Literature review: http://nyuccl.org/papers/LakeZarembaFergusGureckis.CogSci2015.pdf
+
 Final report: 
+
 Side notes and contribution: https://docs.google.com/document/d/1b-B63kTOaFtAqevqONO2kw4IJq0HXbT1tX9B3sLlFhk/edit?usp=sharing
-```
+
 # Project Directory
 ``` bash
 ├── Image                   # Images used in modeling
