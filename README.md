@@ -7,14 +7,14 @@ Side notes and contribution: https://docs.google.com/document/d/1b-B63kTOaFtAqev
 
 # Project Directory
 .
-├── Image                   # Images used in modeling
-    ├── Architecture
-    ├── Daily_Object        # Only resized bananas and mugs were used for modeling
-    ├── Landscape_Scenery
-    ├── Vehicle
-    ├── image_resize.ipynb  # Used for universalizing Daily_objects
-├── Literature_review       # Reference papers
-├── .gitignore
-├── 7_score.csv             # A 7-score distribution table for googleNet
-├── GoogLeNet_demo.ipynb    # GoogleNet modeling
-└── README.md
+├── Image                   # Images used in modeling<br />
+    ├── Architecture<br />
+    ├── Daily_Object        # Only resized bananas and mugs were used for modeling<br />
+    ├── Landscape_Scenery<br />
+    ├── Vehicle<br />
+    ├── image_resize.ipynb  # Used for universalizing Daily_objects<br />
+├── Literature_review       # Reference papers<br />
+├── .gitignore<br />
+├── 7_score.csv             # A 7-score distribution table for googleNet<br />
+├── GoogLeNet_demo.ipynb    # GoogleNet modeling<br />
+└── README.md<br />
