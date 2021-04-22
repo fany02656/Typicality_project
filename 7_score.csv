@@ -1,0 +1,129 @@
+,type,typicality_score,dir,7_score
+0,Mountain,66.1,Image\Landscape_Scenery/Mountain\m1.jpg,4.6
+1,Mountain,82.5,Image\Landscape_Scenery/Mountain\m11.jpg,5.8
+2,Mountain,20.3,Image\Landscape_Scenery/Mountain\m12.jpg,1.4
+3,Mountain,38.7,Image\Landscape_Scenery/Mountain\m14.jpg,2.7
+4,Mountain,70.1,Image\Landscape_Scenery/Mountain\m15.jpg,4.9
+5,Mountain,46.4,Image\Landscape_Scenery/Mountain\m16.jpg,3.2
+6,Mountain,31.0,Image\Landscape_Scenery/Mountain\m17.jpg,2.2
+7,Mountain,17.5,Image\Landscape_Scenery/Mountain\m19.jpg,1.2
+8,Mountain,29.6,Image\Landscape_Scenery/Mountain\m2.jpg,2.1
+9,Mountain,16.5,Image\Landscape_Scenery/Mountain\m20.jpg,1.2
+10,Mountain,49.7,Image\Landscape_Scenery/Mountain\m3.jpg,3.5
+11,Mountain,77.0,Image\Landscape_Scenery/Mountain\m4.jpg,5.4
+12,Mountain,56.3,Image\Landscape_Scenery/Mountain\m5.jpg,3.9
+13,Mountain,45.0,Image\Landscape_Scenery/Mountain\m6.jpg,3.2
+14,Mountain,52.1,Image\Landscape_Scenery/Mountain\m8.jpg,3.6
+15,Mountain,19.2,Image\Landscape_Scenery/Mountain\m9.jpg,1.3
+16,Beach,57.3,Image\Landscape_Scenery/Beach\b1.jpg,4.0
+17,Beach,25.6,Image\Landscape_Scenery/Beach\b10.jpg,1.8
+18,Beach,59.8,Image\Landscape_Scenery/Beach\b11.jpg,4.2
+19,Beach,75.0,Image\Landscape_Scenery/Beach\b14.jpg,5.2
+20,Beach,80.8,Image\Landscape_Scenery/Beach\b15.jpg,5.7
+21,Beach,75.6,Image\Landscape_Scenery/Beach\b16.jpg,5.3
+22,Beach,62.0,Image\Landscape_Scenery/Beach\b17.jpg,4.3
+23,Beach,73.5,Image\Landscape_Scenery/Beach\b2.jpg,5.1
+24,Beach,54.6,Image\Landscape_Scenery/Beach\b20.jpg,3.8
+25,Beach,67.9,Image\Landscape_Scenery/Beach\b3.jpg,4.8
+26,Beach,33.2,Image\Landscape_Scenery/Beach\b4.jpg,2.3
+27,Beach,16.8,Image\Landscape_Scenery/Beach\b5.jpg,1.2
+28,Beach,27.4,Image\Landscape_Scenery/Beach\b6.jpg,1.9
+29,Beach,74.4,Image\Landscape_Scenery/Beach\b7.jpg,5.2
+30,Beach,56.2,Image\Landscape_Scenery/Beach\b8.jpg,3.9
+31,Beach,58.5,Image\Landscape_Scenery/Beach\b9.jpg,4.1
+32,Mug,47.9,Image\Daily_Object/Mug_resized\10.jpeg,3.4
+33,Mug,50.4,Image\Daily_Object/Mug_resized\11.jpg,3.5
+34,Mug,37.3,Image\Daily_Object/Mug_resized\12.jpg,2.6
+35,Mug,49.4,Image\Daily_Object/Mug_resized\13.jpg,3.5
+36,Mug,45.9,Image\Daily_Object/Mug_resized\14.jpg,3.2
+37,Mug,53.4,Image\Daily_Object/Mug_resized\2.jpg,3.7
+38,Mug,20.3,Image\Daily_Object/Mug_resized\4.jpg,1.4
+39,Mug,42.2,Image\Daily_Object/Mug_resized\5.jpg,3.0
+40,Mug,38.6,Image\Daily_Object/Mug_resized\6.jpg,2.7
+41,Mug,76.5,Image\Daily_Object/Mug_resized\7.jpg,5.4
+42,Mug,31.5,Image\Daily_Object/Mug_resized\8.jpeg,2.2
+43,Mug,54.6,Image\Daily_Object/Mug_resized\9.jpg,3.8
+44,Mug,55.5,Image\Daily_Object/Mug_resized\mug11.jpg,3.9
+45,Mug,13.5,Image\Daily_Object/Mug_resized\mug12.jpg,0.9
+46,Mug,67.2,Image\Daily_Object/Mug_resized\mug13.jpg,4.7
+47,Mug,41.3,Image\Daily_Object/Mug_resized\mugs.jpg,2.9
+48,Banana,100.0,Image\Daily_Object/Banana_resized\1.jpg,7.0
+49,Banana,32.4,Image\Daily_Object/Banana_resized\10.jpg,2.3
+50,Banana,7.7,Image\Daily_Object/Banana_resized\11.jpg,0.5
+51,Banana,36.4,Image\Daily_Object/Banana_resized\12.jpg,2.5
+52,Banana,71.2,Image\Daily_Object/Banana_resized\13.jpg,5.0
+53,Banana,9.0,Image\Daily_Object/Banana_resized\14.jpg,0.6
+54,Banana,59.5,Image\Daily_Object/Banana_resized\16.jpg,4.2
+55,Banana,75.3,Image\Daily_Object/Banana_resized\18.jpg,5.3
+56,Banana,18.1,Image\Daily_Object/Banana_resized\19.jpg,1.3
+57,Banana,100.0,Image\Daily_Object/Banana_resized\2.jpg,7.0
+58,Banana,79.5,Image\Daily_Object/Banana_resized\3.jpg,5.6
+59,Banana,100.0,Image\Daily_Object/Banana_resized\4.jpg,7.0
+60,Banana,97.2,Image\Daily_Object/Banana_resized\5.jpg,6.8
+61,Banana,89.0,Image\Daily_Object/Banana_resized\6.jpg,6.2
+62,Banana,98.3,Image\Daily_Object/Banana_resized\7.jpg,6.9
+63,Banana,99.5,Image\Daily_Object/Banana_resized\8.jpg,7.0
+64,Car,59.3,Image\Vehicle/Car\c01.jpg,4.2
+65,Car,70.6,Image\Vehicle/Car\c02.jpg,4.9
+66,Car,65.4,Image\Vehicle/Car\c03.jpg,4.6
+67,Car,76.7,Image\Vehicle/Car\c04.jpg,5.4
+68,Car,21.3,Image\Vehicle/Car\c05.jpg,1.5
+69,Car,12.9,Image\Vehicle/Car\c06.jpg,0.9
+70,Car,28.2,Image\Vehicle/Car\c07.jpg,2.0
+71,Car,79.9,Image\Vehicle/Car\c08.jpg,5.6
+72,Car,72.3,Image\Vehicle/Car\c09.jpg,5.1
+73,Car,28.2,Image\Vehicle/Car\c10.jpg,2.0
+74,Car,81.0,Image\Vehicle/Car\c11.jpg,5.7
+75,Car,28.5,Image\Vehicle/Car\c12.jpg,2.0
+76,Car,8.4,Image\Vehicle/Car\c13.jpg,0.6
+77,Car,31.1,Image\Vehicle/Car\c14.jpg,2.2
+78,Car,41.5,Image\Vehicle/Car\c16.jpg,2.9
+79,Car,11.3,Image\Vehicle/Car\c18.jpg,0.8
+80,Plane,86.4,Image\Vehicle/Plane\001.jpg,6.0
+81,Plane,10.9,Image\Vehicle/Plane\002.jpg,0.8
+82,Plane,62.7,Image\Vehicle/Plane\003.jpg,4.4
+83,Plane,23.2,Image\Vehicle/Plane\004.jpg,1.6
+84,Plane,78.7,Image\Vehicle/Plane\01.jpg,5.5
+85,Plane,24.2,Image\Vehicle/Plane\03.jpg,1.7
+86,Plane,35.6,Image\Vehicle/Plane\04.jpg,2.5
+87,Plane,22.0,Image\Vehicle/Plane\05.jpg,1.5
+88,Plane,28.6,Image\Vehicle/Plane\06.jpg,2.0
+89,Plane,38.8,Image\Vehicle/Plane\07.jpg,2.7
+90,Plane,72.4,Image\Vehicle/Plane\08.jpg,5.1
+91,Plane,76.5,Image\Vehicle/Plane\11.jpg,5.4
+92,Plane,46.2,Image\Vehicle/Plane\12.jpg,3.2
+93,Plane,36.8,Image\Vehicle/Plane\14.jpg,2.6
+94,Plane,59.2,Image\Vehicle/Plane\15.jpg,4.1
+95,Plane,92.1,Image\Vehicle/Plane\16.jpg,6.4
+96,Lighthouse,84.5,Image\Architecture/Lighthouse\l (1).jpg,5.9
+97,Lighthouse,78.2,Image\Architecture/Lighthouse\l (11).jpg,5.5
+98,Lighthouse,43.5,Image\Architecture/Lighthouse\l (12).jpg,3.0
+99,Lighthouse,52.2,Image\Architecture/Lighthouse\l (13).jpg,3.7
+100,Lighthouse,98.8,Image\Architecture/Lighthouse\l (15).jpg,6.9
+101,Lighthouse,81.8,Image\Architecture/Lighthouse\l (16).jpg,5.7
+102,Lighthouse,11.2,Image\Architecture/Lighthouse\l (18).jpg,0.8
+103,Lighthouse,44.5,Image\Architecture/Lighthouse\l (19).jpg,3.1
+104,Lighthouse,36.6,Image\Architecture/Lighthouse\l (4).jpg,2.6
+105,Lighthouse,92.0,Image\Architecture/Lighthouse\l (5).jpg,6.4
+106,Lighthouse,84.7,Image\Architecture/Lighthouse\l (6).jpg,5.9
+107,Lighthouse,73.4,Image\Architecture/Lighthouse\l (7).jpg,5.1
+108,Lighthouse,52.4,Image\Architecture/Lighthouse\l_new (1).jpg,3.7
+109,Lighthouse,63.5,Image\Architecture/Lighthouse\l_new (2).jpg,4.4
+110,Lighthouse,79.7,Image\Architecture/Lighthouse\l_new (3).jpg,5.6
+111,Lighthouse,25.3,Image\Architecture/Lighthouse\l_new (4).jpg,1.8
+112,Church,40.2,Image\Architecture/Church\c (1).jpg,2.8
+113,Church,68.9,Image\Architecture/Church\c (10).jpg,4.8
+114,Church,42.9,Image\Architecture/Church\c (11).jpg,3.0
+115,Church,87.1,Image\Architecture/Church\c (12).jpg,6.1
+116,Church,77.0,Image\Architecture/Church\c (13).jpg,5.4
+117,Church,81.5,Image\Architecture/Church\c (14).jpg,5.7
+118,Church,40.2,Image\Architecture/Church\c (15).jpg,2.8
+119,Church,45.4,Image\Architecture/Church\c (16).jpg,3.2
+120,Church,42.6,Image\Architecture/Church\c (17).jpg,3.0
+121,Church,77.4,Image\Architecture/Church\c (18).jpg,5.4
+122,Church,43.9,Image\Architecture/Church\c (2).jpg,3.1
+123,Church,44.5,Image\Architecture/Church\c (5).jpg,3.1
+124,Church,69.3,Image\Architecture/Church\c (6).jpg,4.9
+125,Church,59.7,Image\Architecture/Church\c (7).jpg,4.2
+126,Church,69.3,Image\Architecture/Church\c (8).jpg,4.9
+127,Church,47.9,Image\Architecture/Church\c (9).jpg,3.4
