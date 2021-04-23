@@ -4,6 +4,8 @@ Project Proposal: https://drive.google.com/file/d/1f7eFFinxWgmkz5e-nOiyRX5H7wWRH
 
 Literature review: http://nyuccl.org/papers/LakeZarembaFergusGureckis.CogSci2015.pdf
 
+Survey link:
+
 Final report: 
 
 Side notes and contribution: https://docs.google.com/document/d/1b-B63kTOaFtAqevqONO2kw4IJq0HXbT1tX9B3sLlFhk/edit?usp=sharing
