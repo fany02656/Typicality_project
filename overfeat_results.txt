@@ -5,765 +5,1277 @@
 3	Plane	1	space shuttle	2.92309e-05
 4	Plane	1	missile	1.91735e-05
 5	Plane	1	projectile, missile	7.78262e-06
-6	Plane	10	airliner	0.853171
-7	Plane	10	wing	0.114073
-8	Plane	10	warplane, military plane	0.0317416
-9	Plane	10	space shuttle	0.000528623
-10	Plane	10	missile	0.000261193
-11	Plane	10	airship, dirigible	9.85996e-05
-12	Plane	11	airliner	0.48174
-13	Plane	11	wing	0.148844
-14	Plane	11	albatross, mollymawk	0.0816696
-15	Plane	11	projectile, missile	0.0463269
-16	Plane	11	warplane, military plane	0.0420432
-17	Plane	11	missile	0.0412677
-18	Plane	12	wing	0.318848
-19	Plane	12	paddlewheel, paddle wheel	0.162182
-20	Plane	12	airliner	0.113196
-21	Plane	12	warplane, military plane	0.0888902
-22	Plane	12	flagpole, flagstaff	0.0568033
-23	Plane	12	ski	0.0545853
-24	Plane	13	warplane, military plane	0.145282
-25	Plane	13	recreational vehicle, RV, R.V.	0.140773
-26	Plane	13	wing	0.140152
-27	Plane	13	stretcher	0.0790349
-28	Plane	13	tow truck, tow car, wrecker	0.0775182
-29	Plane	13	airliner	0.0573646
-30	Plane	14	pier	0.352139
-31	Plane	14	dam, dike, dyke	0.291537
-32	Plane	14	steel arch bridge	0.145052
-33	Plane	14	submarine, pigboat, sub, U-boat	0.0415433
-34	Plane	14	suspension bridge	0.0369933
-35	Plane	14	paddlewheel, paddle wheel	0.0218083
-36	Plane	15	speedboat	0.926128
-37	Plane	15	trimaran	0.0422433
-38	Plane	15	catamaran	0.0159208
-39	Plane	15	canoe	0.00249835
-40	Plane	15	paddle, boat paddle	0.00241146
-41	Plane	15	amphibian, amphibious vehicle	0.00158919
-42	Plane	16	projectile, missile	0.20134
-43	Plane	16	space shuttle	0.187483
-44	Plane	16	missile	0.163286
-45	Plane	16	wing	0.140229
-46	Plane	16	airliner	0.137867
-47	Plane	16	warplane, military plane	0.136768
-48	Plane	2	airliner	0.939321
-49	Plane	2	wing	0.0386971
-50	Plane	2	warplane, military plane	0.00898358
-51	Plane	2	space shuttle	0.00419727
-52	Plane	2	trimaran	0.00241551
-53	Plane	2	speedboat	0.000986692
-54	Plane	3	syringe	0.292596
-55	Plane	3	grocery store, grocery, food market, market	0.151929
-56	Plane	3	shoe shop, shoe-shop, shoe store	0.0892613
-57	Plane	3	tobacco shop, tobacconist shop, tobacconist	0.0781058
-58	Plane	3	confectionery, confectionary, candy store	0.0378539
-59	Plane	3	toyshop	0.023478
-60	Plane	4	space shuttle	0.700098
-61	Plane	4	projectile, missile	0.136127
-62	Plane	4	missile	0.126056
-63	Plane	4	airliner	0.012506
-64	Plane	4	trimaran	0.00540195
-65	Plane	4	warplane, military plane	0.00326667
-66	Plane	5	airliner	0.580632
-67	Plane	5	warplane, military plane	0.228967
-68	Plane	5	wing	0.120959
-69	Plane	5	projectile, missile	0.0299128
-70	Plane	5	missile	0.0168287
-71	Plane	5	space shuttle	0.00558403
-72	Plane	6	airliner	0.886743
-73	Plane	6	aircraft carrier, carrier, flattop, attack aircraft carrier	0.0308831
-74	Plane	6	crane	0.0192143
-75	Plane	6	wing	0.0166385
-76	Plane	6	warplane, military plane	0.0129054
-77	Plane	6	dock, dockage, docking facility	0.00992384
-78	Plane	7	airliner	0.604527
-79	Plane	7	space shuttle	0.227538
-80	Plane	7	warplane, military plane	0.0582941
-81	Plane	7	missile	0.0258151
-82	Plane	7	wing	0.0229672
-83	Plane	7	projectile, missile	0.0170509
-84	Plane	8	iron, smoothing iron	0.168521
-85	Plane	8	mouse, computer mouse	0.0517568
-86	Plane	8	rule, ruler	0.0474643
-87	Plane	8	ocarina, sweet potato	0.0398977
-88	Plane	8	umbrella	0.0385147
-89	Plane	8	pencil box, pencil case	0.0330757
-90	Plane	9	airliner	0.797421
-91	Plane	9	wing	0.178763
-92	Plane	9	warplane, military plane	0.023454
-93	Plane	9	missile	0.000185571
-94	Plane	9	projectile, missile	0.000134429
-95	Plane	9	space shuttle	3.79056e-05
-96	Mug	1	pill bottle	0.998742
-97	Mug	1	coffee mug	0.000667793
-98	Mug	1	sunscreen, sunblock, sun blocker	0.000215443
-99	Mug	1	oil filter	6.9955e-05
-100	Mug	1	cup	5.74303e-05
-101	Mug	1	toilet tissue, toilet paper, bathroom tissue	5.15767e-05
-102	Mug	10	cup	0.789365
-103	Mug	10	coffee mug	0.12628
-104	Mug	10	eggnog	0.0269545
-105	Mug	10	measuring cup	0.00827629
-106	Mug	10	mixing bowl	0.00708334
-107	Mug	10	pitcher, ewer	0.00583402
-108	Mug	11	coffeepot	0.354558
-109	Mug	11	coffee mug	0.286634
-110	Mug	11	pitcher, ewer	0.120391
-111	Mug	11	water jug	0.0509134
-112	Mug	11	cup	0.036972
-113	Mug	11	teapot	0.0315061
-114	Mug	12	cup	0.252753
-115	Mug	12	pitcher, ewer	0.19792
-116	Mug	12	coffeepot	0.167189
-117	Mug	12	water jug	0.14241
-118	Mug	12	teapot	0.127456
-119	Mug	12	coffee mug	0.0449206
-120	Mug	13	espresso	0.812187
-121	Mug	13	cup	0.0734903
-122	Mug	13	eggnog	0.0389767
-123	Mug	13	whiskey jug	0.0223832
-124	Mug	13	red wine	0.0106561
-125	Mug	13	coffee mug	0.00977166
-126	Mug	14	coffeepot	0.318758
-127	Mug	14	cup	0.292985
-128	Mug	14	coffee mug	0.120937
-129	Mug	14	pitcher, ewer	0.0834492
-130	Mug	14	teapot	0.0672282
-131	Mug	14	espresso maker	0.0613906
-132	Mug	15	coffee mug	0.558327
-133	Mug	15	cup	0.144567
-134	Mug	15	pitcher, ewer	0.0934391
-135	Mug	15	pot, flowerpot	0.0741374
-136	Mug	15	coffeepot	0.0278677
-137	Mug	15	espresso maker	0.0244704
-138	Mug	16	coffee mug	0.620102
-139	Mug	16	cup	0.259407
-140	Mug	16	measuring cup	0.0335787
-141	Mug	16	whiskey jug	0.0240693
-142	Mug	16	espresso	0.0239411
-143	Mug	16	pitcher, ewer	0.0214044
-144	Mug	2	coffee mug	0.491397
-145	Mug	2	cup	0.33483
-146	Mug	2	binder, ring-binder	0.0305872
-147	Mug	2	pitcher, ewer	0.0281975
-148	Mug	2	beaker	0.0165635
-149	Mug	2	water jug	0.0117714
-150	Mug	3	mixing bowl	0.199263
-151	Mug	3	soup bowl	0.157594
-152	Mug	3	measuring cup	0.0992485
-153	Mug	3	Petri dish	0.068549
-154	Mug	3	consomme	0.063625
-155	Mug	3	cup	0.0362868
-156	Mug	4	neck brace	0.296405
-157	Mug	4	toilet seat	0.16678
-158	Mug	4	muzzle	0.0880359
-159	Mug	4	cradle	0.0749681
-160	Mug	4	buckle	0.0482987
-161	Mug	4	plunger, plumber's helper	0.0214764
-162	Mug	5	cup	0.578329
-163	Mug	5	coffee mug	0.211814
-164	Mug	5	water jug	0.0233758
-165	Mug	5	soup bowl	0.021281
-166	Mug	5	mixing bowl	0.0168629
-167	Mug	5	measuring cup	0.0139762
-168	Mug	6	whiskey jug	0.464647
-169	Mug	6	coffee mug	0.406642
-170	Mug	6	cup	0.073852
-171	Mug	6	water jug	0.0426285
-172	Mug	6	pitcher, ewer	0.00373691
-173	Mug	6	measuring cup	0.00243016
-174	Mug	7	whiskey jug	0.930008
-175	Mug	7	water jug	0.0248793
-176	Mug	7	coffee mug	0.019568
-177	Mug	7	pitcher, ewer	0.0183984
-178	Mug	7	cup	0.00317447
-179	Mug	7	teapot	0.00182774
-180	Mug	8	cup	0.772074
-181	Mug	8	coffee mug	0.172271
-182	Mug	8	measuring cup	0.0170955
-183	Mug	8	pitcher, ewer	0.0165396
-184	Mug	8	water jug	0.00844698
-185	Mug	8	whiskey jug	0.00573841
-186	Mug	9	cup	0.49354
-187	Mug	9	washbasin, handbasin, washbowl, lavabo, wash-hand basin	0.111356
-188	Mug	9	coffee mug	0.0983328
-189	Mug	9	pitcher, ewer	0.0462567
-190	Mug	9	tub, vat	0.0397517
-191	Mug	9	bathtub, bathing tub, bath, tub	0.037109
-192	Mountain	1	lakeside, lakeshore	0.497916
-193	Mountain	1	alp	0.143593
-194	Mountain	1	promontory, headland, head, foreland	0.138696
-195	Mountain	1	volcano	0.072952
-196	Mountain	1	valley, vale	0.0495575
-197	Mountain	1	seashore, coast, seacoast, sea-coast	0.0244944
-198	Mountain	10	valley, vale	0.902327
-199	Mountain	10	alp	0.0759696
-200	Mountain	10	volcano	0.00458383
-201	Mountain	10	promontory, headland, head, foreland	0.00303098
-202	Mountain	10	lakeside, lakeshore	0.00180889
-203	Mountain	10	mountain bike, all-terrain bike, off-roader	0.00161726
-204	Mountain	11	alp	0.850543
-205	Mountain	11	volcano	0.137887
-206	Mountain	11	valley, vale	0.00443166
-207	Mountain	11	promontory, headland, head, foreland	0.00421286
-208	Mountain	11	cliff, drop, drop-off	0.00123494
-209	Mountain	11	mountain tent	0.000455063
-210	Mountain	12	alp	0.799358
-211	Mountain	12	valley, vale	0.198473
-212	Mountain	12	mountain tent	0.00075639
-213	Mountain	12	cliff, drop, drop-off	0.000357189
-214	Mountain	12	volcano	0.000213983
-215	Mountain	12	lakeside, lakeshore	0.000189751
-216	Mountain	13	cliff, drop, drop-off	0.786359
-217	Mountain	13	promontory, headland, head, foreland	0.0985917
-218	Mountain	13	alp	0.0434467
-219	Mountain	13	valley, vale	0.0302643
-220	Mountain	13	monastery	0.0128289
-221	Mountain	13	castle	0.0122616
-222	Mountain	14	alp	0.649869
-223	Mountain	14	volcano	0.200477
-224	Mountain	14	valley, vale	0.0982009
-225	Mountain	14	cliff, drop, drop-off	0.0307188
-226	Mountain	14	promontory, headland, head, foreland	0.0137202
-227	Mountain	14	mountain tent	0.00140746
-228	Mountain	15	volcano	0.101719
-229	Mountain	15	gar, garfish, garpike, billfish, Lepisosteus osseus	0.0546932
-230	Mountain	15	alp	0.0543605
-231	Mountain	15	leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea	0.0470145
-232	Mountain	15	rock crab, Cancer irroratus	0.037188
-233	Mountain	15	grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus	0.0352146
-234	Mountain	16	alp	0.215858
-235	Mountain	16	trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi	0.154806
-236	Mountain	16	bison	0.08966
-237	Mountain	16	barn	0.0674507
-238	Mountain	16	tractor	0.0574266
-239	Mountain	16	valley, vale	0.0536676
-240	Mountain	2	volcano	0.590219
-241	Mountain	2	wing	0.191773
-242	Mountain	2	promontory, headland, head, foreland	0.059377
-243	Mountain	2	sandbar, sand bar	0.0550627
-244	Mountain	2	seashore, coast, seacoast, sea-coast	0.0334054
-245	Mountain	2	loggerhead, loggerhead turtle, Caretta caretta	0.0129313
-246	Mountain	3	alp	0.386212
-247	Mountain	3	geyser	0.207181
-248	Mountain	3	valley, vale	0.15055
-249	Mountain	3	lakeside, lakeshore	0.113692
-250	Mountain	3	canoe	0.0177485
-251	Mountain	3	bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis	0.010067
-252	Mountain	4	valley, vale	0.369394
-253	Mountain	4	mountain tent	0.118976
-254	Mountain	4	promontory, headland, head, foreland	0.10996
-255	Mountain	4	volcano	0.102656
-256	Mountain	4	wing	0.0702832
-257	Mountain	4	lakeside, lakeshore	0.0552327
-258	Mountain	5	alp	0.42726
-259	Mountain	5	valley, vale	0.409275
-260	Mountain	5	volcano	0.0499474
-261	Mountain	5	cliff, drop, drop-off	0.0325487
-262	Mountain	5	lakeside, lakeshore	0.0216083
-263	Mountain	5	promontory, headland, head, foreland	0.00607628
-264	Mountain	6	volcano	0.642404
-265	Mountain	6	valley, vale	0.245419
-266	Mountain	6	alp	0.0924771
-267	Mountain	6	promontory, headland, head, foreland	0.00953867
-268	Mountain	6	cliff, drop, drop-off	0.00300037
-269	Mountain	6	mountain tent	0.000875095
-270	Mountain	7	valley, vale	0.186504
-271	Mountain	7	alp	0.138289
-272	Mountain	7	cliff, drop, drop-off	0.134267
-273	Mountain	7	volcano	0.085865
-274	Mountain	7	ox	0.0563586
-275	Mountain	7	hartebeest	0.050659
-276	Mountain	8	valley, vale	0.30838
-277	Mountain	8	seashore, coast, seacoast, sea-coast	0.234231
-278	Mountain	8	alp	0.174215
-279	Mountain	8	promontory, headland, head, foreland	0.122456
-280	Mountain	8	lakeside, lakeshore	0.0504057
-281	Mountain	8	volcano	0.0190521
-282	Mountain	9	volcano	0.665292
-283	Mountain	9	valley, vale	0.111474
-284	Mountain	9	alp	0.105615
-285	Mountain	9	dam, dike, dyke	0.0189971
-286	Mountain	9	steel arch bridge	0.013083
-287	Mountain	9	suspension bridge	0.011675
-288	Lighthouse	1	beacon, lighthouse, beacon light, pharos	0.963491
-289	Lighthouse	1	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0256223
-290	Lighthouse	1	aircraft carrier, carrier, flattop, attack aircraft carrier	0.00266703
-291	Lighthouse	1	castle	0.00256441
-292	Lighthouse	1	drilling platform, offshore rig	0.00111365
-293	Lighthouse	1	submarine, pigboat, sub, U-boat	0.000741092
-294	Lighthouse	10	beacon, lighthouse, beacon light, pharos	0.965131
-295	Lighthouse	10	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0254814
-296	Lighthouse	10	castle	0.00485068
-297	Lighthouse	10	megalith, megalithic structure	0.00212789
-298	Lighthouse	10	water tower	0.000267055
-299	Lighthouse	10	church, church building	0.00026563
-300	Lighthouse	11	beacon, lighthouse, beacon light, pharos	0.911415
-301	Lighthouse	11	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0774157
-302	Lighthouse	11	monastery	0.00299453
-303	Lighthouse	11	church, church building	0.00281702
-304	Lighthouse	11	boathouse	0.00160358
-305	Lighthouse	11	bell cote, bell cot	0.000899041
-306	Lighthouse	12	beacon, lighthouse, beacon light, pharos	0.903288
-307	Lighthouse	12	ballplayer, baseball player	0.0232594
-308	Lighthouse	12	pole	0.0113405
-309	Lighthouse	12	baseball	0.00481358
-310	Lighthouse	12	pedestal, plinth, footstall	0.00438193
-311	Lighthouse	12	missile	0.0033774
-312	Lighthouse	13	beacon, lighthouse, beacon light, pharos	0.203723
-313	Lighthouse	13	fireboat	0.167717
-314	Lighthouse	13	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.161197
-315	Lighthouse	13	dock, dockage, docking facility	0.150594
-316	Lighthouse	13	drilling platform, offshore rig	0.0594417
-317	Lighthouse	13	lifeboat	0.0406451
-318	Lighthouse	14	container ship, containership, container vessel	0.751948
-319	Lighthouse	14	drilling platform, offshore rig	0.174743
-320	Lighthouse	14	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0161741
-321	Lighthouse	14	beacon, lighthouse, beacon light, pharos	0.0140801
-322	Lighthouse	14	dock, dockage, docking facility	0.00800559
-323	Lighthouse	14	fireboat	0.00699772
-324	Lighthouse	15	beacon, lighthouse, beacon light, pharos	0.756585
-325	Lighthouse	15	dome	0.0732686
-326	Lighthouse	15	monastery	0.0570798
-327	Lighthouse	15	palace	0.0566495
-328	Lighthouse	15	picket fence, paling	0.0138431
-329	Lighthouse	15	church, church building	0.00828214
-330	Lighthouse	16	maypole	0.209854
-331	Lighthouse	16	drilling platform, offshore rig	0.189234
-332	Lighthouse	16	beacon, lighthouse, beacon light, pharos	0.134024
-333	Lighthouse	16	crane	0.0581287
-334	Lighthouse	16	totem pole	0.0458869
-335	Lighthouse	16	pole	0.0376547
-336	Lighthouse	2	beacon, lighthouse, beacon light, pharos	0.909818
-337	Lighthouse	2	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0893914
-338	Lighthouse	2	submarine, pigboat, sub, U-boat	0.000339544
-339	Lighthouse	2	promontory, headland, head, foreland	0.000164056
-340	Lighthouse	2	castle	8.10527e-05
-341	Lighthouse	2	lakeside, lakeshore	4.37682e-05
-342	Lighthouse	3	beacon, lighthouse, beacon light, pharos	0.398925
-343	Lighthouse	3	submarine, pigboat, sub, U-boat	0.0984485
-344	Lighthouse	3	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.093575
-345	Lighthouse	3	container ship, containership, container vessel	0.0858065
-346	Lighthouse	3	drilling platform, offshore rig	0.0807604
-347	Lighthouse	3	liner, ocean liner	0.0646392
-348	Lighthouse	4	beacon, lighthouse, beacon light, pharos	0.90661
-349	Lighthouse	4	water tower	0.0670614
-350	Lighthouse	4	mosque	0.00636168
-351	Lighthouse	4	dome	0.00437236
-352	Lighthouse	4	pedestal, plinth, footstall	0.00257043
-353	Lighthouse	4	bell cote, bell cot	0.00174032
-354	Lighthouse	5	beacon, lighthouse, beacon light, pharos	0.98422
-355	Lighthouse	5	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0157799
-356	Lighthouse	5	dumbbell	0.0
-357	Lighthouse	5	carbonara	0.0
-358	Lighthouse	5	stole	0.0
-359	Lighthouse	5	rubber eraser, rubber, pencil eraser	0.0
-360	Lighthouse	6	beacon, lighthouse, beacon light, pharos	0.950696
-361	Lighthouse	6	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0425294
-362	Lighthouse	6	drilling platform, offshore rig	0.00256021
-363	Lighthouse	6	promontory, headland, head, foreland	0.000754039
-364	Lighthouse	6	pedestal, plinth, footstall	0.000473164
-365	Lighthouse	6	lakeside, lakeshore	0.000291841
-366	Lighthouse	7	promontory, headland, head, foreland	0.475204
-367	Lighthouse	7	seashore, coast, seacoast, sea-coast	0.282683
-368	Lighthouse	7	lakeside, lakeshore	0.0983737
-369	Lighthouse	7	dock, dockage, docking facility	0.0256461
-370	Lighthouse	7	dam, dike, dyke	0.0228901
-371	Lighthouse	7	sandbar, sand bar	0.0181434
-372	Lighthouse	8	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.411031
-373	Lighthouse	8	boathouse	0.189465
-374	Lighthouse	8	pier	0.134985
-375	Lighthouse	8	dock, dockage, docking facility	0.0457443
-376	Lighthouse	8	dam, dike, dyke	0.0394329
-377	Lighthouse	8	lakeside, lakeshore	0.0342337
-378	Lighthouse	9	beacon, lighthouse, beacon light, pharos	0.272933
-379	Lighthouse	9	guillotine	0.119158
-380	Lighthouse	9	drilling platform, offshore rig	0.0454226
-381	Lighthouse	9	pole	0.0451599
-382	Lighthouse	9	cocktail shaker	0.0332051
-383	Lighthouse	9	totem pole	0.0323084
-384	Church	1	greenhouse, nursery, glasshouse	0.591222
-385	Church	1	dome	0.332678
-386	Church	1	mosque	0.031998
-387	Church	1	church, church building	0.0118822
-388	Church	1	barn	0.0105276
-389	Church	1	planetarium	0.00877376
-390	Church	10	church, church building	0.794924
-391	Church	10	monastery	0.106981
-392	Church	10	bell cote, bell cot	0.0882231
-393	Church	10	palace	0.0035352
-394	Church	10	castle	0.00186623
-395	Church	10	dome	0.00154479
-396	Church	11	prison, prison house	0.21259
-397	Church	11	fire screen, fireguard	0.107244
-398	Church	11	planetarium	0.106728
-399	Church	11	mobile home, manufactured home	0.084366
-400	Church	11	barn	0.0698839
-401	Church	11	monastery	0.0604257
-402	Church	12	church, church building	0.86997
-403	Church	12	dome	0.0883831
-404	Church	12	monastery	0.0366473
-405	Church	12	palace	0.00367947
-406	Church	12	bell cote, bell cot	0.000566622
-407	Church	12	mosque	0.000331888
-408	Church	13	church, church building	0.967397
-409	Church	13	barn	0.0194573
-410	Church	13	monastery	0.0102041
-411	Church	13	castle	0.00146929
-412	Church	13	bell cote, bell cot	0.0012884
-413	Church	13	boathouse	0.000123967
-414	Church	14	palace	0.666856
-415	Church	14	monastery	0.105054
-416	Church	14	gondola	0.0527474
-417	Church	14	castle	0.0523917
-418	Church	14	church, church building	0.0382844
-419	Church	14	bell cote, bell cot	0.0131344
-420	Church	15	stupa, tope	0.199472
-421	Church	15	church, church building	0.0803057
-422	Church	15	monastery	0.0511357
-423	Church	15	park bench	0.0470711
-424	Church	15	tile roof	0.0457392
-425	Church	15	castle	0.0435399
-426	Church	16	palace	0.406769
-427	Church	16	church, church building	0.297482
-428	Church	16	castle	0.122823
-429	Church	16	monastery	0.115354
-430	Church	16	bell cote, bell cot	0.0233354
-431	Church	16	triumphal arch	0.0119538
-432	Church	2	church, church building	0.930169
-433	Church	2	castle	0.0383354
-434	Church	2	monastery	0.0244081
-435	Church	2	bell cote, bell cot	0.00514392
-436	Church	2	barn	0.000907748
-437	Church	2	palace	0.000285182
-438	Church	3	monastery	0.275922
-439	Church	3	beacon, lighthouse, beacon light, pharos	0.201094
-440	Church	3	church, church building	0.0926699
-441	Church	3	bell cote, bell cot	0.090578
-442	Church	3	castle	0.0610291
-443	Church	3	harvester, reaper	0.021638
-444	Church	4	church, church building	0.903812
-445	Church	4	monastery	0.0235059
-446	Church	4	bell cote, bell cot	0.0224783
-447	Church	4	missile	0.0114006
-448	Church	4	projectile, missile	0.0112674
-449	Church	4	beacon, lighthouse, beacon light, pharos	0.00449736
-450	Church	5	church, church building	0.963261
-451	Church	5	bell cote, bell cot	0.0128516
-452	Church	5	barn	0.00883058
-453	Church	5	monastery	0.00495538
-454	Church	5	castle	0.00463067
-455	Church	5	beacon, lighthouse, beacon light, pharos	0.00202969
-456	Church	6	barn	0.99742
-457	Church	6	church, church building	0.00205684
-458	Church	6	boathouse	0.000492785
-459	Church	6	beacon, lighthouse, beacon light, pharos	7.42852e-06
-460	Church	6	worm fence, snake fence, snake-rail fence, Virginia fence	6.032e-06
-461	Church	6	birdhouse	5.32588e-06
-462	Church	7	monastery	0.345922
-463	Church	7	church, church building	0.195434
-464	Church	7	beacon, lighthouse, beacon light, pharos	0.178841
-465	Church	7	bell cote, bell cot	0.0693563
-466	Church	7	dome	0.0427588
-467	Church	7	mosque	0.0422155
-468	Church	8	church, church building	0.601947
-469	Church	8	barn	0.225719
-470	Church	8	boathouse	0.113131
-471	Church	8	birdhouse	0.0407926
-472	Church	8	picket fence, paling	0.00718102
-473	Church	8	beacon, lighthouse, beacon light, pharos	0.00426403
-474	Church	9	church, church building	0.737853
-475	Church	9	monastery	0.131847
-476	Church	9	palace	0.0474119
-477	Church	9	bell cote, bell cot	0.0238031
-478	Church	9	vault	0.018774
-479	Church	9	altar	0.0144987
-480	Car	1	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.312566
-481	Car	1	tow truck, tow car, wrecker	0.143237
-482	Car	1	limousine, limo	0.0974719
-483	Car	1	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria	0.0869667
-484	Car	1	car wheel	0.0566886
-485	Car	1	ambulance	0.0432228
-486	Car	10	sports car, sport car	0.266801
-487	Car	10	racer, race car, racing car	0.19692
-488	Car	10	convertible	0.185195
-489	Car	10	minivan	0.058463
-490	Car	10	car wheel	0.0546575
-491	Car	10	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.0496901
-492	Car	11	convertible	0.522898
-493	Car	11	sports car, sport car	0.159864
-494	Car	11	racer, race car, racing car	0.0834164
-495	Car	11	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.074058
-496	Car	11	car wheel	0.0511419
-497	Car	11	grille, radiator grille	0.0504213
-498	Car	12	convertible	0.215079
-499	Car	12	sports car, sport car	0.195892
-500	Car	12	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.155665
-501	Car	12	pickup, pickup truck	0.115836
-502	Car	12	car wheel	0.0749292
-503	Car	12	minivan	0.0589476
-504	Car	13	warplane, military plane	0.664101
-505	Car	13	airliner	0.147208
-506	Car	13	wing	0.127844
-507	Car	13	bobsled, bobsleigh, bob	0.0187191
-508	Car	13	sports car, sport car	0.00824921
-509	Car	13	projectile, missile	0.00638639
-510	Car	14	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.45283
-511	Car	14	cab, hack, taxi, taxicab	0.205962
-512	Car	14	pickup, pickup truck	0.0596717
-513	Car	14	limousine, limo	0.0436473
-514	Car	14	minivan	0.0423085
-515	Car	14	grille, radiator grille	0.0388397
-516	Car	15	racer, race car, racing car	0.711094
-517	Car	15	sports car, sport car	0.281806
-518	Car	15	car wheel	0.0025745
-519	Car	15	convertible	0.00199535
-520	Car	15	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.000559481
-521	Car	15	grille, radiator grille	0.000487446
-522	Car	16	canoe	0.471279
-523	Car	16	mountain tent	0.0944182
-524	Car	16	sports car, sport car	0.0696237
-525	Car	16	convertible	0.0672617
-526	Car	16	paddle, boat paddle	0.0556035
-527	Car	16	Loafer	0.0544229
-528	Car	2	sports car, sport car	0.383762
-529	Car	2	racer, race car, racing car	0.174585
-530	Car	2	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.0974807
-531	Car	2	passenger car, coach, carriage	0.0472801
-532	Car	2	car wheel	0.0461368
-533	Car	2	minivan	0.0366366
-534	Car	3	sports car, sport car	0.543578
-535	Car	3	racer, race car, racing car	0.429924
-536	Car	3	pickup, pickup truck	0.00884881
-537	Car	3	convertible	0.00642383
-538	Car	3	car wheel	0.00384402
-539	Car	3	tow truck, tow car, wrecker	0.00126847
-540	Car	4	racer, race car, racing car	0.370818
-541	Car	4	sports car, sport car	0.268289
-542	Car	4	convertible	0.237725
-543	Car	4	car wheel	0.0374799
-544	Car	4	grille, radiator grille	0.0257734
-545	Car	4	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria	0.00963592
-546	Car	5	barber chair	0.431559
-547	Car	5	barbershop	0.182
-548	Car	5	jinrikisha, ricksha, rickshaw	0.0301581
-549	Car	5	motor scooter, scooter	0.0236296
-550	Car	5	Model T	0.0223542
-551	Car	5	folding chair	0.018168
-552	Car	6	racer, race car, racing car	0.645679
-553	Car	6	sports car, sport car	0.260326
-554	Car	6	passenger car, coach, carriage	0.0187664
-555	Car	6	car wheel	0.0163621
-556	Car	6	limousine, limo	0.0135179
-557	Car	6	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria	0.00986695
-558	Car	7	muzzle	0.468822
-559	Car	7	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.135695
-560	Car	7	mailbag, postbag	0.0767971
-561	Car	7	convertible	0.0531959
-562	Car	7	cassette player	0.0348415
-563	Car	7	carpenter's kit, tool kit	0.0211238
-564	Car	8	jeep, landrover	0.163191
-565	Car	8	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.14445
-566	Car	8	pickup, pickup truck	0.129524
-567	Car	8	car wheel	0.128587
-568	Car	8	sports car, sport car	0.103117
-569	Car	8	convertible	0.0844044
-570	Car	9	convertible	0.453877
-571	Car	9	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.277009
-572	Car	9	pickup, pickup truck	0.106673
-573	Car	9	grille, radiator grille	0.0319171
-574	Car	9	limousine, limo	0.0229311
-575	Car	9	car wheel	0.0191601
-576	Beach	1	promontory, headland, head, foreland	0.824225
-577	Beach	1	seashore, coast, seacoast, sea-coast	0.148282
-578	Beach	1	cliff, drop, drop-off	0.0134161
-579	Beach	1	lakeside, lakeshore	0.00618154
-580	Beach	1	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.00546574
-581	Beach	1	beacon, lighthouse, beacon light, pharos	0.00161287
-582	Beach	10	seashore, coast, seacoast, sea-coast	0.742214
-583	Beach	10	parachute, chute	0.0553395
-584	Beach	10	sandbar, sand bar	0.0435168
-585	Beach	10	balloon	0.0231833
-586	Beach	10	cliff, drop, drop-off	0.022129
-587	Beach	10	hay	0.00902861
-588	Beach	11	volcano	0.43038
-589	Beach	11	geyser	0.229394
-590	Beach	11	seashore, coast, seacoast, sea-coast	0.142808
-591	Beach	11	space shuttle	0.045732
-592	Beach	11	cliff, drop, drop-off	0.0212633
-593	Beach	11	promontory, headland, head, foreland	0.0194908
-594	Beach	12	promontory, headland, head, foreland	0.627165
-595	Beach	12	seashore, coast, seacoast, sea-coast	0.344206
-596	Beach	12	cliff, drop, drop-off	0.00952694
-597	Beach	12	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.00644916
-598	Beach	12	sandbar, sand bar	0.00500727
-599	Beach	12	lakeside, lakeshore	0.00448888
-600	Beach	13	seashore, coast, seacoast, sea-coast	0.295284
-601	Beach	13	grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus	0.0370843
-602	Beach	13	lakeside, lakeshore	0.0346114
-603	Beach	13	sandbar, sand bar	0.031518
-604	Beach	13	promontory, headland, head, foreland	0.0264323
-605	Beach	13	leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea	0.0262482
-606	Beach	14	sandbar, sand bar	0.248104
-607	Beach	14	promontory, headland, head, foreland	0.243763
-608	Beach	14	seashore, coast, seacoast, sea-coast	0.223594
-609	Beach	14	lakeside, lakeshore	0.0675693
-610	Beach	14	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0320708
-611	Beach	14	leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea	0.0226794
-612	Beach	15	promontory, headland, head, foreland	0.813985
-613	Beach	15	seashore, coast, seacoast, sea-coast	0.114138
-614	Beach	15	lakeside, lakeshore	0.0298694
-615	Beach	15	coral reef	0.0197433
-616	Beach	15	cliff, drop, drop-off	0.0191669
-617	Beach	15	beacon, lighthouse, beacon light, pharos	0.000811655
-618	Beach	16	promontory, headland, head, foreland	0.841406
-619	Beach	16	cliff, drop, drop-off	0.116977
-620	Beach	16	seashore, coast, seacoast, sea-coast	0.0312965
-621	Beach	16	lakeside, lakeshore	0.00291033
-622	Beach	16	grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus	0.00198553
-623	Beach	16	valley, vale	0.00173287
-624	Beach	2	canoe	0.16516
-625	Beach	2	boathouse	0.130131
-626	Beach	2	mountain tent	0.085632
-627	Beach	2	lakeside, lakeshore	0.0822978
-628	Beach	2	yawl	0.0633181
-629	Beach	2	patio, terrace	0.0374251
-630	Beach	3	seashore, coast, seacoast, sea-coast	0.900814
-631	Beach	3	sandbar, sand bar	0.0501774
-632	Beach	3	lakeside, lakeshore	0.01848
-633	Beach	3	promontory, headland, head, foreland	0.00840676
-634	Beach	3	geyser	0.00604855
-635	Beach	3	volcano	0.00508708
-636	Beach	4	seashore, coast, seacoast, sea-coast	0.857923
-637	Beach	4	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0432628
-638	Beach	4	lakeside, lakeshore	0.0391329
-639	Beach	4	beacon, lighthouse, beacon light, pharos	0.0185272
-640	Beach	4	sandbar, sand bar	0.0112961
-641	Beach	4	promontory, headland, head, foreland	0.00770552
-642	Beach	5	seashore, coast, seacoast, sea-coast	0.780208
-643	Beach	5	promontory, headland, head, foreland	0.202419
-644	Beach	5	sandbar, sand bar	0.00490559
-645	Beach	5	lakeside, lakeshore	0.00374464
-646	Beach	5	cliff, drop, drop-off	0.00250496
-647	Beach	5	valley, vale	0.00195297
-648	Beach	6	seashore, coast, seacoast, sea-coast	0.842669
-649	Beach	6	dock, dockage, docking facility	0.031241
-650	Beach	6	wreck	0.0270361
-651	Beach	6	pier	0.0260354
-652	Beach	6	crane	0.0118464
-653	Beach	6	drilling platform, offshore rig	0.00847419
-654	Beach	7	sandbar, sand bar	0.87521
-655	Beach	7	seashore, coast, seacoast, sea-coast	0.124639
-656	Beach	7	lakeside, lakeshore	0.000128001
-657	Beach	7	coral reef	1.7832e-05
-658	Beach	7	speedboat	5.01923e-06
-659	Beach	7	dumbbell	0.0
-660	Beach	8	sandbar, sand bar	0.858256
-661	Beach	8	seashore, coast, seacoast, sea-coast	0.139485
-662	Beach	8	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.000428654
-663	Beach	8	speedboat	0.000332606
-664	Beach	8	promontory, headland, head, foreland	0.000321486
-665	Beach	8	lakeside, lakeshore	0.000280333
-666	Beach	9	fountain	0.212569
-667	Beach	9	spider web, spider's web	0.139446
-668	Beach	9	dam, dike, dyke	0.137398
-669	Beach	9	electric fan, blower	0.0473551
-670	Beach	9	steel arch bridge	0.0292353
-671	Beach	9	shopping cart	0.0284853
-672	Banana	1	banana	0.980348
-673	Banana	1	acorn squash	0.00572604
-674	Banana	1	jackfruit, jak, jack	0.00449457
-675	Banana	1	zucchini, courgette	0.00445303
-676	Banana	1	spaghetti squash	0.000995224
-677	Banana	1	artichoke, globe artichoke	0.000580317
-678	Banana	10	banana	0.963894
-679	Banana	10	cucumber, cuke	0.0245872
-680	Banana	10	Granny Smith	0.00502093
-681	Banana	10	mortar	0.00224281
-682	Banana	10	bell pepper	0.00133823
-683	Banana	10	zucchini, courgette	0.000987018
-684	Banana	11	hook, claw	0.186443
-685	Banana	11	mortar	0.168196
-686	Banana	11	ocarina, sweet potato	0.113068
-687	Banana	11	Loafer	0.0767715
-688	Banana	11	plunger, plumber's helper	0.0762677
-689	Banana	11	clog, geta, patten, sabot	0.0491459
-690	Banana	12	pencil sharpener	0.1588
-691	Banana	12	whistle	0.10721
-692	Banana	12	mousetrap	0.104821
-693	Banana	12	hammer	0.0749687
-694	Banana	12	nipple	0.0495378
-695	Banana	12	paintbrush	0.0398688
-696	Banana	13	banana	0.977351
-697	Banana	13	paddle, boat paddle	0.00387004
-698	Banana	13	maraca	0.00341867
-699	Banana	13	airship, dirigible	0.00211598
-700	Banana	13	screwdriver	0.00157965
-701	Banana	13	whistle	0.0010358
-702	Banana	14	toilet seat	0.447384
-703	Banana	14	hook, claw	0.12109
-704	Banana	14	nematode, nematode worm, roundworm	0.0466684
-705	Banana	14	iron, smoothing iron	0.0457245
-706	Banana	14	shower curtain	0.0261817
-707	Banana	14	street sign	0.0238364
-708	Banana	15	slug	0.511153
-709	Banana	15	hook, claw	0.202237
-710	Banana	15	nematode, nematode worm, roundworm	0.0667527
-711	Banana	15	thunder snake, worm snake, Carphophis amoenus	0.0572327
-712	Banana	15	eel	0.0440414
-713	Banana	15	Indian cobra, Naja naja	0.0209763
-714	Banana	16	banana	0.65047
-715	Banana	16	lemon	0.195996
-716	Banana	16	nipple	0.0214623
-717	Banana	16	flatworm, platyhelminth	0.00768184
-718	Banana	16	maraca	0.00766335
-719	Banana	16	Granny Smith	0.0074718
-720	Banana	2	rock beauty, Holocanthus tricolor	0.417461
-721	Banana	2	banana	0.123135
-722	Banana	2	sea slug, nudibranch	0.115428
-723	Banana	2	flatworm, platyhelminth	0.0296678
-724	Banana	2	plate	0.0218385
-725	Banana	2	anemone fish	0.0213516
-726	Banana	3	banana	0.418747
-727	Banana	3	coil, spiral, volute, whorl, helix	0.411786
-728	Banana	3	vine snake	0.037956
-729	Banana	3	hook, claw	0.0273512
-730	Banana	3	cup	0.0194788
-731	Banana	3	flatworm, platyhelminth	0.0139432
-732	Banana	4	banana	0.618004
-733	Banana	4	bell pepper	0.142925
-734	Banana	4	cucumber, cuke	0.0726337
-735	Banana	4	coil, spiral, volute, whorl, helix	0.0178078
-736	Banana	4	mortar	0.0171679
-737	Banana	4	vine snake	0.0158754
-738	Banana	5	banana	0.364579
-739	Banana	5	cup	0.121272
-740	Banana	5	coil, spiral, volute, whorl, helix	0.0725849
-741	Banana	5	mixing bowl	0.0549405
-742	Banana	5	Granny Smith	0.0447848
-743	Banana	5	soup bowl	0.0387749
-744	Banana	6	banana	0.962737
-745	Banana	6	acorn squash	0.00525043
-746	Banana	6	jackfruit, jak, jack	0.00368097
-747	Banana	6	zucchini, courgette	0.00301229
-748	Banana	6	nipple	0.0029129
-749	Banana	6	corn	0.00174055
-750	Banana	7	banana	1.0
-751	Banana	7	dumbbell	0.0
-752	Banana	7	carbonara	0.0
-753	Banana	7	stole	0.0
-754	Banana	7	rubber eraser, rubber, pencil eraser	0.0
-755	Banana	7	coffee mug	0.0
-756	Banana	8	banana	0.878092
-757	Banana	8	Loafer	0.0356656
-758	Banana	8	clog, geta, patten, sabot	0.0332859
-759	Banana	8	sandal	0.0225568
-760	Banana	8	spaghetti squash	0.00248008
-761	Banana	8	sombrero	0.00245616
-762	Banana	9	banana	0.892834
-763	Banana	9	lemon	0.0367536
-764	Banana	9	coil, spiral, volute, whorl, helix	0.00729105
-765	Banana	9	orange	0.00643005
-766	Banana	9	hook, claw	0.00522206
-767	Banana	9	nipple	0.0034955
+6	Plane	1	dumbbell	0.0
+7	Plane	1	carbonara	0.0
+8	Plane	1	stole	0.0
+9	Plane	1	rubber eraser, rubber, pencil eraser	0.0
+10	Plane	10	airliner	0.853171
+11	Plane	10	wing	0.114073
+12	Plane	10	warplane, military plane	0.0317416
+13	Plane	10	space shuttle	0.000528623
+14	Plane	10	missile	0.000261193
+15	Plane	10	airship, dirigible	9.85996e-05
+16	Plane	10	projectile, missile	9.04096e-05
+17	Plane	10	aircraft carrier, carrier, flattop, attack aircraft carrier	3.52867e-05
+18	Plane	10	dumbbell	0.0
+19	Plane	10	carbonara	0.0
+20	Plane	11	airliner	0.48174
+21	Plane	11	wing	0.148844
+22	Plane	11	albatross, mollymawk	0.0816696
+23	Plane	11	projectile, missile	0.0463269
+24	Plane	11	warplane, military plane	0.0420432
+25	Plane	11	missile	0.0412677
+26	Plane	11	hammerhead, hammerhead shark	0.0301876
+27	Plane	11	trimaran	0.0167051
+28	Plane	11	aircraft carrier, carrier, flattop, attack aircraft carrier	0.0121321
+29	Plane	11	space shuttle	0.00905624
+30	Plane	12	wing	0.318848
+31	Plane	12	paddlewheel, paddle wheel	0.162182
+32	Plane	12	airliner	0.113196
+33	Plane	12	warplane, military plane	0.0888902
+34	Plane	12	flagpole, flagstaff	0.0568033
+35	Plane	12	ski	0.0545853
+36	Plane	12	crane	0.0451299
+37	Plane	12	missile	0.0383445
+38	Plane	12	projectile, missile	0.0227898
+39	Plane	12	pole	0.0184259
+40	Plane	13	warplane, military plane	0.145282
+41	Plane	13	recreational vehicle, RV, R.V.	0.140773
+42	Plane	13	wing	0.140152
+43	Plane	13	stretcher	0.0790349
+44	Plane	13	tow truck, tow car, wrecker	0.0775182
+45	Plane	13	airliner	0.0573646
+46	Plane	13	sports car, sport car	0.0458184
+47	Plane	13	minibus	0.0371879
+48	Plane	13	amphibian, amphibious vehicle	0.036519
+49	Plane	13	racer, race car, racing car	0.0339848
+50	Plane	14	pier	0.352139
+51	Plane	14	dam, dike, dyke	0.291537
+52	Plane	14	steel arch bridge	0.145052
+53	Plane	14	submarine, pigboat, sub, U-boat	0.0415433
+54	Plane	14	suspension bridge	0.0369933
+55	Plane	14	paddlewheel, paddle wheel	0.0218083
+56	Plane	14	wreck	0.0147992
+57	Plane	14	bannister, banister, balustrade, balusters, handrail	0.0112704
+58	Plane	14	plate rack	0.00739874
+59	Plane	14	fireboat	0.00726748
+60	Plane	15	speedboat	0.926128
+61	Plane	15	trimaran	0.0422433
+62	Plane	15	catamaran	0.0159208
+63	Plane	15	canoe	0.00249835
+64	Plane	15	paddle, boat paddle	0.00241146
+65	Plane	15	amphibian, amphibious vehicle	0.00158919
+66	Plane	15	airliner	0.00126975
+67	Plane	15	sandbar, sand bar	0.00121786
+68	Plane	15	yawl	0.00094207
+69	Plane	15	warplane, military plane	0.000763657
+70	Plane	16	projectile, missile	0.20134
+71	Plane	16	space shuttle	0.187483
+72	Plane	16	missile	0.163286
+73	Plane	16	wing	0.140229
+74	Plane	16	airliner	0.137867
+75	Plane	16	warplane, military plane	0.136768
+76	Plane	16	hammerhead, hammerhead shark	0.00845594
+77	Plane	16	aircraft carrier, carrier, flattop, attack aircraft carrier	0.00828875
+78	Plane	16	trimaran	0.00666841
+79	Plane	16	tiger shark, Galeocerdo cuvieri	0.00170298
+80	Plane	2	airliner	0.939321
+81	Plane	2	wing	0.0386971
+82	Plane	2	warplane, military plane	0.00898358
+83	Plane	2	space shuttle	0.00419727
+84	Plane	2	trimaran	0.00241551
+85	Plane	2	speedboat	0.000986692
+86	Plane	2	missile	0.000900757
+87	Plane	2	airship, dirigible	0.000900693
+88	Plane	2	aircraft carrier, carrier, flattop, attack aircraft carrier	0.000846856
+89	Plane	2	catamaran	0.000744023
+90	Plane	3	syringe	0.292596
+91	Plane	3	grocery store, grocery, food market, market	0.151929
+92	Plane	3	shoe shop, shoe-shop, shoe store	0.0892613
+93	Plane	3	tobacco shop, tobacconist shop, tobacconist	0.0781058
+94	Plane	3	confectionery, confectionary, candy store	0.0378539
+95	Plane	3	toyshop	0.023478
+96	Plane	3	broom	0.0181639
+97	Plane	3	screwdriver	0.0128658
+98	Plane	3	paintbrush	0.0118624
+99	Plane	3	beer bottle	0.011219
+100	Plane	4	space shuttle	0.700098
+101	Plane	4	projectile, missile	0.136127
+102	Plane	4	missile	0.126056
+103	Plane	4	airliner	0.012506
+104	Plane	4	trimaran	0.00540195
+105	Plane	4	warplane, military plane	0.00326667
+106	Plane	4	catamaran	0.00255618
+107	Plane	4	airship, dirigible	0.00163389
+108	Plane	4	cannon	0.00132394
+109	Plane	4	yawl	0.00124336
+110	Plane	5	airliner	0.580632
+111	Plane	5	warplane, military plane	0.228967
+112	Plane	5	wing	0.120959
+113	Plane	5	projectile, missile	0.0299128
+114	Plane	5	missile	0.0168287
+115	Plane	5	space shuttle	0.00558403
+116	Plane	5	parachute, chute	0.00539271
+117	Plane	5	aircraft carrier, carrier, flattop, attack aircraft carrier	0.00220457
+118	Plane	5	airship, dirigible	0.00197008
+119	Plane	5	pole	0.00110144
+120	Plane	6	airliner	0.886743
+121	Plane	6	aircraft carrier, carrier, flattop, attack aircraft carrier	0.0308831
+122	Plane	6	crane	0.0192143
+123	Plane	6	wing	0.0166385
+124	Plane	6	warplane, military plane	0.0129054
+125	Plane	6	dock, dockage, docking facility	0.00992384
+126	Plane	6	pirate, pirate ship	0.00414992
+127	Plane	6	drilling platform, offshore rig	0.00242719
+128	Plane	6	seashore, coast, seacoast, sea-coast	0.00191144
+129	Plane	6	liner, ocean liner	0.00188039
+130	Plane	7	airliner	0.604527
+131	Plane	7	space shuttle	0.227538
+132	Plane	7	warplane, military plane	0.0582941
+133	Plane	7	missile	0.0258151
+134	Plane	7	wing	0.0229672
+135	Plane	7	projectile, missile	0.0170509
+136	Plane	7	starfish, sea star	0.0164453
+137	Plane	7	obelisk	0.0111692
+138	Plane	7	aircraft carrier, carrier, flattop, attack aircraft carrier	0.00383797
+139	Plane	7	drilling platform, offshore rig	0.00275473
+140	Plane	8	iron, smoothing iron	0.168521
+141	Plane	8	mouse, computer mouse	0.0517568
+142	Plane	8	rule, ruler	0.0474643
+143	Plane	8	ocarina, sweet potato	0.0398977
+144	Plane	8	umbrella	0.0385147
+145	Plane	8	pencil box, pencil case	0.0330757
+146	Plane	8	vacuum, vacuum cleaner	0.0322726
+147	Plane	8	electric fan, blower	0.0310806
+148	Plane	8	shopping cart	0.0294654
+149	Plane	8	electric guitar	0.0289116
+150	Plane	9	airliner	0.797421
+151	Plane	9	wing	0.178763
+152	Plane	9	warplane, military plane	0.023454
+153	Plane	9	missile	0.000185571
+154	Plane	9	projectile, missile	0.000134429
+155	Plane	9	space shuttle	3.79056e-05
+156	Plane	9	stretcher	4.31359e-06
+157	Plane	9	dumbbell	0.0
+158	Plane	9	carbonara	0.0
+159	Plane	9	stole	0.0
+160	Mug	1	pill bottle	0.998742
+161	Mug	1	coffee mug	0.000667793
+162	Mug	1	sunscreen, sunblock, sun blocker	0.000215443
+163	Mug	1	oil filter	6.9955e-05
+164	Mug	1	cup	5.74303e-05
+165	Mug	1	toilet tissue, toilet paper, bathroom tissue	5.15767e-05
+166	Mug	1	lotion	5.0277e-05
+167	Mug	1	whiskey jug	3.28281e-05
+168	Mug	1	face powder	3.15492e-05
+169	Mug	1	measuring cup	2.63556e-05
+170	Mug	10	cup	0.789365
+171	Mug	10	coffee mug	0.12628
+172	Mug	10	eggnog	0.0269545
+173	Mug	10	measuring cup	0.00827629
+174	Mug	10	mixing bowl	0.00708334
+175	Mug	10	pitcher, ewer	0.00583402
+176	Mug	10	beer glass	0.00454422
+177	Mug	10	candle, taper, wax light	0.004159
+178	Mug	10	water jug	0.003809
+179	Mug	10	strainer	0.00373581
+180	Mug	11	coffeepot	0.354558
+181	Mug	11	coffee mug	0.286634
+182	Mug	11	pitcher, ewer	0.120391
+183	Mug	11	water jug	0.0509134
+184	Mug	11	cup	0.036972
+185	Mug	11	teapot	0.0315061
+186	Mug	11	saltshaker, salt shaker	0.0231205
+187	Mug	11	vase	0.0214938
+188	Mug	11	whiskey jug	0.0131453
+189	Mug	11	soap dispenser	0.00598217
+190	Mug	12	cup	0.252753
+191	Mug	12	pitcher, ewer	0.19792
+192	Mug	12	coffeepot	0.167189
+193	Mug	12	water jug	0.14241
+194	Mug	12	teapot	0.127456
+195	Mug	12	coffee mug	0.0449206
+196	Mug	12	measuring cup	0.0137491
+197	Mug	12	whiskey jug	0.0132461
+198	Mug	12	mortar	0.00551865
+199	Mug	12	saltshaker, salt shaker	0.00426801
+200	Mug	13	espresso	0.812187
+201	Mug	13	cup	0.0734903
+202	Mug	13	eggnog	0.0389767
+203	Mug	13	whiskey jug	0.0223832
+204	Mug	13	red wine	0.0106561
+205	Mug	13	coffee mug	0.00977166
+206	Mug	13	water jug	0.00704087
+207	Mug	13	espresso maker	0.00700317
+208	Mug	13	pitcher, ewer	0.00444571
+209	Mug	13	beer glass	0.00388021
+210	Mug	14	coffeepot	0.318758
+211	Mug	14	cup	0.292985
+212	Mug	14	coffee mug	0.120937
+213	Mug	14	pitcher, ewer	0.0834492
+214	Mug	14	teapot	0.0672282
+215	Mug	14	espresso maker	0.0613906
+216	Mug	14	whiskey jug	0.0216302
+217	Mug	14	water jug	0.0186306
+218	Mug	14	soap dispenser	0.0100134
+219	Mug	14	espresso	0.0016919
+220	Mug	15	coffee mug	0.558327
+221	Mug	15	cup	0.144567
+222	Mug	15	pitcher, ewer	0.0934391
+223	Mug	15	pot, flowerpot	0.0741374
+224	Mug	15	coffeepot	0.0278677
+225	Mug	15	espresso maker	0.0244704
+226	Mug	15	measuring cup	0.0203048
+227	Mug	15	mortar	0.0108848
+228	Mug	15	espresso	0.0100752
+229	Mug	15	bucket, pail	0.00735185
+230	Mug	16	coffee mug	0.620102
+231	Mug	16	cup	0.259407
+232	Mug	16	measuring cup	0.0335787
+233	Mug	16	whiskey jug	0.0240693
+234	Mug	16	espresso	0.0239411
+235	Mug	16	pitcher, ewer	0.0214044
+236	Mug	16	water jug	0.00292173
+237	Mug	16	vase	0.00200757
+238	Mug	16	beaker	0.00180649
+239	Mug	16	cocktail shaker	0.0017447
+240	Mug	2	coffee mug	0.491397
+241	Mug	2	cup	0.33483
+242	Mug	2	binder, ring-binder	0.0305872
+243	Mug	2	pitcher, ewer	0.0281975
+244	Mug	2	beaker	0.0165635
+245	Mug	2	water jug	0.0117714
+246	Mug	2	lighter, light, igniter, ignitor	0.00963711
+247	Mug	2	pillow	0.00905632
+248	Mug	2	coffeepot	0.00762945
+249	Mug	2	measuring cup	0.00435358
+250	Mug	3	mixing bowl	0.199263
+251	Mug	3	soup bowl	0.157594
+252	Mug	3	measuring cup	0.0992485
+253	Mug	3	Petri dish	0.068549
+254	Mug	3	consomme	0.063625
+255	Mug	3	cup	0.0362868
+256	Mug	3	Dutch oven	0.0254111
+257	Mug	3	face powder	0.0185532
+258	Mug	3	bathtub, bathing tub, bath, tub	0.0158995
+259	Mug	3	frying pan, frypan, skillet	0.0141756
+260	Mug	4	neck brace	0.296405
+261	Mug	4	toilet seat	0.16678
+262	Mug	4	muzzle	0.0880359
+263	Mug	4	cradle	0.0749681
+264	Mug	4	buckle	0.0482987
+265	Mug	4	plunger, plumber's helper	0.0214764
+266	Mug	4	potter's wheel	0.0185007
+267	Mug	4	whistle	0.0165611
+268	Mug	4	hook, claw	0.0149939
+269	Mug	4	combination lock	0.0140473
+270	Mug	5	cup	0.578329
+271	Mug	5	coffee mug	0.211814
+272	Mug	5	water jug	0.0233758
+273	Mug	5	soup bowl	0.021281
+274	Mug	5	mixing bowl	0.0168629
+275	Mug	5	measuring cup	0.0139762
+276	Mug	5	mortar	0.00952502
+277	Mug	5	pitcher, ewer	0.00927045
+278	Mug	5	espresso	0.00905319
+279	Mug	5	projector	0.00593534
+280	Mug	6	whiskey jug	0.464647
+281	Mug	6	coffee mug	0.406642
+282	Mug	6	cup	0.073852
+283	Mug	6	water jug	0.0426285
+284	Mug	6	pitcher, ewer	0.00373691
+285	Mug	6	measuring cup	0.00243016
+286	Mug	6	beaker	0.00214638
+287	Mug	6	espresso maker	0.00190312
+288	Mug	6	coffeepot	0.000993141
+289	Mug	6	beer glass	0.000572462
+290	Mug	7	whiskey jug	0.930008
+291	Mug	7	water jug	0.0248793
+292	Mug	7	coffee mug	0.019568
+293	Mug	7	pitcher, ewer	0.0183984
+294	Mug	7	cup	0.00317447
+295	Mug	7	teapot	0.00182774
+296	Mug	7	measuring cup	0.00107834
+297	Mug	7	espresso	0.000529917
+298	Mug	7	coffeepot	0.000168843
+299	Mug	7	eggnog	0.000135995
+300	Mug	8	cup	0.772074
+301	Mug	8	coffee mug	0.172271
+302	Mug	8	measuring cup	0.0170955
+303	Mug	8	pitcher, ewer	0.0165396
+304	Mug	8	water jug	0.00844698
+305	Mug	8	whiskey jug	0.00573841
+306	Mug	8	coffeepot	0.00443577
+307	Mug	8	teapot	0.00176532
+308	Mug	8	espresso	0.000507811
+309	Mug	8	espresso maker	0.000194871
+310	Mug	9	cup	0.49354
+311	Mug	9	washbasin, handbasin, washbowl, lavabo, wash-hand basin	0.111356
+312	Mug	9	coffee mug	0.0983328
+313	Mug	9	pitcher, ewer	0.0462567
+314	Mug	9	tub, vat	0.0397517
+315	Mug	9	bathtub, bathing tub, bath, tub	0.037109
+316	Mug	9	toilet seat	0.0299489
+317	Mug	9	mixing bowl	0.0287474
+318	Mug	9	water jug	0.0205282
+319	Mug	9	measuring cup	0.0191884
+320	Mountain	1	lakeside, lakeshore	0.497916
+321	Mountain	1	alp	0.143593
+322	Mountain	1	promontory, headland, head, foreland	0.138696
+323	Mountain	1	volcano	0.072952
+324	Mountain	1	valley, vale	0.0495575
+325	Mountain	1	seashore, coast, seacoast, sea-coast	0.0244944
+326	Mountain	1	cliff, drop, drop-off	0.0129439
+327	Mountain	1	balloon	0.00830219
+328	Mountain	1	suspension bridge	0.00645816
+329	Mountain	1	castle	0.00483305
+330	Mountain	10	valley, vale	0.902327
+331	Mountain	10	alp	0.0759696
+332	Mountain	10	volcano	0.00458383
+333	Mountain	10	promontory, headland, head, foreland	0.00303098
+334	Mountain	10	lakeside, lakeshore	0.00180889
+335	Mountain	10	mountain bike, all-terrain bike, off-roader	0.00161726
+336	Mountain	10	cliff, drop, drop-off	0.0013413
+337	Mountain	10	suspension bridge	0.00125506
+338	Mountain	10	stone wall	0.00103401
+339	Mountain	10	mountain tent	0.000997179
+340	Mountain	11	alp	0.850543
+341	Mountain	11	volcano	0.137887
+342	Mountain	11	valley, vale	0.00443166
+343	Mountain	11	promontory, headland, head, foreland	0.00421286
+344	Mountain	11	cliff, drop, drop-off	0.00123494
+345	Mountain	11	mountain tent	0.000455063
+346	Mountain	11	seashore, coast, seacoast, sea-coast	0.000279188
+347	Mountain	11	American alligator, Alligator mississipiensis	0.000185648
+348	Mountain	11	beacon, lighthouse, beacon light, pharos	8.00342e-05
+349	Mountain	11	lakeside, lakeshore	6.98664e-05
+350	Mountain	12	alp	0.799358
+351	Mountain	12	valley, vale	0.198473
+352	Mountain	12	mountain tent	0.00075639
+353	Mountain	12	cliff, drop, drop-off	0.000357189
+354	Mountain	12	volcano	0.000213983
+355	Mountain	12	lakeside, lakeshore	0.000189751
+356	Mountain	12	mountain bike, all-terrain bike, off-roader	0.000109875
+357	Mountain	12	maze, labyrinth	8.46972e-05
+358	Mountain	12	castle	7.55838e-05
+359	Mountain	12	ibex, Capra ibex	6.1895e-05
+360	Mountain	13	cliff, drop, drop-off	0.786359
+361	Mountain	13	promontory, headland, head, foreland	0.0985917
+362	Mountain	13	alp	0.0434467
+363	Mountain	13	valley, vale	0.0302643
+364	Mountain	13	monastery	0.0128289
+365	Mountain	13	castle	0.0122616
+366	Mountain	13	seashore, coast, seacoast, sea-coast	0.00658707
+367	Mountain	13	cliff dwelling	0.00567308
+368	Mountain	13	lakeside, lakeshore	0.00148059
+369	Mountain	13	megalith, megalithic structure	0.000280757
+370	Mountain	14	alp	0.649869
+371	Mountain	14	volcano	0.200477
+372	Mountain	14	valley, vale	0.0982009
+373	Mountain	14	cliff, drop, drop-off	0.0307188
+374	Mountain	14	promontory, headland, head, foreland	0.0137202
+375	Mountain	14	mountain tent	0.00140746
+376	Mountain	14	geyser	0.00104021
+377	Mountain	14	seashore, coast, seacoast, sea-coast	0.000517777
+378	Mountain	14	marmot	0.00039505
+379	Mountain	14	ibex, Capra ibex	0.00036924
+380	Mountain	15	volcano	0.101719
+381	Mountain	15	gar, garfish, garpike, billfish, Lepisosteus osseus	0.0546932
+382	Mountain	15	alp	0.0543605
+383	Mountain	15	leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea	0.0470145
+384	Mountain	15	rock crab, Cancer irroratus	0.037188
+385	Mountain	15	grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus	0.0352146
+386	Mountain	15	water ouzel, dipper	0.0330046
+387	Mountain	15	bittern	0.0277917
+388	Mountain	15	whiptail, whiptail lizard	0.0246014
+389	Mountain	15	red-breasted merganser, Mergus serrator	0.0241934
+390	Mountain	16	alp	0.215858
+391	Mountain	16	trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi	0.154806
+392	Mountain	16	bison	0.08966
+393	Mountain	16	barn	0.0674507
+394	Mountain	16	tractor	0.0574266
+395	Mountain	16	valley, vale	0.0536676
+396	Mountain	16	plow, plough	0.0492734
+397	Mountain	16	harvester, reaper	0.040194
+398	Mountain	16	worm fence, snake fence, snake-rail fence, Virginia fence	0.0393079
+399	Mountain	16	thresher, thrasher, threshing machine	0.0273051
+400	Mountain	2	volcano	0.590219
+401	Mountain	2	wing	0.191773
+402	Mountain	2	promontory, headland, head, foreland	0.059377
+403	Mountain	2	sandbar, sand bar	0.0550627
+404	Mountain	2	seashore, coast, seacoast, sea-coast	0.0334054
+405	Mountain	2	loggerhead, loggerhead turtle, Caretta caretta	0.0129313
+406	Mountain	2	lakeside, lakeshore	0.00671976
+407	Mountain	2	leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea	0.00667966
+408	Mountain	2	valley, vale	0.00663233
+409	Mountain	2	alp	0.00447189
+410	Mountain	3	alp	0.386212
+411	Mountain	3	geyser	0.207181
+412	Mountain	3	valley, vale	0.15055
+413	Mountain	3	lakeside, lakeshore	0.113692
+414	Mountain	3	canoe	0.0177485
+415	Mountain	3	bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis	0.010067
+416	Mountain	3	snowmobile	0.00810487
+417	Mountain	3	tank, army tank, armored combat vehicle, armoured combat vehicle	0.0072845
+418	Mountain	3	worm fence, snake fence, snake-rail fence, Virginia fence	0.00692595
+419	Mountain	3	amphibian, amphibious vehicle	0.00680192
+420	Mountain	4	valley, vale	0.369394
+421	Mountain	4	mountain tent	0.118976
+422	Mountain	4	promontory, headland, head, foreland	0.10996
+423	Mountain	4	volcano	0.102656
+424	Mountain	4	wing	0.0702832
+425	Mountain	4	lakeside, lakeshore	0.0552327
+426	Mountain	4	paddle, boat paddle	0.045748
+427	Mountain	4	canoe	0.0449159
+428	Mountain	4	sandbar, sand bar	0.0398665
+429	Mountain	4	alp	0.0158738
+430	Mountain	5	alp	0.42726
+431	Mountain	5	valley, vale	0.409275
+432	Mountain	5	volcano	0.0499474
+433	Mountain	5	cliff, drop, drop-off	0.0325487
+434	Mountain	5	lakeside, lakeshore	0.0216083
+435	Mountain	5	promontory, headland, head, foreland	0.00607628
+436	Mountain	5	bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis	0.00539956
+437	Mountain	5	radio telescope, radio reflector	0.00366167
+438	Mountain	5	ram, tup	0.00339211
+439	Mountain	5	steel arch bridge	0.00286146
+440	Mountain	6	volcano	0.642404
+441	Mountain	6	valley, vale	0.245419
+442	Mountain	6	alp	0.0924771
+443	Mountain	6	promontory, headland, head, foreland	0.00953867
+444	Mountain	6	cliff, drop, drop-off	0.00300037
+445	Mountain	6	mountain tent	0.000875095
+446	Mountain	6	lakeside, lakeshore	0.000547579
+447	Mountain	6	water buffalo, water ox, Asiatic buffalo, Bubalus bubalis	0.000435648
+448	Mountain	6	yurt	0.000416124
+449	Mountain	6	mountain bike, all-terrain bike, off-roader	0.000358683
+450	Mountain	7	valley, vale	0.186504
+451	Mountain	7	alp	0.138289
+452	Mountain	7	cliff, drop, drop-off	0.134267
+453	Mountain	7	volcano	0.085865
+454	Mountain	7	ox	0.0563586
+455	Mountain	7	hartebeest	0.050659
+456	Mountain	7	mountain tent	0.0470006
+457	Mountain	7	tiger shark, Galeocerdo cuvieri	0.0312783
+458	Mountain	7	promontory, headland, head, foreland	0.0198902
+459	Mountain	7	ibex, Capra ibex	0.0141713
+460	Mountain	8	valley, vale	0.30838
+461	Mountain	8	seashore, coast, seacoast, sea-coast	0.234231
+462	Mountain	8	alp	0.174215
+463	Mountain	8	promontory, headland, head, foreland	0.122456
+464	Mountain	8	lakeside, lakeshore	0.0504057
+465	Mountain	8	volcano	0.0190521
+466	Mountain	8	cliff, drop, drop-off	0.0188955
+467	Mountain	8	sandbar, sand bar	0.0172716
+468	Mountain	8	worm fence, snake fence, snake-rail fence, Virginia fence	0.00653092
+469	Mountain	8	geyser	0.00555464
+470	Mountain	9	volcano	0.665292
+471	Mountain	9	valley, vale	0.111474
+472	Mountain	9	alp	0.105615
+473	Mountain	9	dam, dike, dyke	0.0189971
+474	Mountain	9	steel arch bridge	0.013083
+475	Mountain	9	suspension bridge	0.011675
+476	Mountain	9	lakeside, lakeshore	0.0107168
+477	Mountain	9	tile roof	0.00909986
+478	Mountain	9	promontory, headland, head, foreland	0.00688891
+479	Mountain	9	cliff, drop, drop-off	0.00589226
+480	Lighthouse	1	beacon, lighthouse, beacon light, pharos	0.963491
+481	Lighthouse	1	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0256223
+482	Lighthouse	1	aircraft carrier, carrier, flattop, attack aircraft carrier	0.00266703
+483	Lighthouse	1	castle	0.00256441
+484	Lighthouse	1	drilling platform, offshore rig	0.00111365
+485	Lighthouse	1	submarine, pigboat, sub, U-boat	0.000741092
+486	Lighthouse	1	fireboat	0.000654077
+487	Lighthouse	1	missile	0.000531481
+488	Lighthouse	1	dock, dockage, docking facility	0.000517983
+489	Lighthouse	1	container ship, containership, container vessel	0.00039072
+490	Lighthouse	10	beacon, lighthouse, beacon light, pharos	0.965131
+491	Lighthouse	10	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0254814
+492	Lighthouse	10	castle	0.00485068
+493	Lighthouse	10	megalith, megalithic structure	0.00212789
+494	Lighthouse	10	water tower	0.000267055
+495	Lighthouse	10	church, church building	0.00026563
+496	Lighthouse	10	wreck	0.000232223
+497	Lighthouse	10	container ship, containership, container vessel	0.000200078
+498	Lighthouse	10	barn	0.000179505
+499	Lighthouse	10	pedestal, plinth, footstall	0.000121849
+500	Lighthouse	11	beacon, lighthouse, beacon light, pharos	0.911415
+501	Lighthouse	11	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0774157
+502	Lighthouse	11	monastery	0.00299453
+503	Lighthouse	11	church, church building	0.00281702
+504	Lighthouse	11	boathouse	0.00160358
+505	Lighthouse	11	bell cote, bell cot	0.000899041
+506	Lighthouse	11	promontory, headland, head, foreland	0.000469522
+507	Lighthouse	11	dome	0.000320761
+508	Lighthouse	11	dam, dike, dyke	0.000309939
+509	Lighthouse	11	submarine, pigboat, sub, U-boat	0.000213887
+510	Lighthouse	12	beacon, lighthouse, beacon light, pharos	0.903288
+511	Lighthouse	12	ballplayer, baseball player	0.0232594
+512	Lighthouse	12	pole	0.0113405
+513	Lighthouse	12	baseball	0.00481358
+514	Lighthouse	12	pedestal, plinth, footstall	0.00438193
+515	Lighthouse	12	missile	0.0033774
+516	Lighthouse	12	flagpole, flagstaff	0.0033618
+517	Lighthouse	12	soccer ball	0.00287264
+518	Lighthouse	12	croquet ball	0.00258118
+519	Lighthouse	12	projectile, missile	0.00232998
+520	Lighthouse	13	beacon, lighthouse, beacon light, pharos	0.203723
+521	Lighthouse	13	fireboat	0.167717
+522	Lighthouse	13	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.161197
+523	Lighthouse	13	dock, dockage, docking facility	0.150594
+524	Lighthouse	13	drilling platform, offshore rig	0.0594417
+525	Lighthouse	13	lifeboat	0.0406451
+526	Lighthouse	13	pirate, pirate ship	0.0280438
+527	Lighthouse	13	schooner	0.0234589
+528	Lighthouse	13	wreck	0.0223253
+529	Lighthouse	13	aircraft carrier, carrier, flattop, attack aircraft carrier	0.0211429
+530	Lighthouse	14	container ship, containership, container vessel	0.751948
+531	Lighthouse	14	drilling platform, offshore rig	0.174743
+532	Lighthouse	14	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0161741
+533	Lighthouse	14	beacon, lighthouse, beacon light, pharos	0.0140801
+534	Lighthouse	14	dock, dockage, docking facility	0.00800559
+535	Lighthouse	14	fireboat	0.00699772
+536	Lighthouse	14	wreck	0.00613074
+537	Lighthouse	14	lifeboat	0.00611779
+538	Lighthouse	14	pirate, pirate ship	0.00598679
+539	Lighthouse	14	liner, ocean liner	0.00381163
+540	Lighthouse	15	beacon, lighthouse, beacon light, pharos	0.756585
+541	Lighthouse	15	dome	0.0732686
+542	Lighthouse	15	monastery	0.0570798
+543	Lighthouse	15	palace	0.0566495
+544	Lighthouse	15	picket fence, paling	0.0138431
+545	Lighthouse	15	church, church building	0.00828214
+546	Lighthouse	15	mosque	0.00717376
+547	Lighthouse	15	bell cote, bell cot	0.00676086
+548	Lighthouse	15	flagpole, flagstaff	0.00470132
+549	Lighthouse	15	water tower	0.00392035
+550	Lighthouse	16	maypole	0.209854
+551	Lighthouse	16	drilling platform, offshore rig	0.189234
+552	Lighthouse	16	beacon, lighthouse, beacon light, pharos	0.134024
+553	Lighthouse	16	crane	0.0581287
+554	Lighthouse	16	totem pole	0.0458869
+555	Lighthouse	16	pole	0.0376547
+556	Lighthouse	16	trimaran	0.0189442
+557	Lighthouse	16	catamaran	0.0180929
+558	Lighthouse	16	parachute, chute	0.0171153
+559	Lighthouse	16	rapeseed	0.0122586
+560	Lighthouse	2	beacon, lighthouse, beacon light, pharos	0.909818
+561	Lighthouse	2	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0893914
+562	Lighthouse	2	submarine, pigboat, sub, U-boat	0.000339544
+563	Lighthouse	2	promontory, headland, head, foreland	0.000164056
+564	Lighthouse	2	castle	8.10527e-05
+565	Lighthouse	2	lakeside, lakeshore	4.37682e-05
+566	Lighthouse	2	wreck	3.42101e-05
+567	Lighthouse	2	boathouse	2.87321e-05
+568	Lighthouse	2	monastery	1.92995e-05
+569	Lighthouse	2	pier	1.42033e-05
+570	Lighthouse	3	beacon, lighthouse, beacon light, pharos	0.398925
+571	Lighthouse	3	submarine, pigboat, sub, U-boat	0.0984485
+572	Lighthouse	3	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.093575
+573	Lighthouse	3	container ship, containership, container vessel	0.0858065
+574	Lighthouse	3	drilling platform, offshore rig	0.0807604
+575	Lighthouse	3	liner, ocean liner	0.0646392
+576	Lighthouse	3	fireboat	0.0365974
+577	Lighthouse	3	dock, dockage, docking facility	0.0260949
+578	Lighthouse	3	pier	0.0241856
+579	Lighthouse	3	aircraft carrier, carrier, flattop, attack aircraft carrier	0.0176658
+580	Lighthouse	4	beacon, lighthouse, beacon light, pharos	0.90661
+581	Lighthouse	4	water tower	0.0670614
+582	Lighthouse	4	mosque	0.00636168
+583	Lighthouse	4	dome	0.00437236
+584	Lighthouse	4	pedestal, plinth, footstall	0.00257043
+585	Lighthouse	4	bell cote, bell cot	0.00174032
+586	Lighthouse	4	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.00160403
+587	Lighthouse	4	water bottle	0.00107425
+588	Lighthouse	4	church, church building	0.000716857
+589	Lighthouse	4	pop bottle, soda bottle	0.000679419
+590	Lighthouse	5	beacon, lighthouse, beacon light, pharos	0.98422
+591	Lighthouse	5	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0157799
+592	Lighthouse	5	dumbbell	0.0
+593	Lighthouse	5	carbonara	0.0
+594	Lighthouse	5	stole	0.0
+595	Lighthouse	5	rubber eraser, rubber, pencil eraser	0.0
+596	Lighthouse	5	coffee mug	0.0
+597	Lighthouse	5	flagpole, flagstaff	0.0
+598	Lighthouse	5	parallel bars, bars	0.0
+599	Lighthouse	5	cheeseburger	0.0
+600	Lighthouse	6	beacon, lighthouse, beacon light, pharos	0.950696
+601	Lighthouse	6	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0425294
+602	Lighthouse	6	drilling platform, offshore rig	0.00256021
+603	Lighthouse	6	promontory, headland, head, foreland	0.000754039
+604	Lighthouse	6	pedestal, plinth, footstall	0.000473164
+605	Lighthouse	6	lakeside, lakeshore	0.000291841
+606	Lighthouse	6	dock, dockage, docking facility	0.000206871
+607	Lighthouse	6	cliff, drop, drop-off	0.000194088
+608	Lighthouse	6	pier	0.000163055
+609	Lighthouse	6	seashore, coast, seacoast, sea-coast	0.000160055
+610	Lighthouse	7	promontory, headland, head, foreland	0.475204
+611	Lighthouse	7	seashore, coast, seacoast, sea-coast	0.282683
+612	Lighthouse	7	lakeside, lakeshore	0.0983737
+613	Lighthouse	7	dock, dockage, docking facility	0.0256461
+614	Lighthouse	7	dam, dike, dyke	0.0228901
+615	Lighthouse	7	sandbar, sand bar	0.0181434
+616	Lighthouse	7	steel arch bridge	0.0151833
+617	Lighthouse	7	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.012336
+618	Lighthouse	7	pier	0.0119275
+619	Lighthouse	7	valley, vale	0.00917324
+620	Lighthouse	8	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.411031
+621	Lighthouse	8	boathouse	0.189465
+622	Lighthouse	8	pier	0.134985
+623	Lighthouse	8	dock, dockage, docking facility	0.0457443
+624	Lighthouse	8	dam, dike, dyke	0.0394329
+625	Lighthouse	8	lakeside, lakeshore	0.0342337
+626	Lighthouse	8	steel arch bridge	0.0247363
+627	Lighthouse	8	beacon, lighthouse, beacon light, pharos	0.0207318
+628	Lighthouse	8	paddlewheel, paddle wheel	0.0195705
+629	Lighthouse	8	fireboat	0.0170165
+630	Lighthouse	9	beacon, lighthouse, beacon light, pharos	0.272933
+631	Lighthouse	9	guillotine	0.119158
+632	Lighthouse	9	drilling platform, offshore rig	0.0454226
+633	Lighthouse	9	pole	0.0451599
+634	Lighthouse	9	cocktail shaker	0.0332051
+635	Lighthouse	9	totem pole	0.0323084
+636	Lighthouse	9	pop bottle, soda bottle	0.0259233
+637	Lighthouse	9	gas pump, gasoline pump, petrol pump, island dispenser	0.0250137
+638	Lighthouse	9	torch	0.021305
+639	Lighthouse	9	lighter, light, igniter, ignitor	0.0169449
+640	Church	1	greenhouse, nursery, glasshouse	0.591222
+641	Church	1	dome	0.332678
+642	Church	1	mosque	0.031998
+643	Church	1	church, church building	0.0118822
+644	Church	1	barn	0.0105276
+645	Church	1	planetarium	0.00877376
+646	Church	1	yurt	0.00356064
+647	Church	1	vault	0.00128096
+648	Church	1	stupa, tope	0.001041
+649	Church	1	monastery	0.00101071
+650	Church	10	church, church building	0.794924
+651	Church	10	monastery	0.106981
+652	Church	10	bell cote, bell cot	0.0882231
+653	Church	10	palace	0.0035352
+654	Church	10	castle	0.00186623
+655	Church	10	dome	0.00154479
+656	Church	10	vault	0.00085969
+657	Church	10	mosque	0.000610162
+658	Church	10	triumphal arch	0.000327541
+659	Church	10	fountain	0.00018349
+660	Church	11	prison, prison house	0.21259
+661	Church	11	fire screen, fireguard	0.107244
+662	Church	11	planetarium	0.106728
+663	Church	11	mobile home, manufactured home	0.084366
+664	Church	11	barn	0.0698839
+665	Church	11	monastery	0.0604257
+666	Church	11	vault	0.0551807
+667	Church	11	church, church building	0.0286924
+668	Church	11	window screen	0.0184032
+669	Church	11	dome	0.0178319
+670	Church	12	church, church building	0.86997
+671	Church	12	dome	0.0883831
+672	Church	12	monastery	0.0366473
+673	Church	12	palace	0.00367947
+674	Church	12	bell cote, bell cot	0.000566622
+675	Church	12	mosque	0.000331888
+676	Church	12	castle	0.000150542
+677	Church	12	vault	0.000150023
+678	Church	12	altar	5.913e-05
+679	Church	12	fountain	3.25582e-05
+680	Church	13	church, church building	0.967397
+681	Church	13	barn	0.0194573
+682	Church	13	monastery	0.0102041
+683	Church	13	castle	0.00146929
+684	Church	13	bell cote, bell cot	0.0012884
+685	Church	13	boathouse	0.000123967
+686	Church	13	beacon, lighthouse, beacon light, pharos	5.96777e-05
+687	Church	13	dumbbell	0.0
+688	Church	13	carbonara	0.0
+689	Church	13	stole	0.0
+690	Church	14	palace	0.666856
+691	Church	14	monastery	0.105054
+692	Church	14	gondola	0.0527474
+693	Church	14	castle	0.0523917
+694	Church	14	church, church building	0.0382844
+695	Church	14	bell cote, bell cot	0.0131344
+696	Church	14	mosque	0.00933922
+697	Church	14	cinema, movie theater, movie theatre, movie house, picture palace	0.00730588
+698	Church	14	dome	0.00512157
+699	Church	14	switch, electric switch, electrical switch	0.00292337
+700	Church	15	stupa, tope	0.199472
+701	Church	15	church, church building	0.0803057
+702	Church	15	monastery	0.0511357
+703	Church	15	park bench	0.0470711
+704	Church	15	tile roof	0.0457392
+705	Church	15	castle	0.0435399
+706	Church	15	bell cote, bell cot	0.041208
+707	Church	15	worm fence, snake fence, snake-rail fence, Virginia fence	0.0385766
+708	Church	15	cannon	0.0327622
+709	Church	15	fountain	0.0282046
+710	Church	16	palace	0.406769
+711	Church	16	church, church building	0.297482
+712	Church	16	castle	0.122823
+713	Church	16	monastery	0.115354
+714	Church	16	bell cote, bell cot	0.0233354
+715	Church	16	triumphal arch	0.0119538
+716	Church	16	mosque	0.00551893
+717	Church	16	fountain	0.00311058
+718	Church	16	vault	0.00265359
+719	Church	16	dome	0.00240532
+720	Church	2	church, church building	0.930169
+721	Church	2	castle	0.0383354
+722	Church	2	monastery	0.0244081
+723	Church	2	bell cote, bell cot	0.00514392
+724	Church	2	barn	0.000907748
+725	Church	2	palace	0.000285182
+726	Church	2	birdhouse	0.00017849
+727	Church	2	alp	0.000168582
+728	Church	2	beacon, lighthouse, beacon light, pharos	8.14432e-05
+729	Church	2	dome	4.78712e-05
+730	Church	3	monastery	0.275922
+731	Church	3	beacon, lighthouse, beacon light, pharos	0.201094
+732	Church	3	church, church building	0.0926699
+733	Church	3	bell cote, bell cot	0.090578
+734	Church	3	castle	0.0610291
+735	Church	3	harvester, reaper	0.021638
+736	Church	3	stupa, tope	0.0203144
+737	Church	3	dome	0.0191744
+738	Church	3	trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi	0.0158438
+739	Church	3	cliff, drop, drop-off	0.0125828
+740	Church	4	church, church building	0.903812
+741	Church	4	monastery	0.0235059
+742	Church	4	bell cote, bell cot	0.0224783
+743	Church	4	missile	0.0114006
+744	Church	4	projectile, missile	0.0112674
+745	Church	4	beacon, lighthouse, beacon light, pharos	0.00449736
+746	Church	4	flagpole, flagstaff	0.0042302
+747	Church	4	sundial	0.00327882
+748	Church	4	castle	0.00186926
+749	Church	4	dome	0.00123461
+750	Church	5	church, church building	0.963261
+751	Church	5	bell cote, bell cot	0.0128516
+752	Church	5	barn	0.00883058
+753	Church	5	monastery	0.00495538
+754	Church	5	castle	0.00463067
+755	Church	5	beacon, lighthouse, beacon light, pharos	0.00202969
+756	Church	5	picket fence, paling	0.00126371
+757	Church	5	palace	0.000300965
+758	Church	5	birdhouse	0.000229921
+759	Church	5	dome	0.000202774
+760	Church	6	barn	0.99742
+761	Church	6	church, church building	0.00205684
+762	Church	6	boathouse	0.000492785
+763	Church	6	beacon, lighthouse, beacon light, pharos	7.42852e-06
+764	Church	6	worm fence, snake fence, snake-rail fence, Virginia fence	6.032e-06
+765	Church	6	birdhouse	5.32588e-06
+766	Church	6	mobile home, manufactured home	4.49672e-06
+767	Church	6	picket fence, paling	3.81513e-06
+768	Church	6	bell cote, bell cot	3.51604e-06
+769	Church	6	dumbbell	0.0
+770	Church	7	monastery	0.345922
+771	Church	7	church, church building	0.195434
+772	Church	7	beacon, lighthouse, beacon light, pharos	0.178841
+773	Church	7	bell cote, bell cot	0.0693563
+774	Church	7	dome	0.0427588
+775	Church	7	mosque	0.0422155
+776	Church	7	palace	0.0172379
+777	Church	7	pedestal, plinth, footstall	0.0157703
+778	Church	7	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.00995357
+779	Church	7	castle	0.00802859
+780	Church	8	church, church building	0.601947
+781	Church	8	barn	0.225719
+782	Church	8	boathouse	0.113131
+783	Church	8	birdhouse	0.0407926
+784	Church	8	picket fence, paling	0.00718102
+785	Church	8	beacon, lighthouse, beacon light, pharos	0.00426403
+786	Church	8	mobile home, manufactured home	0.00120259
+787	Church	8	bell cote, bell cot	0.00104309
+788	Church	8	solar dish, solar collector, solar furnace	0.000784974
+789	Church	8	monastery	0.000441136
+790	Church	9	church, church building	0.737853
+791	Church	9	monastery	0.131847
+792	Church	9	palace	0.0474119
+793	Church	9	bell cote, bell cot	0.0238031
+794	Church	9	vault	0.018774
+795	Church	9	altar	0.0144987
+796	Church	9	castle	0.0137389
+797	Church	9	mosque	0.00719034
+798	Church	9	dome	0.00285652
+799	Church	9	organ, pipe organ	0.000545739
+800	Car	1	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.312566
+801	Car	1	tow truck, tow car, wrecker	0.143237
+802	Car	1	limousine, limo	0.0974719
+803	Car	1	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria	0.0869667
+804	Car	1	car wheel	0.0566886
+805	Car	1	ambulance	0.0432228
+806	Car	1	cab, hack, taxi, taxicab	0.041252
+807	Car	1	pickup, pickup truck	0.0241628
+808	Car	1	snowplow, snowplough	0.024035
+809	Car	1	jeep, landrover	0.0219619
+810	Car	10	sports car, sport car	0.266801
+811	Car	10	racer, race car, racing car	0.19692
+812	Car	10	convertible	0.185195
+813	Car	10	minivan	0.058463
+814	Car	10	car wheel	0.0546575
+815	Car	10	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.0496901
+816	Car	10	cab, hack, taxi, taxicab	0.0350259
+817	Car	10	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria	0.0198847
+818	Car	10	pickup, pickup truck	0.0112854
+819	Car	10	golfcart, golf cart	0.0110816
+820	Car	11	convertible	0.522898
+821	Car	11	sports car, sport car	0.159864
+822	Car	11	racer, race car, racing car	0.0834164
+823	Car	11	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.074058
+824	Car	11	car wheel	0.0511419
+825	Car	11	grille, radiator grille	0.0504213
+826	Car	11	minivan	0.0166956
+827	Car	11	limousine, limo	0.0122452
+828	Car	11	pickup, pickup truck	0.00761537
+829	Car	11	ambulance	0.00443896
+830	Car	12	convertible	0.215079
+831	Car	12	sports car, sport car	0.195892
+832	Car	12	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.155665
+833	Car	12	pickup, pickup truck	0.115836
+834	Car	12	car wheel	0.0749292
+835	Car	12	minivan	0.0589476
+836	Car	12	racer, race car, racing car	0.0349675
+837	Car	12	grille, radiator grille	0.027722
+838	Car	12	limousine, limo	0.0248607
+839	Car	12	tow truck, tow car, wrecker	0.0115597
+840	Car	13	warplane, military plane	0.664101
+841	Car	13	airliner	0.147208
+842	Car	13	wing	0.127844
+843	Car	13	bobsled, bobsleigh, bob	0.0187191
+844	Car	13	sports car, sport car	0.00824921
+845	Car	13	projectile, missile	0.00638639
+846	Car	13	missile	0.00573322
+847	Car	13	racer, race car, racing car	0.0056506
+848	Car	13	aircraft carrier, carrier, flattop, attack aircraft carrier	0.00425987
+849	Car	13	fountain pen	0.00136668
+850	Car	14	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.45283
+851	Car	14	cab, hack, taxi, taxicab	0.205962
+852	Car	14	pickup, pickup truck	0.0596717
+853	Car	14	limousine, limo	0.0436473
+854	Car	14	minivan	0.0423085
+855	Car	14	grille, radiator grille	0.0388397
+856	Car	14	car wheel	0.0338529
+857	Car	14	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria	0.0291533
+858	Car	14	ambulance	0.0155008
+859	Car	14	jeep, landrover	0.0143967
+860	Car	15	racer, race car, racing car	0.711094
+861	Car	15	sports car, sport car	0.281806
+862	Car	15	car wheel	0.0025745
+863	Car	15	convertible	0.00199535
+864	Car	15	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.000559481
+865	Car	15	grille, radiator grille	0.000487446
+866	Car	15	cab, hack, taxi, taxicab	0.000474914
+867	Car	15	pickup, pickup truck	0.000433487
+868	Car	15	limousine, limo	0.000144033
+869	Car	15	tow truck, tow car, wrecker	0.000142214
+870	Car	16	canoe	0.471279
+871	Car	16	mountain tent	0.0944182
+872	Car	16	sports car, sport car	0.0696237
+873	Car	16	convertible	0.0672617
+874	Car	16	paddle, boat paddle	0.0556035
+875	Car	16	Loafer	0.0544229
+876	Car	16	sleeping bag	0.0366889
+877	Car	16	car wheel	0.0127569
+878	Car	16	sandal	0.0109852
+879	Car	16	clog, geta, patten, sabot	0.00946825
+880	Car	2	sports car, sport car	0.383762
+881	Car	2	racer, race car, racing car	0.174585
+882	Car	2	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.0974807
+883	Car	2	passenger car, coach, carriage	0.0472801
+884	Car	2	car wheel	0.0461368
+885	Car	2	minivan	0.0366366
+886	Car	2	wing	0.029248
+887	Car	2	pickup, pickup truck	0.0260597
+888	Car	2	airliner	0.0250902
+889	Car	2	convertible	0.0227076
+890	Car	3	sports car, sport car	0.543578
+891	Car	3	racer, race car, racing car	0.429924
+892	Car	3	pickup, pickup truck	0.00884881
+893	Car	3	convertible	0.00642383
+894	Car	3	car wheel	0.00384402
+895	Car	3	tow truck, tow car, wrecker	0.00126847
+896	Car	3	grille, radiator grille	0.000960174
+897	Car	3	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.000879353
+898	Car	3	limousine, limo	0.000864783
+899	Car	3	bobsled, bobsleigh, bob	0.000685195
+900	Car	4	racer, race car, racing car	0.370818
+901	Car	4	sports car, sport car	0.268289
+902	Car	4	convertible	0.237725
+903	Car	4	car wheel	0.0374799
+904	Car	4	grille, radiator grille	0.0257734
+905	Car	4	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria	0.00963592
+906	Car	4	ambulance	0.00788908
+907	Car	4	cab, hack, taxi, taxicab	0.00553613
+908	Car	4	minivan	0.00545882
+909	Car	4	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.00404049
+910	Car	5	barber chair	0.431559
+911	Car	5	barbershop	0.182
+912	Car	5	jinrikisha, ricksha, rickshaw	0.0301581
+913	Car	5	motor scooter, scooter	0.0236296
+914	Car	5	Model T	0.0223542
+915	Car	5	folding chair	0.018168
+916	Car	5	stretcher	0.0177639
+917	Car	5	drum, membranophone, tympan	0.0173181
+918	Car	5	golfcart, golf cart	0.0113383
+919	Car	5	drumstick	0.0107477
+920	Car	6	racer, race car, racing car	0.645679
+921	Car	6	sports car, sport car	0.260326
+922	Car	6	passenger car, coach, carriage	0.0187664
+923	Car	6	car wheel	0.0163621
+924	Car	6	limousine, limo	0.0135179
+925	Car	6	police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria	0.00986695
+926	Car	6	tow truck, tow car, wrecker	0.00788858
+927	Car	6	pickup, pickup truck	0.00779664
+928	Car	6	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.00335142
+929	Car	6	warplane, military plane	0.00317028
+930	Car	7	muzzle	0.468822
+931	Car	7	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.135695
+932	Car	7	mailbag, postbag	0.0767971
+933	Car	7	convertible	0.0531959
+934	Car	7	cassette player	0.0348415
+935	Car	7	carpenter's kit, tool kit	0.0211238
+936	Car	7	buckle	0.0210777
+937	Car	7	sports car, sport car	0.01875
+938	Car	7	vacuum, vacuum cleaner	0.0145158
+939	Car	7	purse	0.0123192
+940	Car	8	jeep, landrover	0.163191
+941	Car	8	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.14445
+942	Car	8	pickup, pickup truck	0.129524
+943	Car	8	car wheel	0.128587
+944	Car	8	sports car, sport car	0.103117
+945	Car	8	convertible	0.0844044
+946	Car	8	racer, race car, racing car	0.0741552
+947	Car	8	grille, radiator grille	0.057265
+948	Car	8	minivan	0.0324095
+949	Car	8	tow truck, tow car, wrecker	0.00995328
+950	Car	9	convertible	0.453877
+951	Car	9	beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon	0.277009
+952	Car	9	pickup, pickup truck	0.106673
+953	Car	9	grille, radiator grille	0.0319171
+954	Car	9	limousine, limo	0.0229311
+955	Car	9	car wheel	0.0191601
+956	Car	9	cab, hack, taxi, taxicab	0.0172272
+957	Car	9	sports car, sport car	0.0150635
+958	Car	9	racer, race car, racing car	0.0124067
+959	Car	9	tow truck, tow car, wrecker	0.0114944
+960	Beach	1	promontory, headland, head, foreland	0.824225
+961	Beach	1	seashore, coast, seacoast, sea-coast	0.148282
+962	Beach	1	cliff, drop, drop-off	0.0134161
+963	Beach	1	lakeside, lakeshore	0.00618154
+964	Beach	1	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.00546574
+965	Beach	1	beacon, lighthouse, beacon light, pharos	0.00161287
+966	Beach	1	valley, vale	0.000236921
+967	Beach	1	sandbar, sand bar	0.000222326
+968	Beach	1	volcano	8.84444e-05
+969	Beach	1	alp	5.37465e-05
+970	Beach	10	seashore, coast, seacoast, sea-coast	0.742214
+971	Beach	10	parachute, chute	0.0553395
+972	Beach	10	sandbar, sand bar	0.0435168
+973	Beach	10	balloon	0.0231833
+974	Beach	10	cliff, drop, drop-off	0.022129
+975	Beach	10	hay	0.00902861
+976	Beach	10	wreck	0.00890934
+977	Beach	10	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0070461
+978	Beach	10	lakeside, lakeshore	0.00600314
+979	Beach	10	promontory, headland, head, foreland	0.00566596
+980	Beach	11	volcano	0.43038
+981	Beach	11	geyser	0.229394
+982	Beach	11	seashore, coast, seacoast, sea-coast	0.142808
+983	Beach	11	space shuttle	0.045732
+984	Beach	11	cliff, drop, drop-off	0.0212633
+985	Beach	11	promontory, headland, head, foreland	0.0194908
+986	Beach	11	sandbar, sand bar	0.0141537
+987	Beach	11	conch	0.0122513
+988	Beach	11	missile	0.01186
+989	Beach	11	beacon, lighthouse, beacon light, pharos	0.00954808
+990	Beach	12	promontory, headland, head, foreland	0.627165
+991	Beach	12	seashore, coast, seacoast, sea-coast	0.344206
+992	Beach	12	cliff, drop, drop-off	0.00952694
+993	Beach	12	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.00644916
+994	Beach	12	sandbar, sand bar	0.00500727
+995	Beach	12	lakeside, lakeshore	0.00448888
+996	Beach	12	beacon, lighthouse, beacon light, pharos	0.00106393
+997	Beach	12	aircraft carrier, carrier, flattop, attack aircraft carrier	0.000730462
+998	Beach	12	wreck	0.000305288
+999	Beach	12	volcano	0.000202554
+1000	Beach	13	seashore, coast, seacoast, sea-coast	0.295284
+1001	Beach	13	grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus	0.0370843
+1002	Beach	13	lakeside, lakeshore	0.0346114
+1003	Beach	13	sandbar, sand bar	0.031518
+1004	Beach	13	promontory, headland, head, foreland	0.0264323
+1005	Beach	13	leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea	0.0262482
+1006	Beach	13	sarong	0.0255028
+1007	Beach	13	wreck	0.0215312
+1008	Beach	13	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0214717
+1009	Beach	13	sea lion	0.0212711
+1010	Beach	14	sandbar, sand bar	0.248104
+1011	Beach	14	promontory, headland, head, foreland	0.243763
+1012	Beach	14	seashore, coast, seacoast, sea-coast	0.223594
+1013	Beach	14	lakeside, lakeshore	0.0675693
+1014	Beach	14	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0320708
+1015	Beach	14	leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea	0.0226794
+1016	Beach	14	wreck	0.0226663
+1017	Beach	14	sea lion	0.0139073
+1018	Beach	14	African crocodile, Nile crocodile, Crocodylus niloticus	0.0130462
+1019	Beach	14	cliff, drop, drop-off	0.0118953
+1020	Beach	15	promontory, headland, head, foreland	0.813985
+1021	Beach	15	seashore, coast, seacoast, sea-coast	0.114138
+1022	Beach	15	lakeside, lakeshore	0.0298694
+1023	Beach	15	coral reef	0.0197433
+1024	Beach	15	cliff, drop, drop-off	0.0191669
+1025	Beach	15	beacon, lighthouse, beacon light, pharos	0.000811655
+1026	Beach	15	valley, vale	0.000607045
+1027	Beach	15	sandbar, sand bar	0.00041533
+1028	Beach	15	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.000312532
+1029	Beach	15	leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea	0.000147433
+1030	Beach	16	promontory, headland, head, foreland	0.841406
+1031	Beach	16	cliff, drop, drop-off	0.116977
+1032	Beach	16	seashore, coast, seacoast, sea-coast	0.0312965
+1033	Beach	16	lakeside, lakeshore	0.00291033
+1034	Beach	16	grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus	0.00198553
+1035	Beach	16	valley, vale	0.00173287
+1036	Beach	16	wreck	0.000557737
+1037	Beach	16	sea lion	0.000551186
+1038	Beach	16	pirate, pirate ship	0.000304455
+1039	Beach	16	coral reef	0.000274235
+1040	Beach	2	canoe	0.16516
+1041	Beach	2	boathouse	0.130131
+1042	Beach	2	mountain tent	0.085632
+1043	Beach	2	lakeside, lakeshore	0.0822978
+1044	Beach	2	yawl	0.0633181
+1045	Beach	2	patio, terrace	0.0374251
+1046	Beach	2	sandbar, sand bar	0.03088
+1047	Beach	2	valley, vale	0.0247428
+1048	Beach	2	lumbermill, sawmill	0.0216846
+1049	Beach	2	yurt	0.0214335
+1050	Beach	3	seashore, coast, seacoast, sea-coast	0.900814
+1051	Beach	3	sandbar, sand bar	0.0501774
+1052	Beach	3	lakeside, lakeshore	0.01848
+1053	Beach	3	promontory, headland, head, foreland	0.00840676
+1054	Beach	3	geyser	0.00604855
+1055	Beach	3	volcano	0.00508708
+1056	Beach	3	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0030203
+1057	Beach	3	valley, vale	0.0014126
+1058	Beach	3	cliff, drop, drop-off	0.000960717
+1059	Beach	3	beacon, lighthouse, beacon light, pharos	0.000302999
+1060	Beach	4	seashore, coast, seacoast, sea-coast	0.857923
+1061	Beach	4	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.0432628
+1062	Beach	4	lakeside, lakeshore	0.0391329
+1063	Beach	4	beacon, lighthouse, beacon light, pharos	0.0185272
+1064	Beach	4	sandbar, sand bar	0.0112961
+1065	Beach	4	promontory, headland, head, foreland	0.00770552
+1066	Beach	4	wreck	0.00372165
+1067	Beach	4	boathouse	0.00258035
+1068	Beach	4	cliff, drop, drop-off	0.00199233
+1069	Beach	4	dock, dockage, docking facility	0.00193825
+1070	Beach	5	seashore, coast, seacoast, sea-coast	0.780208
+1071	Beach	5	promontory, headland, head, foreland	0.202419
+1072	Beach	5	sandbar, sand bar	0.00490559
+1073	Beach	5	lakeside, lakeshore	0.00374464
+1074	Beach	5	cliff, drop, drop-off	0.00250496
+1075	Beach	5	valley, vale	0.00195297
+1076	Beach	5	alp	0.00161988
+1077	Beach	5	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.000429497
+1078	Beach	5	dock, dockage, docking facility	0.00038555
+1079	Beach	5	dam, dike, dyke	0.000251171
+1080	Beach	6	seashore, coast, seacoast, sea-coast	0.842669
+1081	Beach	6	dock, dockage, docking facility	0.031241
+1082	Beach	6	wreck	0.0270361
+1083	Beach	6	pier	0.0260354
+1084	Beach	6	crane	0.0118464
+1085	Beach	6	drilling platform, offshore rig	0.00847419
+1086	Beach	6	lakeside, lakeshore	0.00588538
+1087	Beach	6	tripod	0.00541264
+1088	Beach	6	container ship, containership, container vessel	0.00407038
+1089	Beach	6	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.00312085
+1090	Beach	7	sandbar, sand bar	0.87521
+1091	Beach	7	seashore, coast, seacoast, sea-coast	0.124639
+1092	Beach	7	lakeside, lakeshore	0.000128001
+1093	Beach	7	coral reef	1.7832e-05
+1094	Beach	7	speedboat	5.01923e-06
+1095	Beach	7	dumbbell	0.0
+1096	Beach	7	carbonara	0.0
+1097	Beach	7	stole	0.0
+1098	Beach	7	rubber eraser, rubber, pencil eraser	0.0
+1099	Beach	7	coffee mug	0.0
+1100	Beach	8	sandbar, sand bar	0.858256
+1101	Beach	8	seashore, coast, seacoast, sea-coast	0.139485
+1102	Beach	8	breakwater, groin, groyne, mole, bulwark, seawall, jetty	0.000428654
+1103	Beach	8	speedboat	0.000332606
+1104	Beach	8	promontory, headland, head, foreland	0.000321486
+1105	Beach	8	lakeside, lakeshore	0.000280333
+1106	Beach	8	wreck	0.000242629
+1107	Beach	8	coral reef	0.000125729
+1108	Beach	8	pier	0.000106099
+1109	Beach	8	catamaran	6.51588e-05
+1110	Beach	9	fountain	0.212569
+1111	Beach	9	spider web, spider's web	0.139446
+1112	Beach	9	dam, dike, dyke	0.137398
+1113	Beach	9	electric fan, blower	0.0473551
+1114	Beach	9	steel arch bridge	0.0292353
+1115	Beach	9	shopping cart	0.0284853
+1116	Beach	9	lionfish	0.0273851
+1117	Beach	9	suspension bridge	0.0213004
+1118	Beach	9	coil, spiral, volute, whorl, helix	0.0187228
+1119	Beach	9	pier	0.0168383
+1120	Banana	1	banana	0.980348
+1121	Banana	1	acorn squash	0.00572604
+1122	Banana	1	jackfruit, jak, jack	0.00449457
+1123	Banana	1	zucchini, courgette	0.00445303
+1124	Banana	1	spaghetti squash	0.000995224
+1125	Banana	1	artichoke, globe artichoke	0.000580317
+1126	Banana	1	lemon	0.000510137
+1127	Banana	1	coil, spiral, volute, whorl, helix	0.000447746
+1128	Banana	1	cucumber, cuke	0.000371869
+1129	Banana	1	ear, spike, capitulum	0.000348464
+1130	Banana	10	banana	0.963894
+1131	Banana	10	cucumber, cuke	0.0245872
+1132	Banana	10	Granny Smith	0.00502093
+1133	Banana	10	mortar	0.00224281
+1134	Banana	10	bell pepper	0.00133823
+1135	Banana	10	zucchini, courgette	0.000987018
+1136	Banana	10	hook, claw	0.000949137
+1137	Banana	10	lemon	0.000361915
+1138	Banana	10	slug	0.000131849
+1139	Banana	10	coil, spiral, volute, whorl, helix	5.94158e-05
+1140	Banana	11	hook, claw	0.186443
+1141	Banana	11	mortar	0.168196
+1142	Banana	11	ocarina, sweet potato	0.113068
+1143	Banana	11	Loafer	0.0767715
+1144	Banana	11	plunger, plumber's helper	0.0762677
+1145	Banana	11	clog, geta, patten, sabot	0.0491459
+1146	Banana	11	nipple	0.0403577
+1147	Banana	11	flatworm, platyhelminth	0.0372657
+1148	Banana	11	nematode, nematode worm, roundworm	0.0283306
+1149	Banana	11	banana	0.0244055
+1150	Banana	12	pencil sharpener	0.1588
+1151	Banana	12	whistle	0.10721
+1152	Banana	12	mousetrap	0.104821
+1153	Banana	12	hammer	0.0749687
+1154	Banana	12	nipple	0.0495378
+1155	Banana	12	paintbrush	0.0398688
+1156	Banana	12	Loafer	0.0389421
+1157	Banana	12	screwdriver	0.0369671
+1158	Banana	12	spotlight, spot	0.0329563
+1159	Banana	12	buckle	0.0328059
+1160	Banana	13	banana	0.977351
+1161	Banana	13	paddle, boat paddle	0.00387004
+1162	Banana	13	maraca	0.00341867
+1163	Banana	13	airship, dirigible	0.00211598
+1164	Banana	13	screwdriver	0.00157965
+1165	Banana	13	whistle	0.0010358
+1166	Banana	13	buckle	0.000798497
+1167	Banana	13	quill, quill pen	0.000755976
+1168	Banana	13	hook, claw	0.000613757
+1169	Banana	13	fountain pen	0.000542991
+1170	Banana	14	toilet seat	0.447384
+1171	Banana	14	hook, claw	0.12109
+1172	Banana	14	nematode, nematode worm, roundworm	0.0466684
+1173	Banana	14	iron, smoothing iron	0.0457245
+1174	Banana	14	shower curtain	0.0261817
+1175	Banana	14	street sign	0.0238364
+1176	Banana	14	gasmask, respirator, gas helmet	0.0231116
+1177	Banana	14	bib	0.0185082
+1178	Banana	14	neck brace	0.0124765
+1179	Banana	14	volleyball	0.0113517
+1180	Banana	15	slug	0.511153
+1181	Banana	15	hook, claw	0.202237
+1182	Banana	15	nematode, nematode worm, roundworm	0.0667527
+1183	Banana	15	thunder snake, worm snake, Carphophis amoenus	0.0572327
+1184	Banana	15	eel	0.0440414
+1185	Banana	15	Indian cobra, Naja naja	0.0209763
+1186	Banana	15	ringneck snake, ring-necked snake, ring snake	0.0135658
+1187	Banana	15	flatworm, platyhelminth	0.0129505
+1188	Banana	15	night snake, Hypsiglena torquata	0.00851982
+1189	Banana	15	hognose snake, puff adder, sand viper	0.00671318
+1190	Banana	16	banana	0.65047
+1191	Banana	16	lemon	0.195996
+1192	Banana	16	nipple	0.0214623
+1193	Banana	16	flatworm, platyhelminth	0.00768184
+1194	Banana	16	maraca	0.00766335
+1195	Banana	16	Granny Smith	0.0074718
+1196	Banana	16	orange	0.00704635
+1197	Banana	16	whistle	0.0067034
+1198	Banana	16	strainer	0.00556556
+1199	Banana	16	rocking chair, rocker	0.00550185
+1200	Banana	2	rock beauty, Holocanthus tricolor	0.417461
+1201	Banana	2	banana	0.123135
+1202	Banana	2	sea slug, nudibranch	0.115428
+1203	Banana	2	flatworm, platyhelminth	0.0296678
+1204	Banana	2	plate	0.0218385
+1205	Banana	2	anemone fish	0.0213516
+1206	Banana	2	carbonara	0.0197862
+1207	Banana	2	pencil sharpener	0.0175768
+1208	Banana	2	snorkel	0.0154691
+1209	Banana	2	coil, spiral, volute, whorl, helix	0.0109462
+1210	Banana	3	banana	0.418747
+1211	Banana	3	coil, spiral, volute, whorl, helix	0.411786
+1212	Banana	3	vine snake	0.037956
+1213	Banana	3	hook, claw	0.0273512
+1214	Banana	3	cup	0.0194788
+1215	Banana	3	flatworm, platyhelminth	0.0139432
+1216	Banana	3	sea slug, nudibranch	0.0099314
+1217	Banana	3	green snake, grass snake	0.00726669
+1218	Banana	3	anemone fish	0.00552936
+1219	Banana	3	volleyball	0.00546258
+1220	Banana	4	banana	0.618004
+1221	Banana	4	bell pepper	0.142925
+1222	Banana	4	cucumber, cuke	0.0726337
+1223	Banana	4	coil, spiral, volute, whorl, helix	0.0178078
+1224	Banana	4	mortar	0.0171679
+1225	Banana	4	vine snake	0.0158754
+1226	Banana	4	knot	0.0140154
+1227	Banana	4	green snake, grass snake	0.0137718
+1228	Banana	4	artichoke, globe artichoke	0.0104496
+1229	Banana	4	Granny Smith	0.0095237
+1230	Banana	5	banana	0.364579
+1231	Banana	5	cup	0.121272
+1232	Banana	5	coil, spiral, volute, whorl, helix	0.0725849
+1233	Banana	5	mixing bowl	0.0549405
+1234	Banana	5	Granny Smith	0.0447848
+1235	Banana	5	soup bowl	0.0387749
+1236	Banana	5	mortar	0.0279029
+1237	Banana	5	nipple	0.0263565
+1238	Banana	5	strainer	0.0232113
+1239	Banana	5	pitcher, ewer	0.0228292
+1240	Banana	6	banana	0.962737
+1241	Banana	6	acorn squash	0.00525043
+1242	Banana	6	jackfruit, jak, jack	0.00368097
+1243	Banana	6	zucchini, courgette	0.00301229
+1244	Banana	6	nipple	0.0029129
+1245	Banana	6	corn	0.00174055
+1246	Banana	6	spaghetti squash	0.00124361
+1247	Banana	6	cucumber, cuke	0.00119308
+1248	Banana	6	ear, spike, capitulum	0.00118885
+1249	Banana	6	lemon	0.00112619
+1250	Banana	7	banana	1.0
+1251	Banana	7	dumbbell	0.0
+1252	Banana	7	carbonara	0.0
+1253	Banana	7	stole	0.0
+1254	Banana	7	rubber eraser, rubber, pencil eraser	0.0
+1255	Banana	7	coffee mug	0.0
+1256	Banana	7	flagpole, flagstaff	0.0
+1257	Banana	7	parallel bars, bars	0.0
+1258	Banana	7	cheeseburger	0.0
+1259	Banana	7	bubble	0.0
+1260	Banana	8	banana	0.878092
+1261	Banana	8	Loafer	0.0356656
+1262	Banana	8	clog, geta, patten, sabot	0.0332859
+1263	Banana	8	sandal	0.0225568
+1264	Banana	8	spaghetti squash	0.00248008
+1265	Banana	8	sombrero	0.00245616
+1266	Banana	8	buckle	0.00234246
+1267	Banana	8	mortar	0.00181263
+1268	Banana	8	running shoe	0.00178679
+1269	Banana	8	French loaf	0.0015314
+1270	Banana	9	banana	0.892834
+1271	Banana	9	lemon	0.0367536
+1272	Banana	9	coil, spiral, volute, whorl, helix	0.00729105
+1273	Banana	9	orange	0.00643005
+1274	Banana	9	hook, claw	0.00522206
+1275	Banana	9	nipple	0.0034955
+1276	Banana	9	mortar	0.00317637
+1277	Banana	9	oxygen mask	0.00287517
+1278	Banana	9	pitcher, ewer	0.00239983
+1279	Banana	9	cup	0.00218887
