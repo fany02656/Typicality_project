@@ -1,0 +1,129 @@
+,type,dir,prob,id_label,readable_label
+0,Mountain,../Image/All_Cropped\Mountain\1.jpg,0.020161712542176247,09193705-n,alp
+1,Mountain,../Image/All_Cropped\Mountain\10.jpg,0.21241448819637299,09193705-n,alp
+2,Mountain,../Image/All_Cropped\Mountain\11.jpg,0.6954638361930847,09193705-n,alp
+3,Mountain,../Image/All_Cropped\Mountain\12.jpg,0.5897970795631409,09193705-n,alp
+4,Mountain,../Image/All_Cropped\Mountain\13.jpg,0.08803190290927887,09193705-n,alp
+5,Mountain,../Image/All_Cropped\Mountain\14.jpg,0.4989626407623291,09193705-n,alp
+6,Mountain,../Image/All_Cropped\Mountain\15.jpg,0.3847689628601074,09193705-n,alp
+7,Mountain,../Image/All_Cropped\Mountain\16.jpg,0.08504347503185272,09193705-n,alp
+8,Mountain,../Image/All_Cropped\Mountain\2.jpg,0.011823266744613647,09193705-n,alp
+9,Mountain,../Image/All_Cropped\Mountain\3.jpg,0.19879299402236938,09193705-n,alp
+10,Mountain,../Image/All_Cropped\Mountain\4.jpg,0.07367131859064102,09193705-n,alp
+11,Mountain,../Image/All_Cropped\Mountain\5.jpg,0.8824065923690796,09193705-n,alp
+12,Mountain,../Image/All_Cropped\Mountain\6.jpg,0.10065200924873352,09193705-n,alp
+13,Mountain,../Image/All_Cropped\Mountain\7.jpg,0.1089213415980339,09193705-n,alp
+14,Mountain,../Image/All_Cropped\Mountain\8.jpg,0.15335316956043243,09193705-n,alp
+15,Mountain,../Image/All_Cropped\Mountain\9.jpg,0.3333219289779663,09193705-n,alp
+16,Beach,../Image/All_Cropped\Beach\1.jpg,0.25346800684928894,09428293-n,"seashore, coast, seacoast, sea-coast"
+17,Beach,../Image/All_Cropped\Beach\10.jpg,0.5151326656341553,09428293-n,"seashore, coast, seacoast, sea-coast"
+18,Beach,../Image/All_Cropped\Beach\11.jpg,0.07013799250125885,09428293-n,"seashore, coast, seacoast, sea-coast"
+19,Beach,../Image/All_Cropped\Beach\12.jpg,0.4039233326911926,09428293-n,"seashore, coast, seacoast, sea-coast"
+20,Beach,../Image/All_Cropped\Beach\13.jpg,0.2787395715713501,09428293-n,"seashore, coast, seacoast, sea-coast"
+21,Beach,../Image/All_Cropped\Beach\14.jpg,0.5317563414573669,09428293-n,"seashore, coast, seacoast, sea-coast"
+22,Beach,../Image/All_Cropped\Beach\15.jpg,0.14965099096298218,09428293-n,"seashore, coast, seacoast, sea-coast"
+23,Beach,../Image/All_Cropped\Beach\16.jpg,0.07973866164684296,09428293-n,"seashore, coast, seacoast, sea-coast"
+24,Beach,../Image/All_Cropped\Beach\2.jpg,0.24565444886684418,09428293-n,"seashore, coast, seacoast, sea-coast"
+25,Beach,../Image/All_Cropped\Beach\3.jpg,0.7408772110939026,09428293-n,"seashore, coast, seacoast, sea-coast"
+26,Beach,../Image/All_Cropped\Beach\4.jpg,0.4620717763900757,09428293-n,"seashore, coast, seacoast, sea-coast"
+27,Beach,../Image/All_Cropped\Beach\5.jpg,0.6587571501731873,09428293-n,"seashore, coast, seacoast, sea-coast"
+28,Beach,../Image/All_Cropped\Beach\6.jpg,0.21890750527381897,09428293-n,"seashore, coast, seacoast, sea-coast"
+29,Beach,../Image/All_Cropped\Beach\7.jpg,0.3062776029109955,09428293-n,"seashore, coast, seacoast, sea-coast"
+30,Beach,../Image/All_Cropped\Beach\8.jpg,0.3141917586326599,09428293-n,"seashore, coast, seacoast, sea-coast"
+31,Beach,../Image/All_Cropped\Beach\9.jpg,0.4228431284427643,09428293-n,"seashore, coast, seacoast, sea-coast"
+32,Mug,../Image/All_Cropped\Mug\1.jpg,0.6889994740486145,03063599-n,coffee mug
+33,Mug,../Image/All_Cropped\Mug\10.jpg,0.320395290851593,03063599-n,coffee mug
+34,Mug,../Image/All_Cropped\Mug\11.jpg,0.2088254690170288,03063599-n,coffee mug
+35,Mug,../Image/All_Cropped\Mug\12.jpg,0.054952193051576614,03063599-n,coffee mug
+36,Mug,../Image/All_Cropped\Mug\13.jpg,0.03890763223171234,03063599-n,coffee mug
+37,Mug,../Image/All_Cropped\Mug\14.jpg,0.03243265673518181,03063599-n,coffee mug
+38,Mug,../Image/All_Cropped\Mug\15.jpg,0.16768279671669006,03063599-n,coffee mug
+39,Mug,../Image/All_Cropped\Mug\16.jpg,0.4557145833969116,03063599-n,coffee mug
+40,Mug,../Image/All_Cropped\Mug\2.jpeg,0.3367800712585449,03063599-n,coffee mug
+41,Mug,../Image/All_Cropped\Mug\3.jpg,0.002084739739075303,03063599-n,coffee mug
+42,Mug,../Image/All_Cropped\Mug\4.jpg,0.03266727179288864,03063599-n,coffee mug
+43,Mug,../Image/All_Cropped\Mug\5.jpg,0.07088887691497803,03063599-n,coffee mug
+44,Mug,../Image/All_Cropped\Mug\6.jpg,0.12273374199867249,03063599-n,coffee mug
+45,Mug,../Image/All_Cropped\Mug\7.jpg,0.05159594118595123,03063599-n,coffee mug
+46,Mug,../Image/All_Cropped\Mug\8.jpg,0.5256219506263733,03063599-n,coffee mug
+47,Mug,../Image/All_Cropped\Mug\9.jpeg,0.030437586829066277,03063599-n,coffee mug
+48,Banana,../Image/All_Cropped\Banana\1.jpg,0.7968792915344238,07753592-n,banana
+49,Banana,../Image/All_Cropped\Banana\10.jpg,0.6355705857276917,07753592-n,banana
+50,Banana,../Image/All_Cropped\Banana\11.jpg,0.0013168941950425506,07753592-n,banana
+51,Banana,../Image/All_Cropped\Banana\12.jpg,0.013993218541145325,07753592-n,banana
+52,Banana,../Image/All_Cropped\Banana\13.jpg,0.4855526089668274,07753592-n,banana
+53,Banana,../Image/All_Cropped\Banana\14.jpg,0.12797154486179352,07753592-n,banana
+54,Banana,../Image/All_Cropped\Banana\15.jpg,0.0008884556009434164,07753592-n,banana
+55,Banana,../Image/All_Cropped\Banana\16.jpg,0.16198311746120453,07753592-n,banana
+56,Banana,../Image/All_Cropped\Banana\2.jpg,0.012688166461884975,07753592-n,banana
+57,Banana,../Image/All_Cropped\Banana\3.jpg,0.4913323223590851,07753592-n,banana
+58,Banana,../Image/All_Cropped\Banana\4.jpg,0.24134351313114166,07753592-n,banana
+59,Banana,../Image/All_Cropped\Banana\5.jpg,0.9275352954864502,07753592-n,banana
+60,Banana,../Image/All_Cropped\Banana\6.jpg,0.45775502920150757,07753592-n,banana
+61,Banana,../Image/All_Cropped\Banana\7.jpg,0.9999611377716064,07753592-n,banana
+62,Banana,../Image/All_Cropped\Banana\8.jpg,0.9707083106040955,07753592-n,banana
+63,Banana,../Image/All_Cropped\Banana\9.jpg,0.5673401951789856,07753592-n,banana
+64,Car,../Image/All_Cropped\Car\1.jpg,0.7342456579208374,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+65,Car,../Image/All_Cropped\Car\10.jpg,0.019894037395715714,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+66,Car,../Image/All_Cropped\Car\11.jpg,0.071993887424469,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+67,Car,../Image/All_Cropped\Car\12.jpg,0.15136009454727173,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+68,Car,../Image/All_Cropped\Car\13.jpg,0.04111921414732933,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+69,Car,../Image/All_Cropped\Car\14.jpg,0.20672392845153809,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+70,Car,../Image/All_Cropped\Car\15.jpg,0.0018902632873505354,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+71,Car,../Image/All_Cropped\Car\16.jpg,0.002909473842009902,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+72,Car,../Image/All_Cropped\Car\2.jpg,0.1127714142203331,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+73,Car,../Image/All_Cropped\Car\3.jpg,0.03812994807958603,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+74,Car,../Image/All_Cropped\Car\4.jpg,0.01083887554705143,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+75,Car,../Image/All_Cropped\Car\5.jpg,0.10684455186128616,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+76,Car,../Image/All_Cropped\Car\6.jpg,0.00843224860727787,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+77,Car,../Image/All_Cropped\Car\7.jpg,0.11206506937742233,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+78,Car,../Image/All_Cropped\Car\8.jpg,0.17039266228675842,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+79,Car,../Image/All_Cropped\Car\9.jpg,0.40030157566070557,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon"
+80,Plane,../Image/All_Cropped\Plane\1.jpg,0.9592429995536804,02690373-n,airliner
+81,Plane,../Image/All_Cropped\Plane\10.jpg,0.9785115122795105,02690373-n,airliner
+82,Plane,../Image/All_Cropped\Plane\11.jpg,0.6425960063934326,02690373-n,airliner
+83,Plane,../Image/All_Cropped\Plane\12.jpg,0.2403966337442398,02690373-n,airliner
+84,Plane,../Image/All_Cropped\Plane\13.jpg,0.14094972610473633,02690373-n,airliner
+85,Plane,../Image/All_Cropped\Plane\14.jpg,0.002389541594311595,02690373-n,airliner
+86,Plane,../Image/All_Cropped\Plane\15.jpg,0.0003563422942534089,02690373-n,airliner
+87,Plane,../Image/All_Cropped\Plane\16.jpg,0.1362149864435196,02690373-n,airliner
+88,Plane,../Image/All_Cropped\Plane\2.jpg,0.6943495869636536,02690373-n,airliner
+89,Plane,../Image/All_Cropped\Plane\3.jpg,0.003008051309734583,02690373-n,airliner
+90,Plane,../Image/All_Cropped\Plane\4.jpg,0.08589077740907669,02690373-n,airliner
+91,Plane,../Image/All_Cropped\Plane\5.jpg,0.5541203618049622,02690373-n,airliner
+92,Plane,../Image/All_Cropped\Plane\6.jpg,0.19751203060150146,02690373-n,airliner
+93,Plane,../Image/All_Cropped\Plane\7.jpg,0.8381718397140503,02690373-n,airliner
+94,Plane,../Image/All_Cropped\Plane\8.jpg,0.033152446150779724,02690373-n,airliner
+95,Plane,../Image/All_Cropped\Plane\9.jpg,0.8285405039787292,02690373-n,airliner
+96,Lighthouse,../Image/All_Cropped\Lighthouse\1.jpg,0.9788176417350769,02814860-n,"beacon, lighthouse, beacon light, pharos"
+97,Lighthouse,../Image/All_Cropped\Lighthouse\10.jpg,0.8895012736320496,02814860-n,"beacon, lighthouse, beacon light, pharos"
+98,Lighthouse,../Image/All_Cropped\Lighthouse\11.jpg,0.9762085676193237,02814860-n,"beacon, lighthouse, beacon light, pharos"
+99,Lighthouse,../Image/All_Cropped\Lighthouse\12.jpg,0.5103374123573303,02814860-n,"beacon, lighthouse, beacon light, pharos"
+100,Lighthouse,../Image/All_Cropped\Lighthouse\13.jpg,0.7631182074546814,02814860-n,"beacon, lighthouse, beacon light, pharos"
+101,Lighthouse,../Image/All_Cropped\Lighthouse\14.jpg,0.3597436845302582,02814860-n,"beacon, lighthouse, beacon light, pharos"
+102,Lighthouse,../Image/All_Cropped\Lighthouse\15.jpg,0.5970438122749329,02814860-n,"beacon, lighthouse, beacon light, pharos"
+103,Lighthouse,../Image/All_Cropped\Lighthouse\16.jpg,0.06464211642742157,02814860-n,"beacon, lighthouse, beacon light, pharos"
+104,Lighthouse,../Image/All_Cropped\Lighthouse\2.jpg,0.683592677116394,02814860-n,"beacon, lighthouse, beacon light, pharos"
+105,Lighthouse,../Image/All_Cropped\Lighthouse\3.jpg,0.48419278860092163,02814860-n,"beacon, lighthouse, beacon light, pharos"
+106,Lighthouse,../Image/All_Cropped\Lighthouse\4.jpg,0.9673541784286499,02814860-n,"beacon, lighthouse, beacon light, pharos"
+107,Lighthouse,../Image/All_Cropped\Lighthouse\5.jpg,0.999691367149353,02814860-n,"beacon, lighthouse, beacon light, pharos"
+108,Lighthouse,../Image/All_Cropped\Lighthouse\6.jpg,0.8942961692810059,02814860-n,"beacon, lighthouse, beacon light, pharos"
+109,Lighthouse,../Image/All_Cropped\Lighthouse\7.jpg,0.4423571527004242,02814860-n,"beacon, lighthouse, beacon light, pharos"
+110,Lighthouse,../Image/All_Cropped\Lighthouse\8.jpg,0.1534191220998764,02814860-n,"beacon, lighthouse, beacon light, pharos"
+111,Lighthouse,../Image/All_Cropped\Lighthouse\9.jpg,0.7166114449501038,02814860-n,"beacon, lighthouse, beacon light, pharos"
+112,Church,../Image/All_Cropped\Church\1.jpg,0.04126502200961113,03028079-n,"church, church building"
+113,Church,../Image/All_Cropped\Church\10.jpg,0.24712853133678436,03028079-n,"church, church building"
+114,Church,../Image/All_Cropped\Church\11.jpg,0.0035729920491576195,03028079-n,"church, church building"
+115,Church,../Image/All_Cropped\Church\12.jpg,0.2171505093574524,03028079-n,"church, church building"
+116,Church,../Image/All_Cropped\Church\13.jpg,0.22654078900814056,03028079-n,"church, church building"
+117,Church,../Image/All_Cropped\Church\14.jpg,0.09485349804162979,03028079-n,"church, church building"
+118,Church,../Image/All_Cropped\Church\15.jpg,0.11151453107595444,03028079-n,"church, church building"
+119,Church,../Image/All_Cropped\Church\16.jpg,0.0828947201371193,03028079-n,"church, church building"
+120,Church,../Image/All_Cropped\Church\2.jpg,0.30112969875335693,03028079-n,"church, church building"
+121,Church,../Image/All_Cropped\Church\3.jpg,0.12386712431907654,03028079-n,"church, church building"
+122,Church,../Image/All_Cropped\Church\4.jpg,0.43961626291275024,03028079-n,"church, church building"
+123,Church,../Image/All_Cropped\Church\5.jpg,0.4907413423061371,03028079-n,"church, church building"
+124,Church,../Image/All_Cropped\Church\6.jpg,0.03191797062754631,03028079-n,"church, church building"
+125,Church,../Image/All_Cropped\Church\7.jpg,0.15323884785175323,03028079-n,"church, church building"
+126,Church,../Image/All_Cropped\Church\8.jpg,0.4047333896160126,03028079-n,"church, church building"
+127,Church,../Image/All_Cropped\Church\9.jpg,0.44589120149612427,03028079-n,"church, church building"
