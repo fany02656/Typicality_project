@@ -1,0 +1,1001 @@
+,id,label,uri
+0,01440764-n,"tench, Tinca tinca",http://wordnet-rdf.princeton.edu/wn30/01440764-n
+1,01443537-n,"goldfish, Carassius auratus",http://wordnet-rdf.princeton.edu/wn30/01443537-n
+2,01484850-n,"great white shark, white shark, man-eater, man-eating shark, Carcharodon carcharias",http://wordnet-rdf.princeton.edu/wn30/01484850-n
+3,01491361-n,"tiger shark, Galeocerdo cuvieri",http://wordnet-rdf.princeton.edu/wn30/01491361-n
+4,01494475-n,"hammerhead, hammerhead shark",http://wordnet-rdf.princeton.edu/wn30/01494475-n
+5,01496331-n,"electric ray, crampfish, numbfish, torpedo",http://wordnet-rdf.princeton.edu/wn30/01496331-n
+6,01498041-n,stingray,http://wordnet-rdf.princeton.edu/wn30/01498041-n
+7,01514668-n,cock,http://wordnet-rdf.princeton.edu/wn30/01514668-n
+8,01514859-n,hen,http://wordnet-rdf.princeton.edu/wn30/01514859-n
+9,01518878-n,"ostrich, Struthio camelus",http://wordnet-rdf.princeton.edu/wn30/01518878-n
+10,01530575-n,"brambling, Fringilla montifringilla",http://wordnet-rdf.princeton.edu/wn30/01530575-n
+11,01531178-n,"goldfinch, Carduelis carduelis",http://wordnet-rdf.princeton.edu/wn30/01531178-n
+12,01532829-n,"house finch, linnet, Carpodacus mexicanus",http://wordnet-rdf.princeton.edu/wn30/01532829-n
+13,01534433-n,"junco, snowbird",http://wordnet-rdf.princeton.edu/wn30/01534433-n
+14,01537544-n,"indigo bunting, indigo finch, indigo bird, Passerina cyanea",http://wordnet-rdf.princeton.edu/wn30/01537544-n
+15,01558993-n,"robin, American robin, Turdus migratorius",http://wordnet-rdf.princeton.edu/wn30/01558993-n
+16,01560419-n,bulbul,http://wordnet-rdf.princeton.edu/wn30/01560419-n
+17,01580077-n,jay,http://wordnet-rdf.princeton.edu/wn30/01580077-n
+18,01582220-n,magpie,http://wordnet-rdf.princeton.edu/wn30/01582220-n
+19,01592084-n,chickadee,http://wordnet-rdf.princeton.edu/wn30/01592084-n
+20,01601694-n,"water ouzel, dipper",http://wordnet-rdf.princeton.edu/wn30/01601694-n
+21,01608432-n,kite,http://wordnet-rdf.princeton.edu/wn30/01608432-n
+22,01614925-n,"bald eagle, American eagle, Haliaeetus leucocephalus",http://wordnet-rdf.princeton.edu/wn30/01614925-n
+23,01616318-n,vulture,http://wordnet-rdf.princeton.edu/wn30/01616318-n
+24,01622779-n,"great grey owl, great gray owl, Strix nebulosa",http://wordnet-rdf.princeton.edu/wn30/01622779-n
+25,01629819-n,"European fire salamander, Salamandra salamandra",http://wordnet-rdf.princeton.edu/wn30/01629819-n
+26,01630670-n,"common newt, Triturus vulgaris",http://wordnet-rdf.princeton.edu/wn30/01630670-n
+27,01631663-n,eft,http://wordnet-rdf.princeton.edu/wn30/01631663-n
+28,01632458-n,"spotted salamander, Ambystoma maculatum",http://wordnet-rdf.princeton.edu/wn30/01632458-n
+29,01632777-n,"axolotl, mud puppy, Ambystoma mexicanum",http://wordnet-rdf.princeton.edu/wn30/01632777-n
+30,01641577-n,"bullfrog, Rana catesbeiana",http://wordnet-rdf.princeton.edu/wn30/01641577-n
+31,01644373-n,"tree frog, tree-frog",http://wordnet-rdf.princeton.edu/wn30/01644373-n
+32,01644900-n,"tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui",http://wordnet-rdf.princeton.edu/wn30/01644900-n
+33,01664065-n,"loggerhead, loggerhead turtle, Caretta caretta",http://wordnet-rdf.princeton.edu/wn30/01664065-n
+34,01665541-n,"leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea",http://wordnet-rdf.princeton.edu/wn30/01665541-n
+35,01667114-n,mud turtle,http://wordnet-rdf.princeton.edu/wn30/01667114-n
+36,01667778-n,terrapin,http://wordnet-rdf.princeton.edu/wn30/01667778-n
+37,01669191-n,"box turtle, box tortoise",http://wordnet-rdf.princeton.edu/wn30/01669191-n
+38,01675722-n,banded gecko,http://wordnet-rdf.princeton.edu/wn30/01675722-n
+39,01677366-n,"common iguana, iguana, Iguana iguana",http://wordnet-rdf.princeton.edu/wn30/01677366-n
+40,01682714-n,"American chameleon, anole, Anolis carolinensis",http://wordnet-rdf.princeton.edu/wn30/01682714-n
+41,01685808-n,"whiptail, whiptail lizard",http://wordnet-rdf.princeton.edu/wn30/01685808-n
+42,01687978-n,agama,http://wordnet-rdf.princeton.edu/wn30/01687978-n
+43,01688243-n,"frilled lizard, Chlamydosaurus kingi",http://wordnet-rdf.princeton.edu/wn30/01688243-n
+44,01689811-n,alligator lizard,http://wordnet-rdf.princeton.edu/wn30/01689811-n
+45,01692333-n,"Gila monster, Heloderma suspectum",http://wordnet-rdf.princeton.edu/wn30/01692333-n
+46,01693334-n,"green lizard, Lacerta viridis",http://wordnet-rdf.princeton.edu/wn30/01693334-n
+47,01694178-n,"African chameleon, Chamaeleo chamaeleon",http://wordnet-rdf.princeton.edu/wn30/01694178-n
+48,01695060-n,"Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis",http://wordnet-rdf.princeton.edu/wn30/01695060-n
+49,01697457-n,"African crocodile, Nile crocodile, Crocodylus niloticus",http://wordnet-rdf.princeton.edu/wn30/01697457-n
+50,01698640-n,"American alligator, Alligator mississipiensis",http://wordnet-rdf.princeton.edu/wn30/01698640-n
+51,01704323-n,triceratops,http://wordnet-rdf.princeton.edu/wn30/01704323-n
+52,01728572-n,"thunder snake, worm snake, Carphophis amoenus",http://wordnet-rdf.princeton.edu/wn30/01728572-n
+53,01728920-n,"ringneck snake, ring-necked snake, ring snake",http://wordnet-rdf.princeton.edu/wn30/01728920-n
+54,01729322-n,"hognose snake, puff adder, sand viper",http://wordnet-rdf.princeton.edu/wn30/01729322-n
+55,01729977-n,"green snake, grass snake",http://wordnet-rdf.princeton.edu/wn30/01729977-n
+56,01734418-n,"king snake, kingsnake",http://wordnet-rdf.princeton.edu/wn30/01734418-n
+57,01735189-n,"garter snake, grass snake",http://wordnet-rdf.princeton.edu/wn30/01735189-n
+58,01737021-n,water snake,http://wordnet-rdf.princeton.edu/wn30/01737021-n
+59,01739381-n,vine snake,http://wordnet-rdf.princeton.edu/wn30/01739381-n
+60,01740131-n,"night snake, Hypsiglena torquata",http://wordnet-rdf.princeton.edu/wn30/01740131-n
+61,01742172-n,"boa constrictor, Constrictor constrictor",http://wordnet-rdf.princeton.edu/wn30/01742172-n
+62,01744401-n,"rock python, rock snake, Python sebae",http://wordnet-rdf.princeton.edu/wn30/01744401-n
+63,01748264-n,"Indian cobra, Naja naja",http://wordnet-rdf.princeton.edu/wn30/01748264-n
+64,01749939-n,green mamba,http://wordnet-rdf.princeton.edu/wn30/01749939-n
+65,01751748-n,sea snake,http://wordnet-rdf.princeton.edu/wn30/01751748-n
+66,01753488-n,"horned viper, cerastes, sand viper, horned asp, Cerastes cornutus",http://wordnet-rdf.princeton.edu/wn30/01753488-n
+67,01755581-n,"diamondback, diamondback rattlesnake, Crotalus adamanteus",http://wordnet-rdf.princeton.edu/wn30/01755581-n
+68,01756291-n,"sidewinder, horned rattlesnake, Crotalus cerastes",http://wordnet-rdf.princeton.edu/wn30/01756291-n
+69,01768244-n,trilobite,http://wordnet-rdf.princeton.edu/wn30/01768244-n
+70,01770081-n,"harvestman, daddy longlegs, Phalangium opilio",http://wordnet-rdf.princeton.edu/wn30/01770081-n
+71,01770393-n,scorpion,http://wordnet-rdf.princeton.edu/wn30/01770393-n
+72,01773157-n,"black and gold garden spider, Argiope aurantia",http://wordnet-rdf.princeton.edu/wn30/01773157-n
+73,01773549-n,"barn spider, Araneus cavaticus",http://wordnet-rdf.princeton.edu/wn30/01773549-n
+74,01773797-n,"garden spider, Aranea diademata",http://wordnet-rdf.princeton.edu/wn30/01773797-n
+75,01774384-n,"black widow, Latrodectus mactans",http://wordnet-rdf.princeton.edu/wn30/01774384-n
+76,01774750-n,tarantula,http://wordnet-rdf.princeton.edu/wn30/01774750-n
+77,01775062-n,"wolf spider, hunting spider",http://wordnet-rdf.princeton.edu/wn30/01775062-n
+78,01776313-n,tick,http://wordnet-rdf.princeton.edu/wn30/01776313-n
+79,01784675-n,centipede,http://wordnet-rdf.princeton.edu/wn30/01784675-n
+80,01795545-n,black grouse,http://wordnet-rdf.princeton.edu/wn30/01795545-n
+81,01796340-n,ptarmigan,http://wordnet-rdf.princeton.edu/wn30/01796340-n
+82,01797886-n,"ruffed grouse, partridge, Bonasa umbellus",http://wordnet-rdf.princeton.edu/wn30/01797886-n
+83,01798484-n,"prairie chicken, prairie grouse, prairie fowl",http://wordnet-rdf.princeton.edu/wn30/01798484-n
+84,01806143-n,peacock,http://wordnet-rdf.princeton.edu/wn30/01806143-n
+85,01806567-n,quail,http://wordnet-rdf.princeton.edu/wn30/01806567-n
+86,01807496-n,partridge,http://wordnet-rdf.princeton.edu/wn30/01807496-n
+87,01817953-n,"African grey, African gray, Psittacus erithacus",http://wordnet-rdf.princeton.edu/wn30/01817953-n
+88,01818515-n,macaw,http://wordnet-rdf.princeton.edu/wn30/01818515-n
+89,01819313-n,"sulphur-crested cockatoo, Kakatoe galerita, Cacatua galerita",http://wordnet-rdf.princeton.edu/wn30/01819313-n
+90,01820546-n,lorikeet,http://wordnet-rdf.princeton.edu/wn30/01820546-n
+91,01824575-n,coucal,http://wordnet-rdf.princeton.edu/wn30/01824575-n
+92,01828970-n,bee eater,http://wordnet-rdf.princeton.edu/wn30/01828970-n
+93,01829413-n,hornbill,http://wordnet-rdf.princeton.edu/wn30/01829413-n
+94,01833805-n,hummingbird,http://wordnet-rdf.princeton.edu/wn30/01833805-n
+95,01843065-n,jacamar,http://wordnet-rdf.princeton.edu/wn30/01843065-n
+96,01843383-n,toucan,http://wordnet-rdf.princeton.edu/wn30/01843383-n
+97,01847000-n,drake,http://wordnet-rdf.princeton.edu/wn30/01847000-n
+98,01855032-n,"red-breasted merganser, Mergus serrator",http://wordnet-rdf.princeton.edu/wn30/01855032-n
+99,01855672-n,goose,http://wordnet-rdf.princeton.edu/wn30/01855672-n
+100,01860187-n,"black swan, Cygnus atratus",http://wordnet-rdf.princeton.edu/wn30/01860187-n
+101,01871265-n,tusker,http://wordnet-rdf.princeton.edu/wn30/01871265-n
+102,01872401-n,"echidna, spiny anteater, anteater",http://wordnet-rdf.princeton.edu/wn30/01872401-n
+103,01873310-n,"platypus, duckbill, duckbilled platypus, duck-billed platypus, Ornithorhynchus anatinus",http://wordnet-rdf.princeton.edu/wn30/01873310-n
+104,01877812-n,"wallaby, brush kangaroo",http://wordnet-rdf.princeton.edu/wn30/01877812-n
+105,01882714-n,"koala, koala bear, kangaroo bear, native bear, Phascolarctos cinereus",http://wordnet-rdf.princeton.edu/wn30/01882714-n
+106,01883070-n,wombat,http://wordnet-rdf.princeton.edu/wn30/01883070-n
+107,01910747-n,jellyfish,http://wordnet-rdf.princeton.edu/wn30/01910747-n
+108,01914609-n,"sea anemone, anemone",http://wordnet-rdf.princeton.edu/wn30/01914609-n
+109,01917289-n,brain coral,http://wordnet-rdf.princeton.edu/wn30/01917289-n
+110,01924916-n,"flatworm, platyhelminth",http://wordnet-rdf.princeton.edu/wn30/01924916-n
+111,01930112-n,"nematode, nematode worm, roundworm",http://wordnet-rdf.princeton.edu/wn30/01930112-n
+112,01943899-n,conch,http://wordnet-rdf.princeton.edu/wn30/01943899-n
+113,01944390-n,snail,http://wordnet-rdf.princeton.edu/wn30/01944390-n
+114,01945685-n,slug,http://wordnet-rdf.princeton.edu/wn30/01945685-n
+115,01950731-n,"sea slug, nudibranch",http://wordnet-rdf.princeton.edu/wn30/01950731-n
+116,01955084-n,"chiton, coat-of-mail shell, sea cradle, polyplacophore",http://wordnet-rdf.princeton.edu/wn30/01955084-n
+117,01968897-n,"chambered nautilus, pearly nautilus, nautilus",http://wordnet-rdf.princeton.edu/wn30/01968897-n
+118,01978287-n,"Dungeness crab, Cancer magister",http://wordnet-rdf.princeton.edu/wn30/01978287-n
+119,01978455-n,"rock crab, Cancer irroratus",http://wordnet-rdf.princeton.edu/wn30/01978455-n
+120,01980166-n,fiddler crab,http://wordnet-rdf.princeton.edu/wn30/01980166-n
+121,01981276-n,"king crab, Alaska crab, Alaskan king crab, Alaska king crab, Paralithodes camtschatica",http://wordnet-rdf.princeton.edu/wn30/01981276-n
+122,01983481-n,"American lobster, Northern lobster, Maine lobster, Homarus americanus",http://wordnet-rdf.princeton.edu/wn30/01983481-n
+123,01984695-n,"spiny lobster, langouste, rock lobster, crawfish, crayfish, sea crawfish",http://wordnet-rdf.princeton.edu/wn30/01984695-n
+124,01985128-n,"crayfish, crawfish, crawdad, crawdaddy",http://wordnet-rdf.princeton.edu/wn30/01985128-n
+125,01986214-n,hermit crab,http://wordnet-rdf.princeton.edu/wn30/01986214-n
+126,01990800-n,isopod,http://wordnet-rdf.princeton.edu/wn30/01990800-n
+127,02002556-n,"white stork, Ciconia ciconia",http://wordnet-rdf.princeton.edu/wn30/02002556-n
+128,02002724-n,"black stork, Ciconia nigra",http://wordnet-rdf.princeton.edu/wn30/02002724-n
+129,02006656-n,spoonbill,http://wordnet-rdf.princeton.edu/wn30/02006656-n
+130,02007558-n,flamingo,http://wordnet-rdf.princeton.edu/wn30/02007558-n
+131,02009229-n,"little blue heron, Egretta caerulea",http://wordnet-rdf.princeton.edu/wn30/02009229-n
+132,02009912-n,"American egret, great white heron, Egretta albus",http://wordnet-rdf.princeton.edu/wn30/02009912-n
+133,02011460-n,bittern,http://wordnet-rdf.princeton.edu/wn30/02011460-n
+134,03126707-n,crane,http://wordnet-rdf.princeton.edu/wn30/03126707-n
+135,02013706-n,"limpkin, Aramus pictus",http://wordnet-rdf.princeton.edu/wn30/02013706-n
+136,02017213-n,"European gallinule, Porphyrio porphyrio",http://wordnet-rdf.princeton.edu/wn30/02017213-n
+137,02018207-n,"American coot, marsh hen, mud hen, water hen, Fulica americana",http://wordnet-rdf.princeton.edu/wn30/02018207-n
+138,02018795-n,bustard,http://wordnet-rdf.princeton.edu/wn30/02018795-n
+139,02025239-n,"ruddy turnstone, Arenaria interpres",http://wordnet-rdf.princeton.edu/wn30/02025239-n
+140,02027492-n,"red-backed sandpiper, dunlin, Erolia alpina",http://wordnet-rdf.princeton.edu/wn30/02027492-n
+141,02028035-n,"redshank, Tringa totanus",http://wordnet-rdf.princeton.edu/wn30/02028035-n
+142,02033041-n,dowitcher,http://wordnet-rdf.princeton.edu/wn30/02033041-n
+143,02037110-n,"oystercatcher, oyster catcher",http://wordnet-rdf.princeton.edu/wn30/02037110-n
+144,02051845-n,pelican,http://wordnet-rdf.princeton.edu/wn30/02051845-n
+145,02056570-n,"king penguin, Aptenodytes patagonica",http://wordnet-rdf.princeton.edu/wn30/02056570-n
+146,02058221-n,"albatross, mollymawk",http://wordnet-rdf.princeton.edu/wn30/02058221-n
+147,02066245-n,"grey whale, gray whale, devilfish, Eschrichtius gibbosus, Eschrichtius robustus",http://wordnet-rdf.princeton.edu/wn30/02066245-n
+148,02071294-n,"killer whale, killer, orca, grampus, sea wolf, Orcinus orca",http://wordnet-rdf.princeton.edu/wn30/02071294-n
+149,02074367-n,"dugong, Dugong dugon",http://wordnet-rdf.princeton.edu/wn30/02074367-n
+150,02077923-n,sea lion,http://wordnet-rdf.princeton.edu/wn30/02077923-n
+151,02085620-n,Chihuahua,http://wordnet-rdf.princeton.edu/wn30/02085620-n
+152,02085782-n,Japanese spaniel,http://wordnet-rdf.princeton.edu/wn30/02085782-n
+153,02085936-n,"Maltese dog, Maltese terrier, Maltese",http://wordnet-rdf.princeton.edu/wn30/02085936-n
+154,02086079-n,"Pekinese, Pekingese, Peke",http://wordnet-rdf.princeton.edu/wn30/02086079-n
+155,02086240-n,Shih-Tzu,http://wordnet-rdf.princeton.edu/wn30/02086240-n
+156,02086646-n,Blenheim spaniel,http://wordnet-rdf.princeton.edu/wn30/02086646-n
+157,02086910-n,papillon,http://wordnet-rdf.princeton.edu/wn30/02086910-n
+158,02087046-n,toy terrier,http://wordnet-rdf.princeton.edu/wn30/02087046-n
+159,02087394-n,Rhodesian ridgeback,http://wordnet-rdf.princeton.edu/wn30/02087394-n
+160,02088094-n,"Afghan hound, Afghan",http://wordnet-rdf.princeton.edu/wn30/02088094-n
+161,02088238-n,"basset, basset hound",http://wordnet-rdf.princeton.edu/wn30/02088238-n
+162,02088364-n,beagle,http://wordnet-rdf.princeton.edu/wn30/02088364-n
+163,02088466-n,"bloodhound, sleuthhound",http://wordnet-rdf.princeton.edu/wn30/02088466-n
+164,02088632-n,bluetick,http://wordnet-rdf.princeton.edu/wn30/02088632-n
+165,02089078-n,black-and-tan coonhound,http://wordnet-rdf.princeton.edu/wn30/02089078-n
+166,02089867-n,"Walker hound, Walker foxhound",http://wordnet-rdf.princeton.edu/wn30/02089867-n
+167,02089973-n,English foxhound,http://wordnet-rdf.princeton.edu/wn30/02089973-n
+168,02090379-n,redbone,http://wordnet-rdf.princeton.edu/wn30/02090379-n
+169,02090622-n,"borzoi, Russian wolfhound",http://wordnet-rdf.princeton.edu/wn30/02090622-n
+170,02090721-n,Irish wolfhound,http://wordnet-rdf.princeton.edu/wn30/02090721-n
+171,02091032-n,Italian greyhound,http://wordnet-rdf.princeton.edu/wn30/02091032-n
+172,02091134-n,whippet,http://wordnet-rdf.princeton.edu/wn30/02091134-n
+173,02091244-n,"Ibizan hound, Ibizan Podenco",http://wordnet-rdf.princeton.edu/wn30/02091244-n
+174,02091467-n,"Norwegian elkhound, elkhound",http://wordnet-rdf.princeton.edu/wn30/02091467-n
+175,02091635-n,"otterhound, otter hound",http://wordnet-rdf.princeton.edu/wn30/02091635-n
+176,02091831-n,"Saluki, gazelle hound",http://wordnet-rdf.princeton.edu/wn30/02091831-n
+177,02092002-n,"Scottish deerhound, deerhound",http://wordnet-rdf.princeton.edu/wn30/02092002-n
+178,02092339-n,Weimaraner,http://wordnet-rdf.princeton.edu/wn30/02092339-n
+179,02093256-n,"Staffordshire bullterrier, Staffordshire bull terrier",http://wordnet-rdf.princeton.edu/wn30/02093256-n
+180,02093428-n,"American Staffordshire terrier, Staffordshire terrier, American pit bull terrier, pit bull terrier",http://wordnet-rdf.princeton.edu/wn30/02093428-n
+181,02093647-n,Bedlington terrier,http://wordnet-rdf.princeton.edu/wn30/02093647-n
+182,02093754-n,Border terrier,http://wordnet-rdf.princeton.edu/wn30/02093754-n
+183,02093859-n,Kerry blue terrier,http://wordnet-rdf.princeton.edu/wn30/02093859-n
+184,02093991-n,Irish terrier,http://wordnet-rdf.princeton.edu/wn30/02093991-n
+185,02094114-n,Norfolk terrier,http://wordnet-rdf.princeton.edu/wn30/02094114-n
+186,02094258-n,Norwich terrier,http://wordnet-rdf.princeton.edu/wn30/02094258-n
+187,02094433-n,Yorkshire terrier,http://wordnet-rdf.princeton.edu/wn30/02094433-n
+188,02095314-n,wire-haired fox terrier,http://wordnet-rdf.princeton.edu/wn30/02095314-n
+189,02095570-n,Lakeland terrier,http://wordnet-rdf.princeton.edu/wn30/02095570-n
+190,02095889-n,"Sealyham terrier, Sealyham",http://wordnet-rdf.princeton.edu/wn30/02095889-n
+191,02096051-n,"Airedale, Airedale terrier",http://wordnet-rdf.princeton.edu/wn30/02096051-n
+192,02096177-n,"cairn, cairn terrier",http://wordnet-rdf.princeton.edu/wn30/02096177-n
+193,02096294-n,Australian terrier,http://wordnet-rdf.princeton.edu/wn30/02096294-n
+194,02096437-n,"Dandie Dinmont, Dandie Dinmont terrier",http://wordnet-rdf.princeton.edu/wn30/02096437-n
+195,02096585-n,"Boston bull, Boston terrier",http://wordnet-rdf.princeton.edu/wn30/02096585-n
+196,02097047-n,miniature schnauzer,http://wordnet-rdf.princeton.edu/wn30/02097047-n
+197,02097130-n,giant schnauzer,http://wordnet-rdf.princeton.edu/wn30/02097130-n
+198,02097209-n,standard schnauzer,http://wordnet-rdf.princeton.edu/wn30/02097209-n
+199,02097298-n,"Scotch terrier, Scottish terrier, Scottie",http://wordnet-rdf.princeton.edu/wn30/02097298-n
+200,02097474-n,"Tibetan terrier, chrysanthemum dog",http://wordnet-rdf.princeton.edu/wn30/02097474-n
+201,02097658-n,"silky terrier, Sydney silky",http://wordnet-rdf.princeton.edu/wn30/02097658-n
+202,02098105-n,soft-coated wheaten terrier,http://wordnet-rdf.princeton.edu/wn30/02098105-n
+203,02098286-n,West Highland white terrier,http://wordnet-rdf.princeton.edu/wn30/02098286-n
+204,02098413-n,"Lhasa, Lhasa apso",http://wordnet-rdf.princeton.edu/wn30/02098413-n
+205,02099267-n,flat-coated retriever,http://wordnet-rdf.princeton.edu/wn30/02099267-n
+206,02099429-n,curly-coated retriever,http://wordnet-rdf.princeton.edu/wn30/02099429-n
+207,02099601-n,golden retriever,http://wordnet-rdf.princeton.edu/wn30/02099601-n
+208,02099712-n,Labrador retriever,http://wordnet-rdf.princeton.edu/wn30/02099712-n
+209,02099849-n,Chesapeake Bay retriever,http://wordnet-rdf.princeton.edu/wn30/02099849-n
+210,02100236-n,German short-haired pointer,http://wordnet-rdf.princeton.edu/wn30/02100236-n
+211,02100583-n,"vizsla, Hungarian pointer",http://wordnet-rdf.princeton.edu/wn30/02100583-n
+212,02100735-n,English setter,http://wordnet-rdf.princeton.edu/wn30/02100735-n
+213,02100877-n,"Irish setter, red setter",http://wordnet-rdf.princeton.edu/wn30/02100877-n
+214,02101006-n,Gordon setter,http://wordnet-rdf.princeton.edu/wn30/02101006-n
+215,02101388-n,Brittany spaniel,http://wordnet-rdf.princeton.edu/wn30/02101388-n
+216,02101556-n,"clumber, clumber spaniel",http://wordnet-rdf.princeton.edu/wn30/02101556-n
+217,02102040-n,"English springer, English springer spaniel",http://wordnet-rdf.princeton.edu/wn30/02102040-n
+218,02102177-n,Welsh springer spaniel,http://wordnet-rdf.princeton.edu/wn30/02102177-n
+219,02102318-n,"cocker spaniel, English cocker spaniel, cocker",http://wordnet-rdf.princeton.edu/wn30/02102318-n
+220,02102480-n,Sussex spaniel,http://wordnet-rdf.princeton.edu/wn30/02102480-n
+221,02102973-n,Irish water spaniel,http://wordnet-rdf.princeton.edu/wn30/02102973-n
+222,02104029-n,kuvasz,http://wordnet-rdf.princeton.edu/wn30/02104029-n
+223,02104365-n,schipperke,http://wordnet-rdf.princeton.edu/wn30/02104365-n
+224,02105056-n,groenendael,http://wordnet-rdf.princeton.edu/wn30/02105056-n
+225,02105162-n,malinois,http://wordnet-rdf.princeton.edu/wn30/02105162-n
+226,02105251-n,briard,http://wordnet-rdf.princeton.edu/wn30/02105251-n
+227,02105412-n,kelpie,http://wordnet-rdf.princeton.edu/wn30/02105412-n
+228,02105505-n,komondor,http://wordnet-rdf.princeton.edu/wn30/02105505-n
+229,02105641-n,"Old English sheepdog, bobtail",http://wordnet-rdf.princeton.edu/wn30/02105641-n
+230,02105855-n,"Shetland sheepdog, Shetland sheep dog, Shetland",http://wordnet-rdf.princeton.edu/wn30/02105855-n
+231,02106030-n,collie,http://wordnet-rdf.princeton.edu/wn30/02106030-n
+232,02106166-n,Border collie,http://wordnet-rdf.princeton.edu/wn30/02106166-n
+233,02106382-n,"Bouvier des Flandres, Bouviers des Flandres",http://wordnet-rdf.princeton.edu/wn30/02106382-n
+234,02106550-n,Rottweiler,http://wordnet-rdf.princeton.edu/wn30/02106550-n
+235,02106662-n,"German shepherd, German shepherd dog, German police dog, alsatian",http://wordnet-rdf.princeton.edu/wn30/02106662-n
+236,02107142-n,"Doberman, Doberman pinscher",http://wordnet-rdf.princeton.edu/wn30/02107142-n
+237,02107312-n,miniature pinscher,http://wordnet-rdf.princeton.edu/wn30/02107312-n
+238,02107574-n,Greater Swiss Mountain dog,http://wordnet-rdf.princeton.edu/wn30/02107574-n
+239,02107683-n,Bernese mountain dog,http://wordnet-rdf.princeton.edu/wn30/02107683-n
+240,02107908-n,Appenzeller,http://wordnet-rdf.princeton.edu/wn30/02107908-n
+241,02108000-n,EntleBucher,http://wordnet-rdf.princeton.edu/wn30/02108000-n
+242,02108089-n,boxer,http://wordnet-rdf.princeton.edu/wn30/02108089-n
+243,02108422-n,bull mastiff,http://wordnet-rdf.princeton.edu/wn30/02108422-n
+244,02108551-n,Tibetan mastiff,http://wordnet-rdf.princeton.edu/wn30/02108551-n
+245,02108915-n,French bulldog,http://wordnet-rdf.princeton.edu/wn30/02108915-n
+246,02109047-n,Great Dane,http://wordnet-rdf.princeton.edu/wn30/02109047-n
+247,02109525-n,"Saint Bernard, St Bernard",http://wordnet-rdf.princeton.edu/wn30/02109525-n
+248,02109961-n,"Eskimo dog, husky",http://wordnet-rdf.princeton.edu/wn30/02109961-n
+249,02110063-n,"malamute, malemute, Alaskan malamute",http://wordnet-rdf.princeton.edu/wn30/02110063-n
+250,02110185-n,Siberian husky,http://wordnet-rdf.princeton.edu/wn30/02110185-n
+251,02110341-n,"dalmatian, coach dog, carriage dog",http://wordnet-rdf.princeton.edu/wn30/02110341-n
+252,02110627-n,"affenpinscher, monkey pinscher, monkey dog",http://wordnet-rdf.princeton.edu/wn30/02110627-n
+253,02110806-n,basenji,http://wordnet-rdf.princeton.edu/wn30/02110806-n
+254,02110958-n,"pug, pug-dog",http://wordnet-rdf.princeton.edu/wn30/02110958-n
+255,02111129-n,Leonberg,http://wordnet-rdf.princeton.edu/wn30/02111129-n
+256,02111277-n,"Newfoundland, Newfoundland dog",http://wordnet-rdf.princeton.edu/wn30/02111277-n
+257,02111500-n,Great Pyrenees,http://wordnet-rdf.princeton.edu/wn30/02111500-n
+258,02111889-n,"Samoyed, Samoyede",http://wordnet-rdf.princeton.edu/wn30/02111889-n
+259,02112018-n,Pomeranian,http://wordnet-rdf.princeton.edu/wn30/02112018-n
+260,02112137-n,"chow, chow chow",http://wordnet-rdf.princeton.edu/wn30/02112137-n
+261,02112350-n,keeshond,http://wordnet-rdf.princeton.edu/wn30/02112350-n
+262,02112706-n,Brabancon griffon,http://wordnet-rdf.princeton.edu/wn30/02112706-n
+263,02113023-n,"Pembroke, Pembroke Welsh corgi",http://wordnet-rdf.princeton.edu/wn30/02113023-n
+264,02113186-n,"Cardigan, Cardigan Welsh corgi",http://wordnet-rdf.princeton.edu/wn30/02113186-n
+265,02113624-n,toy poodle,http://wordnet-rdf.princeton.edu/wn30/02113624-n
+266,02113712-n,miniature poodle,http://wordnet-rdf.princeton.edu/wn30/02113712-n
+267,02113799-n,standard poodle,http://wordnet-rdf.princeton.edu/wn30/02113799-n
+268,02113978-n,Mexican hairless,http://wordnet-rdf.princeton.edu/wn30/02113978-n
+269,02114367-n,"timber wolf, grey wolf, gray wolf, Canis lupus",http://wordnet-rdf.princeton.edu/wn30/02114367-n
+270,02114548-n,"white wolf, Arctic wolf, Canis lupus tundrarum",http://wordnet-rdf.princeton.edu/wn30/02114548-n
+271,02114712-n,"red wolf, maned wolf, Canis rufus, Canis niger",http://wordnet-rdf.princeton.edu/wn30/02114712-n
+272,02114855-n,"coyote, prairie wolf, brush wolf, Canis latrans",http://wordnet-rdf.princeton.edu/wn30/02114855-n
+273,02115641-n,"dingo, warrigal, warragal, Canis dingo",http://wordnet-rdf.princeton.edu/wn30/02115641-n
+274,02115913-n,"dhole, Cuon alpinus",http://wordnet-rdf.princeton.edu/wn30/02115913-n
+275,02116738-n,"African hunting dog, hyena dog, Cape hunting dog, Lycaon pictus",http://wordnet-rdf.princeton.edu/wn30/02116738-n
+276,02117135-n,"hyena, hyaena",http://wordnet-rdf.princeton.edu/wn30/02117135-n
+277,02119022-n,"red fox, Vulpes vulpes",http://wordnet-rdf.princeton.edu/wn30/02119022-n
+278,02119789-n,"kit fox, Vulpes macrotis",http://wordnet-rdf.princeton.edu/wn30/02119789-n
+279,02120079-n,"Arctic fox, white fox, Alopex lagopus",http://wordnet-rdf.princeton.edu/wn30/02120079-n
+280,02120505-n,"grey fox, gray fox, Urocyon cinereoargenteus",http://wordnet-rdf.princeton.edu/wn30/02120505-n
+281,02123045-n,"tabby, tabby cat",http://wordnet-rdf.princeton.edu/wn30/02123045-n
+282,02123159-n,tiger cat,http://wordnet-rdf.princeton.edu/wn30/02123159-n
+283,02123394-n,Persian cat,http://wordnet-rdf.princeton.edu/wn30/02123394-n
+284,02123597-n,"Siamese cat, Siamese",http://wordnet-rdf.princeton.edu/wn30/02123597-n
+285,02124075-n,Egyptian cat,http://wordnet-rdf.princeton.edu/wn30/02124075-n
+286,02125311-n,"cougar, puma, catamount, mountain lion, painter, panther, Felis concolor",http://wordnet-rdf.princeton.edu/wn30/02125311-n
+287,02127052-n,"lynx, catamount",http://wordnet-rdf.princeton.edu/wn30/02127052-n
+288,02128385-n,"leopard, Panthera pardus",http://wordnet-rdf.princeton.edu/wn30/02128385-n
+289,02128757-n,"snow leopard, ounce, Panthera uncia",http://wordnet-rdf.princeton.edu/wn30/02128757-n
+290,02128925-n,"jaguar, panther, Panthera onca, Felis onca",http://wordnet-rdf.princeton.edu/wn30/02128925-n
+291,02129165-n,"lion, king of beasts, Panthera leo",http://wordnet-rdf.princeton.edu/wn30/02129165-n
+292,02129604-n,"tiger, Panthera tigris",http://wordnet-rdf.princeton.edu/wn30/02129604-n
+293,02130308-n,"cheetah, chetah, Acinonyx jubatus",http://wordnet-rdf.princeton.edu/wn30/02130308-n
+294,02132136-n,"brown bear, bruin, Ursus arctos",http://wordnet-rdf.princeton.edu/wn30/02132136-n
+295,02133161-n,"American black bear, black bear, Ursus americanus, Euarctos americanus",http://wordnet-rdf.princeton.edu/wn30/02133161-n
+296,02134084-n,"ice bear, polar bear, Ursus Maritimus, Thalarctos maritimus",http://wordnet-rdf.princeton.edu/wn30/02134084-n
+297,02134418-n,"sloth bear, Melursus ursinus, Ursus ursinus",http://wordnet-rdf.princeton.edu/wn30/02134418-n
+298,02137549-n,mongoose,http://wordnet-rdf.princeton.edu/wn30/02137549-n
+299,02138441-n,"meerkat, mierkat",http://wordnet-rdf.princeton.edu/wn30/02138441-n
+300,02165105-n,tiger beetle,http://wordnet-rdf.princeton.edu/wn30/02165105-n
+301,02165456-n,"ladybug, ladybeetle, lady beetle, ladybird, ladybird beetle",http://wordnet-rdf.princeton.edu/wn30/02165456-n
+302,02167151-n,"ground beetle, carabid beetle",http://wordnet-rdf.princeton.edu/wn30/02167151-n
+303,02168699-n,"long-horned beetle, longicorn, longicorn beetle",http://wordnet-rdf.princeton.edu/wn30/02168699-n
+304,02169497-n,"leaf beetle, chrysomelid",http://wordnet-rdf.princeton.edu/wn30/02169497-n
+305,02172182-n,dung beetle,http://wordnet-rdf.princeton.edu/wn30/02172182-n
+306,02174001-n,rhinoceros beetle,http://wordnet-rdf.princeton.edu/wn30/02174001-n
+307,02177972-n,weevil,http://wordnet-rdf.princeton.edu/wn30/02177972-n
+308,02190166-n,fly,http://wordnet-rdf.princeton.edu/wn30/02190166-n
+309,02206856-n,bee,http://wordnet-rdf.princeton.edu/wn30/02206856-n
+310,02219486-n,"ant, emmet, pismire",http://wordnet-rdf.princeton.edu/wn30/02219486-n
+311,02226429-n,"grasshopper, hopper",http://wordnet-rdf.princeton.edu/wn30/02226429-n
+312,02229544-n,cricket,http://wordnet-rdf.princeton.edu/wn30/02229544-n
+313,02231487-n,"walking stick, walkingstick, stick insect",http://wordnet-rdf.princeton.edu/wn30/02231487-n
+314,02233338-n,"cockroach, roach",http://wordnet-rdf.princeton.edu/wn30/02233338-n
+315,02236044-n,"mantis, mantid",http://wordnet-rdf.princeton.edu/wn30/02236044-n
+316,02256656-n,"cicada, cicala",http://wordnet-rdf.princeton.edu/wn30/02256656-n
+317,02259212-n,leafhopper,http://wordnet-rdf.princeton.edu/wn30/02259212-n
+318,02264363-n,"lacewing, lacewing fly",http://wordnet-rdf.princeton.edu/wn30/02264363-n
+319,02268443-n,"dragonfly, darning needle, devil's darning needle, sewing needle, snake feeder, snake doctor, mosquito hawk, skeeter hawk",http://wordnet-rdf.princeton.edu/wn30/02268443-n
+320,02268853-n,damselfly,http://wordnet-rdf.princeton.edu/wn30/02268853-n
+321,02276258-n,admiral,http://wordnet-rdf.princeton.edu/wn30/02276258-n
+322,02277742-n,"ringlet, ringlet butterfly",http://wordnet-rdf.princeton.edu/wn30/02277742-n
+323,02279972-n,"monarch, monarch butterfly, milkweed butterfly, Danaus plexippus",http://wordnet-rdf.princeton.edu/wn30/02279972-n
+324,02280649-n,cabbage butterfly,http://wordnet-rdf.princeton.edu/wn30/02280649-n
+325,02281406-n,"sulphur butterfly, sulfur butterfly",http://wordnet-rdf.princeton.edu/wn30/02281406-n
+326,02281787-n,"lycaenid, lycaenid butterfly",http://wordnet-rdf.princeton.edu/wn30/02281787-n
+327,02317335-n,"starfish, sea star",http://wordnet-rdf.princeton.edu/wn30/02317335-n
+328,02319095-n,sea urchin,http://wordnet-rdf.princeton.edu/wn30/02319095-n
+329,02321529-n,"sea cucumber, holothurian",http://wordnet-rdf.princeton.edu/wn30/02321529-n
+330,02325366-n,"wood rabbit, cottontail, cottontail rabbit",http://wordnet-rdf.princeton.edu/wn30/02325366-n
+331,02326432-n,hare,http://wordnet-rdf.princeton.edu/wn30/02326432-n
+332,02328150-n,"Angora, Angora rabbit",http://wordnet-rdf.princeton.edu/wn30/02328150-n
+333,02342885-n,hamster,http://wordnet-rdf.princeton.edu/wn30/02342885-n
+334,02346627-n,"porcupine, hedgehog",http://wordnet-rdf.princeton.edu/wn30/02346627-n
+335,02356798-n,"fox squirrel, eastern fox squirrel, Sciurus niger",http://wordnet-rdf.princeton.edu/wn30/02356798-n
+336,02361337-n,marmot,http://wordnet-rdf.princeton.edu/wn30/02361337-n
+337,02363005-n,beaver,http://wordnet-rdf.princeton.edu/wn30/02363005-n
+338,02364673-n,"guinea pig, Cavia cobaya",http://wordnet-rdf.princeton.edu/wn30/02364673-n
+339,02389026-n,sorrel,http://wordnet-rdf.princeton.edu/wn30/02389026-n
+340,02391049-n,zebra,http://wordnet-rdf.princeton.edu/wn30/02391049-n
+341,02395406-n,"hog, pig, grunter, squealer, Sus scrofa",http://wordnet-rdf.princeton.edu/wn30/02395406-n
+342,02396427-n,"wild boar, boar, Sus scrofa",http://wordnet-rdf.princeton.edu/wn30/02396427-n
+343,02397096-n,warthog,http://wordnet-rdf.princeton.edu/wn30/02397096-n
+344,02398521-n,"hippopotamus, hippo, river horse, Hippopotamus amphibius",http://wordnet-rdf.princeton.edu/wn30/02398521-n
+345,02403003-n,ox,http://wordnet-rdf.princeton.edu/wn30/02403003-n
+346,02408429-n,"water buffalo, water ox, Asiatic buffalo, Bubalus bubalis",http://wordnet-rdf.princeton.edu/wn30/02408429-n
+347,02410509-n,bison,http://wordnet-rdf.princeton.edu/wn30/02410509-n
+348,02412080-n,"ram, tup",http://wordnet-rdf.princeton.edu/wn30/02412080-n
+349,02415577-n,"bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis",http://wordnet-rdf.princeton.edu/wn30/02415577-n
+350,02417914-n,"ibex, Capra ibex",http://wordnet-rdf.princeton.edu/wn30/02417914-n
+351,02422106-n,hartebeest,http://wordnet-rdf.princeton.edu/wn30/02422106-n
+352,02422699-n,"impala, Aepyceros melampus",http://wordnet-rdf.princeton.edu/wn30/02422699-n
+353,02423022-n,gazelle,http://wordnet-rdf.princeton.edu/wn30/02423022-n
+354,02437312-n,"Arabian camel, dromedary, Camelus dromedarius",http://wordnet-rdf.princeton.edu/wn30/02437312-n
+355,02437616-n,llama,http://wordnet-rdf.princeton.edu/wn30/02437616-n
+356,02441942-n,weasel,http://wordnet-rdf.princeton.edu/wn30/02441942-n
+357,02442845-n,mink,http://wordnet-rdf.princeton.edu/wn30/02442845-n
+358,02443114-n,"polecat, fitch, foulmart, foumart, Mustela putorius",http://wordnet-rdf.princeton.edu/wn30/02443114-n
+359,02443484-n,"black-footed ferret, ferret, Mustela nigripes",http://wordnet-rdf.princeton.edu/wn30/02443484-n
+360,02444819-n,otter,http://wordnet-rdf.princeton.edu/wn30/02444819-n
+361,02445715-n,"skunk, polecat, wood pussy",http://wordnet-rdf.princeton.edu/wn30/02445715-n
+362,02447366-n,badger,http://wordnet-rdf.princeton.edu/wn30/02447366-n
+363,02454379-n,armadillo,http://wordnet-rdf.princeton.edu/wn30/02454379-n
+364,02457408-n,"three-toed sloth, ai, Bradypus tridactylus",http://wordnet-rdf.princeton.edu/wn30/02457408-n
+365,02480495-n,"orangutan, orang, orangutang, Pongo pygmaeus",http://wordnet-rdf.princeton.edu/wn30/02480495-n
+366,02480855-n,"gorilla, Gorilla gorilla",http://wordnet-rdf.princeton.edu/wn30/02480855-n
+367,02481823-n,"chimpanzee, chimp, Pan troglodytes",http://wordnet-rdf.princeton.edu/wn30/02481823-n
+368,02483362-n,"gibbon, Hylobates lar",http://wordnet-rdf.princeton.edu/wn30/02483362-n
+369,02483708-n,"siamang, Hylobates syndactylus, Symphalangus syndactylus",http://wordnet-rdf.princeton.edu/wn30/02483708-n
+370,02484975-n,"guenon, guenon monkey",http://wordnet-rdf.princeton.edu/wn30/02484975-n
+371,02486261-n,"patas, hussar monkey, Erythrocebus patas",http://wordnet-rdf.princeton.edu/wn30/02486261-n
+372,02486410-n,baboon,http://wordnet-rdf.princeton.edu/wn30/02486410-n
+373,02487347-n,macaque,http://wordnet-rdf.princeton.edu/wn30/02487347-n
+374,02488291-n,langur,http://wordnet-rdf.princeton.edu/wn30/02488291-n
+375,02488702-n,"colobus, colobus monkey",http://wordnet-rdf.princeton.edu/wn30/02488702-n
+376,02489166-n,"proboscis monkey, Nasalis larvatus",http://wordnet-rdf.princeton.edu/wn30/02489166-n
+377,02490219-n,marmoset,http://wordnet-rdf.princeton.edu/wn30/02490219-n
+378,02492035-n,"capuchin, ringtail, Cebus capucinus",http://wordnet-rdf.princeton.edu/wn30/02492035-n
+379,02492660-n,"howler monkey, howler",http://wordnet-rdf.princeton.edu/wn30/02492660-n
+380,02493509-n,"titi, titi monkey",http://wordnet-rdf.princeton.edu/wn30/02493509-n
+381,02493793-n,"spider monkey, Ateles geoffroyi",http://wordnet-rdf.princeton.edu/wn30/02493793-n
+382,02494079-n,"squirrel monkey, Saimiri sciureus",http://wordnet-rdf.princeton.edu/wn30/02494079-n
+383,02497673-n,"Madagascar cat, ring-tailed lemur, Lemur catta",http://wordnet-rdf.princeton.edu/wn30/02497673-n
+384,02500267-n,"indri, indris, Indri indri, Indri brevicaudatus",http://wordnet-rdf.princeton.edu/wn30/02500267-n
+385,02504013-n,"Indian elephant, Elephas maximus",http://wordnet-rdf.princeton.edu/wn30/02504013-n
+386,02504458-n,"African elephant, Loxodonta africana",http://wordnet-rdf.princeton.edu/wn30/02504458-n
+387,02509815-n,"lesser panda, red panda, panda, bear cat, cat bear, Ailurus fulgens",http://wordnet-rdf.princeton.edu/wn30/02509815-n
+388,02510455-n,"giant panda, panda, panda bear, coon bear, Ailuropoda melanoleuca",http://wordnet-rdf.princeton.edu/wn30/02510455-n
+389,02514041-n,"barracouta, snoek",http://wordnet-rdf.princeton.edu/wn30/02514041-n
+390,02526121-n,eel,http://wordnet-rdf.princeton.edu/wn30/02526121-n
+391,02536864-n,"coho, cohoe, coho salmon, blue jack, silver salmon, Oncorhynchus kisutch",http://wordnet-rdf.princeton.edu/wn30/02536864-n
+392,02606052-n,"rock beauty, Holocanthus tricolor",http://wordnet-rdf.princeton.edu/wn30/02606052-n
+393,02607072-n,anemone fish,http://wordnet-rdf.princeton.edu/wn30/02607072-n
+394,02640242-n,sturgeon,http://wordnet-rdf.princeton.edu/wn30/02640242-n
+395,02641379-n,"gar, garfish, garpike, billfish, Lepisosteus osseus",http://wordnet-rdf.princeton.edu/wn30/02641379-n
+396,02643566-n,lionfish,http://wordnet-rdf.princeton.edu/wn30/02643566-n
+397,02655020-n,"puffer, pufferfish, blowfish, globefish",http://wordnet-rdf.princeton.edu/wn30/02655020-n
+398,02666196-n,abacus,http://wordnet-rdf.princeton.edu/wn30/02666196-n
+399,02667093-n,abaya,http://wordnet-rdf.princeton.edu/wn30/02667093-n
+400,02669723-n,"academic gown, academic robe, judge's robe",http://wordnet-rdf.princeton.edu/wn30/02669723-n
+401,02672831-n,"accordion, piano accordion, squeeze box",http://wordnet-rdf.princeton.edu/wn30/02672831-n
+402,02676566-n,acoustic guitar,http://wordnet-rdf.princeton.edu/wn30/02676566-n
+403,02687172-n,"aircraft carrier, carrier, flattop, attack aircraft carrier",http://wordnet-rdf.princeton.edu/wn30/02687172-n
+404,02690373-n,airliner,http://wordnet-rdf.princeton.edu/wn30/02690373-n
+405,02692877-n,"airship, dirigible",http://wordnet-rdf.princeton.edu/wn30/02692877-n
+406,02699494-n,altar,http://wordnet-rdf.princeton.edu/wn30/02699494-n
+407,02701002-n,ambulance,http://wordnet-rdf.princeton.edu/wn30/02701002-n
+408,02704792-n,"amphibian, amphibious vehicle",http://wordnet-rdf.princeton.edu/wn30/02704792-n
+409,02708093-n,analog clock,http://wordnet-rdf.princeton.edu/wn30/02708093-n
+410,02727426-n,"apiary, bee house",http://wordnet-rdf.princeton.edu/wn30/02727426-n
+411,02730930-n,apron,http://wordnet-rdf.princeton.edu/wn30/02730930-n
+412,02747177-n,"ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin",http://wordnet-rdf.princeton.edu/wn30/02747177-n
+413,02749479-n,"assault rifle, assault gun",http://wordnet-rdf.princeton.edu/wn30/02749479-n
+414,02769748-n,"backpack, back pack, knapsack, packsack, rucksack, haversack",http://wordnet-rdf.princeton.edu/wn30/02769748-n
+415,02776631-n,"bakery, bakeshop, bakehouse",http://wordnet-rdf.princeton.edu/wn30/02776631-n
+416,02777292-n,"balance beam, beam",http://wordnet-rdf.princeton.edu/wn30/02777292-n
+417,02782093-n,balloon,http://wordnet-rdf.princeton.edu/wn30/02782093-n
+418,02783161-n,"ballpoint, ballpoint pen, ballpen, Biro",http://wordnet-rdf.princeton.edu/wn30/02783161-n
+419,02786058-n,Band Aid,http://wordnet-rdf.princeton.edu/wn30/02786058-n
+420,02787622-n,banjo,http://wordnet-rdf.princeton.edu/wn30/02787622-n
+421,02788148-n,"bannister, banister, balustrade, balusters, handrail",http://wordnet-rdf.princeton.edu/wn30/02788148-n
+422,02790996-n,barbell,http://wordnet-rdf.princeton.edu/wn30/02790996-n
+423,02791124-n,barber chair,http://wordnet-rdf.princeton.edu/wn30/02791124-n
+424,02791270-n,barbershop,http://wordnet-rdf.princeton.edu/wn30/02791270-n
+425,02793495-n,barn,http://wordnet-rdf.princeton.edu/wn30/02793495-n
+426,02794156-n,barometer,http://wordnet-rdf.princeton.edu/wn30/02794156-n
+427,02795169-n,"barrel, cask",http://wordnet-rdf.princeton.edu/wn30/02795169-n
+428,02797295-n,"barrow, garden cart, lawn cart, wheelbarrow",http://wordnet-rdf.princeton.edu/wn30/02797295-n
+429,02799071-n,baseball,http://wordnet-rdf.princeton.edu/wn30/02799071-n
+430,02802426-n,basketball,http://wordnet-rdf.princeton.edu/wn30/02802426-n
+431,02804414-n,bassinet,http://wordnet-rdf.princeton.edu/wn30/02804414-n
+432,02804610-n,bassoon,http://wordnet-rdf.princeton.edu/wn30/02804610-n
+433,02807133-n,"bathing cap, swimming cap",http://wordnet-rdf.princeton.edu/wn30/02807133-n
+434,02808304-n,bath towel,http://wordnet-rdf.princeton.edu/wn30/02808304-n
+435,02808440-n,"bathtub, bathing tub, bath, tub",http://wordnet-rdf.princeton.edu/wn30/02808440-n
+436,02814533-n,"beach wagon, station wagon, wagon, estate car, beach waggon, station waggon, waggon",http://wordnet-rdf.princeton.edu/wn30/02814533-n
+437,02814860-n,"beacon, lighthouse, beacon light, pharos",http://wordnet-rdf.princeton.edu/wn30/02814860-n
+438,02815834-n,beaker,http://wordnet-rdf.princeton.edu/wn30/02815834-n
+439,02817516-n,"bearskin, busby, shako",http://wordnet-rdf.princeton.edu/wn30/02817516-n
+440,02823428-n,beer bottle,http://wordnet-rdf.princeton.edu/wn30/02823428-n
+441,02823750-n,beer glass,http://wordnet-rdf.princeton.edu/wn30/02823750-n
+442,02825657-n,"bell cote, bell cot",http://wordnet-rdf.princeton.edu/wn30/02825657-n
+443,02834397-n,bib,http://wordnet-rdf.princeton.edu/wn30/02834397-n
+444,02835271-n,"bicycle-built-for-two, tandem bicycle, tandem",http://wordnet-rdf.princeton.edu/wn30/02835271-n
+445,02837789-n,"bikini, two-piece",http://wordnet-rdf.princeton.edu/wn30/02837789-n
+446,02840245-n,"binder, ring-binder",http://wordnet-rdf.princeton.edu/wn30/02840245-n
+447,02841315-n,"binoculars, field glasses, opera glasses",http://wordnet-rdf.princeton.edu/wn30/02841315-n
+448,02843684-n,birdhouse,http://wordnet-rdf.princeton.edu/wn30/02843684-n
+449,02859443-n,boathouse,http://wordnet-rdf.princeton.edu/wn30/02859443-n
+450,02860847-n,"bobsled, bobsleigh, bob",http://wordnet-rdf.princeton.edu/wn30/02860847-n
+451,02865351-n,"bolo tie, bolo, bola tie, bola",http://wordnet-rdf.princeton.edu/wn30/02865351-n
+452,02869837-n,"bonnet, poke bonnet",http://wordnet-rdf.princeton.edu/wn30/02869837-n
+453,02870880-n,bookcase,http://wordnet-rdf.princeton.edu/wn30/02870880-n
+454,02871525-n,"bookshop, bookstore, bookstall",http://wordnet-rdf.princeton.edu/wn30/02871525-n
+455,02877765-n,bottlecap,http://wordnet-rdf.princeton.edu/wn30/02877765-n
+456,02879718-n,bow,http://wordnet-rdf.princeton.edu/wn30/02879718-n
+457,02883205-n,"bow tie, bow-tie, bowtie",http://wordnet-rdf.princeton.edu/wn30/02883205-n
+458,02892201-n,"brass, memorial tablet, plaque",http://wordnet-rdf.princeton.edu/wn30/02892201-n
+459,02892767-n,"brassiere, bra, bandeau",http://wordnet-rdf.princeton.edu/wn30/02892767-n
+460,02894605-n,"breakwater, groin, groyne, mole, bulwark, seawall, jetty",http://wordnet-rdf.princeton.edu/wn30/02894605-n
+461,02895154-n,"breastplate, aegis, egis",http://wordnet-rdf.princeton.edu/wn30/02895154-n
+462,02906734-n,broom,http://wordnet-rdf.princeton.edu/wn30/02906734-n
+463,02909870-n,"bucket, pail",http://wordnet-rdf.princeton.edu/wn30/02909870-n
+464,02910353-n,buckle,http://wordnet-rdf.princeton.edu/wn30/02910353-n
+465,02916936-n,bulletproof vest,http://wordnet-rdf.princeton.edu/wn30/02916936-n
+466,02917067-n,"bullet train, bullet",http://wordnet-rdf.princeton.edu/wn30/02917067-n
+467,02927161-n,"butcher shop, meat market",http://wordnet-rdf.princeton.edu/wn30/02927161-n
+468,02930766-n,"cab, hack, taxi, taxicab",http://wordnet-rdf.princeton.edu/wn30/02930766-n
+469,02939185-n,"caldron, cauldron",http://wordnet-rdf.princeton.edu/wn30/02939185-n
+470,02948072-n,"candle, taper, wax light",http://wordnet-rdf.princeton.edu/wn30/02948072-n
+471,02950826-n,cannon,http://wordnet-rdf.princeton.edu/wn30/02950826-n
+472,02951358-n,canoe,http://wordnet-rdf.princeton.edu/wn30/02951358-n
+473,02951585-n,"can opener, tin opener",http://wordnet-rdf.princeton.edu/wn30/02951585-n
+474,02963159-n,cardigan,http://wordnet-rdf.princeton.edu/wn30/02963159-n
+475,02965783-n,car mirror,http://wordnet-rdf.princeton.edu/wn30/02965783-n
+476,02966193-n,"carousel, carrousel, merry-go-round, roundabout, whirligig",http://wordnet-rdf.princeton.edu/wn30/02966193-n
+477,02966687-n,"carpenter's kit, tool kit",http://wordnet-rdf.princeton.edu/wn30/02966687-n
+478,02971356-n,carton,http://wordnet-rdf.princeton.edu/wn30/02971356-n
+479,02974003-n,car wheel,http://wordnet-rdf.princeton.edu/wn30/02974003-n
+480,02977058-n,"cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM",http://wordnet-rdf.princeton.edu/wn30/02977058-n
+481,02978881-n,cassette,http://wordnet-rdf.princeton.edu/wn30/02978881-n
+482,02979186-n,cassette player,http://wordnet-rdf.princeton.edu/wn30/02979186-n
+483,02980441-n,castle,http://wordnet-rdf.princeton.edu/wn30/02980441-n
+484,02981792-n,catamaran,http://wordnet-rdf.princeton.edu/wn30/02981792-n
+485,02988304-n,CD player,http://wordnet-rdf.princeton.edu/wn30/02988304-n
+486,02992211-n,"cello, violoncello",http://wordnet-rdf.princeton.edu/wn30/02992211-n
+487,02992529-n,"cellular telephone, cellular phone, cellphone, cell, mobile phone",http://wordnet-rdf.princeton.edu/wn30/02992529-n
+488,02999410-n,chain,http://wordnet-rdf.princeton.edu/wn30/02999410-n
+489,03000134-n,chainlink fence,http://wordnet-rdf.princeton.edu/wn30/03000134-n
+490,03000247-n,"chain mail, ring mail, mail, chain armor, chain armour, ring armor, ring armour",http://wordnet-rdf.princeton.edu/wn30/03000247-n
+491,03000684-n,"chain saw, chainsaw",http://wordnet-rdf.princeton.edu/wn30/03000684-n
+492,03014705-n,chest,http://wordnet-rdf.princeton.edu/wn30/03014705-n
+493,03016953-n,"chiffonier, commode",http://wordnet-rdf.princeton.edu/wn30/03016953-n
+494,03017168-n,"chime, bell, gong",http://wordnet-rdf.princeton.edu/wn30/03017168-n
+495,03018349-n,"china cabinet, china closet",http://wordnet-rdf.princeton.edu/wn30/03018349-n
+496,03026506-n,Christmas stocking,http://wordnet-rdf.princeton.edu/wn30/03026506-n
+497,03028079-n,"church, church building",http://wordnet-rdf.princeton.edu/wn30/03028079-n
+498,03032252-n,"cinema, movie theater, movie theatre, movie house, picture palace",http://wordnet-rdf.princeton.edu/wn30/03032252-n
+499,03041632-n,"cleaver, meat cleaver, chopper",http://wordnet-rdf.princeton.edu/wn30/03041632-n
+500,03042490-n,cliff dwelling,http://wordnet-rdf.princeton.edu/wn30/03042490-n
+501,03045698-n,cloak,http://wordnet-rdf.princeton.edu/wn30/03045698-n
+502,03047690-n,"clog, geta, patten, sabot",http://wordnet-rdf.princeton.edu/wn30/03047690-n
+503,03062245-n,cocktail shaker,http://wordnet-rdf.princeton.edu/wn30/03062245-n
+504,03063599-n,coffee mug,http://wordnet-rdf.princeton.edu/wn30/03063599-n
+505,03063689-n,coffeepot,http://wordnet-rdf.princeton.edu/wn30/03063689-n
+506,03065424-n,"coil, spiral, volute, whorl, helix",http://wordnet-rdf.princeton.edu/wn30/03065424-n
+507,03075370-n,combination lock,http://wordnet-rdf.princeton.edu/wn30/03075370-n
+508,03085013-n,"computer keyboard, keypad",http://wordnet-rdf.princeton.edu/wn30/03085013-n
+509,03089624-n,"confectionery, confectionary, candy store",http://wordnet-rdf.princeton.edu/wn30/03089624-n
+510,03095699-n,"container ship, containership, container vessel",http://wordnet-rdf.princeton.edu/wn30/03095699-n
+511,03100240-n,convertible,http://wordnet-rdf.princeton.edu/wn30/03100240-n
+512,03109150-n,"corkscrew, bottle screw",http://wordnet-rdf.princeton.edu/wn30/03109150-n
+513,03110669-n,"cornet, horn, trumpet, trump",http://wordnet-rdf.princeton.edu/wn30/03110669-n
+514,03124043-n,cowboy boot,http://wordnet-rdf.princeton.edu/wn30/03124043-n
+515,03124170-n,"cowboy hat, ten-gallon hat",http://wordnet-rdf.princeton.edu/wn30/03124170-n
+516,03125729-n,cradle,http://wordnet-rdf.princeton.edu/wn30/03125729-n
+517,03126707-n,crane,http://wordnet-rdf.princeton.edu/wn30/03126707-n
+518,03127747-n,crash helmet,http://wordnet-rdf.princeton.edu/wn30/03127747-n
+519,03127925-n,crate,http://wordnet-rdf.princeton.edu/wn30/03127925-n
+520,03131574-n,"crib, cot",http://wordnet-rdf.princeton.edu/wn30/03131574-n
+521,03133878-n,Crock Pot,http://wordnet-rdf.princeton.edu/wn30/03133878-n
+522,03134739-n,croquet ball,http://wordnet-rdf.princeton.edu/wn30/03134739-n
+523,03141823-n,crutch,http://wordnet-rdf.princeton.edu/wn30/03141823-n
+524,03146219-n,cuirass,http://wordnet-rdf.princeton.edu/wn30/03146219-n
+525,03160309-n,"dam, dike, dyke",http://wordnet-rdf.princeton.edu/wn30/03160309-n
+526,03179701-n,desk,http://wordnet-rdf.princeton.edu/wn30/03179701-n
+527,03180011-n,desktop computer,http://wordnet-rdf.princeton.edu/wn30/03180011-n
+528,03187595-n,"dial telephone, dial phone",http://wordnet-rdf.princeton.edu/wn30/03187595-n
+529,03188531-n,"diaper, nappy, napkin",http://wordnet-rdf.princeton.edu/wn30/03188531-n
+530,03196217-n,digital clock,http://wordnet-rdf.princeton.edu/wn30/03196217-n
+531,03197337-n,digital watch,http://wordnet-rdf.princeton.edu/wn30/03197337-n
+532,03201208-n,"dining table, board",http://wordnet-rdf.princeton.edu/wn30/03201208-n
+533,03207743-n,"dishrag, dishcloth",http://wordnet-rdf.princeton.edu/wn30/03207743-n
+534,03207941-n,"dishwasher, dish washer, dishwashing machine",http://wordnet-rdf.princeton.edu/wn30/03207941-n
+535,03208938-n,"disk brake, disc brake",http://wordnet-rdf.princeton.edu/wn30/03208938-n
+536,03216828-n,"dock, dockage, docking facility",http://wordnet-rdf.princeton.edu/wn30/03216828-n
+537,03218198-n,"dogsled, dog sled, dog sleigh",http://wordnet-rdf.princeton.edu/wn30/03218198-n
+538,03220513-n,dome,http://wordnet-rdf.princeton.edu/wn30/03220513-n
+539,03223299-n,"doormat, welcome mat",http://wordnet-rdf.princeton.edu/wn30/03223299-n
+540,03240683-n,"drilling platform, offshore rig",http://wordnet-rdf.princeton.edu/wn30/03240683-n
+541,03249569-n,"drum, membranophone, tympan",http://wordnet-rdf.princeton.edu/wn30/03249569-n
+542,03250847-n,drumstick,http://wordnet-rdf.princeton.edu/wn30/03250847-n
+543,03255030-n,dumbbell,http://wordnet-rdf.princeton.edu/wn30/03255030-n
+544,03259280-n,Dutch oven,http://wordnet-rdf.princeton.edu/wn30/03259280-n
+545,03271574-n,"electric fan, blower",http://wordnet-rdf.princeton.edu/wn30/03271574-n
+546,03272010-n,electric guitar,http://wordnet-rdf.princeton.edu/wn30/03272010-n
+547,03272562-n,electric locomotive,http://wordnet-rdf.princeton.edu/wn30/03272562-n
+548,03290653-n,entertainment center,http://wordnet-rdf.princeton.edu/wn30/03290653-n
+549,03291819-n,envelope,http://wordnet-rdf.princeton.edu/wn30/03291819-n
+550,03297495-n,espresso maker,http://wordnet-rdf.princeton.edu/wn30/03297495-n
+551,03314780-n,face powder,http://wordnet-rdf.princeton.edu/wn30/03314780-n
+552,03325584-n,"feather boa, boa",http://wordnet-rdf.princeton.edu/wn30/03325584-n
+553,03337140-n,"file, file cabinet, filing cabinet",http://wordnet-rdf.princeton.edu/wn30/03337140-n
+554,03344393-n,fireboat,http://wordnet-rdf.princeton.edu/wn30/03344393-n
+555,03345487-n,"fire engine, fire truck",http://wordnet-rdf.princeton.edu/wn30/03345487-n
+556,03347037-n,"fire screen, fireguard",http://wordnet-rdf.princeton.edu/wn30/03347037-n
+557,03355925-n,"flagpole, flagstaff",http://wordnet-rdf.princeton.edu/wn30/03355925-n
+558,03372029-n,"flute, transverse flute",http://wordnet-rdf.princeton.edu/wn30/03372029-n
+559,03376595-n,folding chair,http://wordnet-rdf.princeton.edu/wn30/03376595-n
+560,03379051-n,football helmet,http://wordnet-rdf.princeton.edu/wn30/03379051-n
+561,03384352-n,forklift,http://wordnet-rdf.princeton.edu/wn30/03384352-n
+562,03388043-n,fountain,http://wordnet-rdf.princeton.edu/wn30/03388043-n
+563,03388183-n,fountain pen,http://wordnet-rdf.princeton.edu/wn30/03388183-n
+564,03388549-n,four-poster,http://wordnet-rdf.princeton.edu/wn30/03388549-n
+565,03393912-n,freight car,http://wordnet-rdf.princeton.edu/wn30/03393912-n
+566,03394916-n,"French horn, horn",http://wordnet-rdf.princeton.edu/wn30/03394916-n
+567,03400231-n,"frying pan, frypan, skillet",http://wordnet-rdf.princeton.edu/wn30/03400231-n
+568,03404251-n,fur coat,http://wordnet-rdf.princeton.edu/wn30/03404251-n
+569,03417042-n,"garbage truck, dustcart",http://wordnet-rdf.princeton.edu/wn30/03417042-n
+570,03424325-n,"gasmask, respirator, gas helmet",http://wordnet-rdf.princeton.edu/wn30/03424325-n
+571,03425413-n,"gas pump, gasoline pump, petrol pump, island dispenser",http://wordnet-rdf.princeton.edu/wn30/03425413-n
+572,03443371-n,goblet,http://wordnet-rdf.princeton.edu/wn30/03443371-n
+573,03444034-n,go-kart,http://wordnet-rdf.princeton.edu/wn30/03444034-n
+574,03445777-n,golf ball,http://wordnet-rdf.princeton.edu/wn30/03445777-n
+575,03445924-n,"golfcart, golf cart",http://wordnet-rdf.princeton.edu/wn30/03445924-n
+576,03447447-n,gondola,http://wordnet-rdf.princeton.edu/wn30/03447447-n
+577,03447721-n,"gong, tam-tam",http://wordnet-rdf.princeton.edu/wn30/03447721-n
+578,03450230-n,gown,http://wordnet-rdf.princeton.edu/wn30/03450230-n
+579,03452741-n,"grand piano, grand",http://wordnet-rdf.princeton.edu/wn30/03452741-n
+580,03457902-n,"greenhouse, nursery, glasshouse",http://wordnet-rdf.princeton.edu/wn30/03457902-n
+581,03459775-n,"grille, radiator grille",http://wordnet-rdf.princeton.edu/wn30/03459775-n
+582,03461385-n,"grocery store, grocery, food market, market",http://wordnet-rdf.princeton.edu/wn30/03461385-n
+583,03467068-n,guillotine,http://wordnet-rdf.princeton.edu/wn30/03467068-n
+584,03476684-n,hair slide,http://wordnet-rdf.princeton.edu/wn30/03476684-n
+585,03476991-n,hair spray,http://wordnet-rdf.princeton.edu/wn30/03476991-n
+586,03478589-n,half track,http://wordnet-rdf.princeton.edu/wn30/03478589-n
+587,03481172-n,hammer,http://wordnet-rdf.princeton.edu/wn30/03481172-n
+588,03482405-n,hamper,http://wordnet-rdf.princeton.edu/wn30/03482405-n
+589,03483316-n,"hand blower, blow dryer, blow drier, hair dryer, hair drier",http://wordnet-rdf.princeton.edu/wn30/03483316-n
+590,03485407-n,"hand-held computer, hand-held microcomputer",http://wordnet-rdf.princeton.edu/wn30/03485407-n
+591,03485794-n,"handkerchief, hankie, hanky, hankey",http://wordnet-rdf.princeton.edu/wn30/03485794-n
+592,03492542-n,"hard disc, hard disk, fixed disk",http://wordnet-rdf.princeton.edu/wn30/03492542-n
+593,03494278-n,"harmonica, mouth organ, harp, mouth harp",http://wordnet-rdf.princeton.edu/wn30/03494278-n
+594,03495258-n,harp,http://wordnet-rdf.princeton.edu/wn30/03495258-n
+595,03496892-n,"harvester, reaper",http://wordnet-rdf.princeton.edu/wn30/03496892-n
+596,03498962-n,hatchet,http://wordnet-rdf.princeton.edu/wn30/03498962-n
+597,03527444-n,holster,http://wordnet-rdf.princeton.edu/wn30/03527444-n
+598,03529860-n,"home theater, home theatre",http://wordnet-rdf.princeton.edu/wn30/03529860-n
+599,03530642-n,honeycomb,http://wordnet-rdf.princeton.edu/wn30/03530642-n
+600,03532672-n,"hook, claw",http://wordnet-rdf.princeton.edu/wn30/03532672-n
+601,03534580-n,"hoopskirt, crinoline",http://wordnet-rdf.princeton.edu/wn30/03534580-n
+602,03535780-n,"horizontal bar, high bar",http://wordnet-rdf.princeton.edu/wn30/03535780-n
+603,03538406-n,"horse cart, horse-cart",http://wordnet-rdf.princeton.edu/wn30/03538406-n
+604,03544143-n,hourglass,http://wordnet-rdf.princeton.edu/wn30/03544143-n
+605,03584254-n,iPod,http://wordnet-rdf.princeton.edu/wn30/03584254-n
+606,03584829-n,"iron, smoothing iron",http://wordnet-rdf.princeton.edu/wn30/03584829-n
+607,03590841-n,jack-o'-lantern,http://wordnet-rdf.princeton.edu/wn30/03590841-n
+608,03594734-n,"jean, blue jean, denim",http://wordnet-rdf.princeton.edu/wn30/03594734-n
+609,03594945-n,"jeep, landrover",http://wordnet-rdf.princeton.edu/wn30/03594945-n
+610,03595614-n,"jersey, T-shirt, tee shirt",http://wordnet-rdf.princeton.edu/wn30/03595614-n
+611,03598930-n,jigsaw puzzle,http://wordnet-rdf.princeton.edu/wn30/03598930-n
+612,03599486-n,"jinrikisha, ricksha, rickshaw",http://wordnet-rdf.princeton.edu/wn30/03599486-n
+613,03602883-n,joystick,http://wordnet-rdf.princeton.edu/wn30/03602883-n
+614,03617480-n,kimono,http://wordnet-rdf.princeton.edu/wn30/03617480-n
+615,03623198-n,knee pad,http://wordnet-rdf.princeton.edu/wn30/03623198-n
+616,03627232-n,knot,http://wordnet-rdf.princeton.edu/wn30/03627232-n
+617,03630383-n,"lab coat, laboratory coat",http://wordnet-rdf.princeton.edu/wn30/03630383-n
+618,03633091-n,ladle,http://wordnet-rdf.princeton.edu/wn30/03633091-n
+619,03637318-n,"lampshade, lamp shade",http://wordnet-rdf.princeton.edu/wn30/03637318-n
+620,03642806-n,"laptop, laptop computer",http://wordnet-rdf.princeton.edu/wn30/03642806-n
+621,03649909-n,"lawn mower, mower",http://wordnet-rdf.princeton.edu/wn30/03649909-n
+622,03657121-n,"lens cap, lens cover",http://wordnet-rdf.princeton.edu/wn30/03657121-n
+623,03658185-n,"letter opener, paper knife, paperknife",http://wordnet-rdf.princeton.edu/wn30/03658185-n
+624,03661043-n,library,http://wordnet-rdf.princeton.edu/wn30/03661043-n
+625,03662601-n,lifeboat,http://wordnet-rdf.princeton.edu/wn30/03662601-n
+626,03666591-n,"lighter, light, igniter, ignitor",http://wordnet-rdf.princeton.edu/wn30/03666591-n
+627,03670208-n,"limousine, limo",http://wordnet-rdf.princeton.edu/wn30/03670208-n
+628,03673027-n,"liner, ocean liner",http://wordnet-rdf.princeton.edu/wn30/03673027-n
+629,03676483-n,"lipstick, lip rouge",http://wordnet-rdf.princeton.edu/wn30/03676483-n
+630,03680355-n,Loafer,http://wordnet-rdf.princeton.edu/wn30/03680355-n
+631,03690938-n,lotion,http://wordnet-rdf.princeton.edu/wn30/03690938-n
+632,03691459-n,"loudspeaker, speaker, speaker unit, loudspeaker system, speaker system",http://wordnet-rdf.princeton.edu/wn30/03691459-n
+633,03692522-n,"loupe, jeweler's loupe",http://wordnet-rdf.princeton.edu/wn30/03692522-n
+634,03697007-n,"lumbermill, sawmill",http://wordnet-rdf.princeton.edu/wn30/03697007-n
+635,03706229-n,magnetic compass,http://wordnet-rdf.princeton.edu/wn30/03706229-n
+636,03709823-n,"mailbag, postbag",http://wordnet-rdf.princeton.edu/wn30/03709823-n
+637,03710193-n,"mailbox, letter box",http://wordnet-rdf.princeton.edu/wn30/03710193-n
+638,03710637-n,maillot,http://wordnet-rdf.princeton.edu/wn30/03710637-n
+639,03710721-n,"maillot, tank suit",http://wordnet-rdf.princeton.edu/wn30/03710721-n
+640,03717622-n,manhole cover,http://wordnet-rdf.princeton.edu/wn30/03717622-n
+641,03720891-n,maraca,http://wordnet-rdf.princeton.edu/wn30/03720891-n
+642,03721384-n,"marimba, xylophone",http://wordnet-rdf.princeton.edu/wn30/03721384-n
+643,03724870-n,mask,http://wordnet-rdf.princeton.edu/wn30/03724870-n
+644,03729826-n,matchstick,http://wordnet-rdf.princeton.edu/wn30/03729826-n
+645,03733131-n,maypole,http://wordnet-rdf.princeton.edu/wn30/03733131-n
+646,03733281-n,"maze, labyrinth",http://wordnet-rdf.princeton.edu/wn30/03733281-n
+647,03733805-n,measuring cup,http://wordnet-rdf.princeton.edu/wn30/03733805-n
+648,03742115-n,"medicine chest, medicine cabinet",http://wordnet-rdf.princeton.edu/wn30/03742115-n
+649,03743016-n,"megalith, megalithic structure",http://wordnet-rdf.princeton.edu/wn30/03743016-n
+650,03759954-n,"microphone, mike",http://wordnet-rdf.princeton.edu/wn30/03759954-n
+651,03761084-n,"microwave, microwave oven",http://wordnet-rdf.princeton.edu/wn30/03761084-n
+652,03763968-n,military uniform,http://wordnet-rdf.princeton.edu/wn30/03763968-n
+653,03764736-n,milk can,http://wordnet-rdf.princeton.edu/wn30/03764736-n
+654,03769881-n,minibus,http://wordnet-rdf.princeton.edu/wn30/03769881-n
+655,03770439-n,"miniskirt, mini",http://wordnet-rdf.princeton.edu/wn30/03770439-n
+656,03770679-n,minivan,http://wordnet-rdf.princeton.edu/wn30/03770679-n
+657,03773504-n,missile,http://wordnet-rdf.princeton.edu/wn30/03773504-n
+658,03775071-n,mitten,http://wordnet-rdf.princeton.edu/wn30/03775071-n
+659,03775546-n,mixing bowl,http://wordnet-rdf.princeton.edu/wn30/03775546-n
+660,03776460-n,"mobile home, manufactured home",http://wordnet-rdf.princeton.edu/wn30/03776460-n
+661,03777568-n,Model T,http://wordnet-rdf.princeton.edu/wn30/03777568-n
+662,03777754-n,modem,http://wordnet-rdf.princeton.edu/wn30/03777754-n
+663,03781244-n,monastery,http://wordnet-rdf.princeton.edu/wn30/03781244-n
+664,03782006-n,monitor,http://wordnet-rdf.princeton.edu/wn30/03782006-n
+665,03785016-n,moped,http://wordnet-rdf.princeton.edu/wn30/03785016-n
+666,03786901-n,mortar,http://wordnet-rdf.princeton.edu/wn30/03786901-n
+667,03787032-n,mortarboard,http://wordnet-rdf.princeton.edu/wn30/03787032-n
+668,03788195-n,mosque,http://wordnet-rdf.princeton.edu/wn30/03788195-n
+669,03788365-n,mosquito net,http://wordnet-rdf.princeton.edu/wn30/03788365-n
+670,03791053-n,"motor scooter, scooter",http://wordnet-rdf.princeton.edu/wn30/03791053-n
+671,03792782-n,"mountain bike, all-terrain bike, off-roader",http://wordnet-rdf.princeton.edu/wn30/03792782-n
+672,03792972-n,mountain tent,http://wordnet-rdf.princeton.edu/wn30/03792972-n
+673,03793489-n,"mouse, computer mouse",http://wordnet-rdf.princeton.edu/wn30/03793489-n
+674,03794056-n,mousetrap,http://wordnet-rdf.princeton.edu/wn30/03794056-n
+675,03796401-n,moving van,http://wordnet-rdf.princeton.edu/wn30/03796401-n
+676,03803284-n,muzzle,http://wordnet-rdf.princeton.edu/wn30/03803284-n
+677,03804744-n,nail,http://wordnet-rdf.princeton.edu/wn30/03804744-n
+678,03814639-n,neck brace,http://wordnet-rdf.princeton.edu/wn30/03814639-n
+679,03814906-n,necklace,http://wordnet-rdf.princeton.edu/wn30/03814906-n
+680,03825788-n,nipple,http://wordnet-rdf.princeton.edu/wn30/03825788-n
+681,03832673-n,"notebook, notebook computer",http://wordnet-rdf.princeton.edu/wn30/03832673-n
+682,03837869-n,obelisk,http://wordnet-rdf.princeton.edu/wn30/03837869-n
+683,03838899-n,"oboe, hautboy, hautbois",http://wordnet-rdf.princeton.edu/wn30/03838899-n
+684,03840681-n,"ocarina, sweet potato",http://wordnet-rdf.princeton.edu/wn30/03840681-n
+685,03841143-n,"odometer, hodometer, mileometer, milometer",http://wordnet-rdf.princeton.edu/wn30/03841143-n
+686,03843555-n,oil filter,http://wordnet-rdf.princeton.edu/wn30/03843555-n
+687,03854065-n,"organ, pipe organ",http://wordnet-rdf.princeton.edu/wn30/03854065-n
+688,03857828-n,"oscilloscope, scope, cathode-ray oscilloscope, CRO",http://wordnet-rdf.princeton.edu/wn30/03857828-n
+689,03866082-n,overskirt,http://wordnet-rdf.princeton.edu/wn30/03866082-n
+690,03868242-n,oxcart,http://wordnet-rdf.princeton.edu/wn30/03868242-n
+691,03868863-n,oxygen mask,http://wordnet-rdf.princeton.edu/wn30/03868863-n
+692,03871628-n,packet,http://wordnet-rdf.princeton.edu/wn30/03871628-n
+693,03873416-n,"paddle, boat paddle",http://wordnet-rdf.princeton.edu/wn30/03873416-n
+694,03874293-n,"paddlewheel, paddle wheel",http://wordnet-rdf.princeton.edu/wn30/03874293-n
+695,03874599-n,padlock,http://wordnet-rdf.princeton.edu/wn30/03874599-n
+696,03876231-n,paintbrush,http://wordnet-rdf.princeton.edu/wn30/03876231-n
+697,03877472-n,"pajama, pyjama, pj's, jammies",http://wordnet-rdf.princeton.edu/wn30/03877472-n
+698,03877845-n,palace,http://wordnet-rdf.princeton.edu/wn30/03877845-n
+699,03884397-n,"panpipe, pandean pipe, syrinx",http://wordnet-rdf.princeton.edu/wn30/03884397-n
+700,03887697-n,paper towel,http://wordnet-rdf.princeton.edu/wn30/03887697-n
+701,03888257-n,"parachute, chute",http://wordnet-rdf.princeton.edu/wn30/03888257-n
+702,03888605-n,"parallel bars, bars",http://wordnet-rdf.princeton.edu/wn30/03888605-n
+703,03891251-n,park bench,http://wordnet-rdf.princeton.edu/wn30/03891251-n
+704,03891332-n,parking meter,http://wordnet-rdf.princeton.edu/wn30/03891332-n
+705,03895866-n,"passenger car, coach, carriage",http://wordnet-rdf.princeton.edu/wn30/03895866-n
+706,03899768-n,"patio, terrace",http://wordnet-rdf.princeton.edu/wn30/03899768-n
+707,03902125-n,"pay-phone, pay-station",http://wordnet-rdf.princeton.edu/wn30/03902125-n
+708,03903868-n,"pedestal, plinth, footstall",http://wordnet-rdf.princeton.edu/wn30/03903868-n
+709,03908618-n,"pencil box, pencil case",http://wordnet-rdf.princeton.edu/wn30/03908618-n
+710,03908714-n,pencil sharpener,http://wordnet-rdf.princeton.edu/wn30/03908714-n
+711,03916031-n,"perfume, essence",http://wordnet-rdf.princeton.edu/wn30/03916031-n
+712,03920288-n,Petri dish,http://wordnet-rdf.princeton.edu/wn30/03920288-n
+713,03924679-n,photocopier,http://wordnet-rdf.princeton.edu/wn30/03924679-n
+714,03929660-n,"pick, plectrum, plectron",http://wordnet-rdf.princeton.edu/wn30/03929660-n
+715,03929855-n,pickelhaube,http://wordnet-rdf.princeton.edu/wn30/03929855-n
+716,03930313-n,"picket fence, paling",http://wordnet-rdf.princeton.edu/wn30/03930313-n
+717,03930630-n,"pickup, pickup truck",http://wordnet-rdf.princeton.edu/wn30/03930630-n
+718,03933933-n,pier,http://wordnet-rdf.princeton.edu/wn30/03933933-n
+719,03935335-n,"piggy bank, penny bank",http://wordnet-rdf.princeton.edu/wn30/03935335-n
+720,03937543-n,pill bottle,http://wordnet-rdf.princeton.edu/wn30/03937543-n
+721,03938244-n,pillow,http://wordnet-rdf.princeton.edu/wn30/03938244-n
+722,03942813-n,ping-pong ball,http://wordnet-rdf.princeton.edu/wn30/03942813-n
+723,03944341-n,pinwheel,http://wordnet-rdf.princeton.edu/wn30/03944341-n
+724,03947888-n,"pirate, pirate ship",http://wordnet-rdf.princeton.edu/wn30/03947888-n
+725,03950228-n,"pitcher, ewer",http://wordnet-rdf.princeton.edu/wn30/03950228-n
+726,03954731-n,"plane, carpenter's plane, woodworking plane",http://wordnet-rdf.princeton.edu/wn30/03954731-n
+727,03956157-n,planetarium,http://wordnet-rdf.princeton.edu/wn30/03956157-n
+728,03958227-n,plastic bag,http://wordnet-rdf.princeton.edu/wn30/03958227-n
+729,03961711-n,plate rack,http://wordnet-rdf.princeton.edu/wn30/03961711-n
+730,03967562-n,"plow, plough",http://wordnet-rdf.princeton.edu/wn30/03967562-n
+731,03970156-n,"plunger, plumber's helper",http://wordnet-rdf.princeton.edu/wn30/03970156-n
+732,03976467-n,"Polaroid camera, Polaroid Land camera",http://wordnet-rdf.princeton.edu/wn30/03976467-n
+733,03976657-n,pole,http://wordnet-rdf.princeton.edu/wn30/03976657-n
+734,03977966-n,"police van, police wagon, paddy wagon, patrol wagon, wagon, black Maria",http://wordnet-rdf.princeton.edu/wn30/03977966-n
+735,03980874-n,poncho,http://wordnet-rdf.princeton.edu/wn30/03980874-n
+736,03982430-n,"pool table, billiard table, snooker table",http://wordnet-rdf.princeton.edu/wn30/03982430-n
+737,03983396-n,"pop bottle, soda bottle",http://wordnet-rdf.princeton.edu/wn30/03983396-n
+738,03991062-n,"pot, flowerpot",http://wordnet-rdf.princeton.edu/wn30/03991062-n
+739,03992509-n,potter'ss wheel,http://wordnet-rdf.princeton.edu/wn30/03992509-n
+740,03995372-n,power drill,http://wordnet-rdf.princeton.edu/wn30/03995372-n
+741,03998194-n,"prayer rug, prayer mat",http://wordnet-rdf.princeton.edu/wn30/03998194-n
+742,04004767-n,printer,http://wordnet-rdf.princeton.edu/wn30/04004767-n
+743,04005630-n,"prison, prison house",http://wordnet-rdf.princeton.edu/wn30/04005630-n
+744,04008634-n,"projectile, missile",http://wordnet-rdf.princeton.edu/wn30/04008634-n
+745,04009552-n,projector,http://wordnet-rdf.princeton.edu/wn30/04009552-n
+746,04019541-n,"puck, hockey puck",http://wordnet-rdf.princeton.edu/wn30/04019541-n
+747,04023962-n,"punching bag, punch bag, punching ball, punchball",http://wordnet-rdf.princeton.edu/wn30/04023962-n
+748,04026417-n,purse,http://wordnet-rdf.princeton.edu/wn30/04026417-n
+749,04033901-n,"quill, quill pen",http://wordnet-rdf.princeton.edu/wn30/04033901-n
+750,04033995-n,"quilt, comforter, comfort, puff",http://wordnet-rdf.princeton.edu/wn30/04033995-n
+751,04037443-n,"racer, race car, racing car",http://wordnet-rdf.princeton.edu/wn30/04037443-n
+752,04039381-n,"racket, racquet",http://wordnet-rdf.princeton.edu/wn30/04039381-n
+753,04040759-n,radiator,http://wordnet-rdf.princeton.edu/wn30/04040759-n
+754,04041544-n,"radio, wireless",http://wordnet-rdf.princeton.edu/wn30/04041544-n
+755,04044716-n,"radio telescope, radio reflector",http://wordnet-rdf.princeton.edu/wn30/04044716-n
+756,04049303-n,rain barrel,http://wordnet-rdf.princeton.edu/wn30/04049303-n
+757,04065272-n,"recreational vehicle, RV, R.V.",http://wordnet-rdf.princeton.edu/wn30/04065272-n
+758,04067472-n,reel,http://wordnet-rdf.princeton.edu/wn30/04067472-n
+759,04069434-n,reflex camera,http://wordnet-rdf.princeton.edu/wn30/04069434-n
+760,04070727-n,"refrigerator, icebox",http://wordnet-rdf.princeton.edu/wn30/04070727-n
+761,04074963-n,"remote control, remote",http://wordnet-rdf.princeton.edu/wn30/04074963-n
+762,04081281-n,"restaurant, eating house, eating place, eatery",http://wordnet-rdf.princeton.edu/wn30/04081281-n
+763,04086273-n,"revolver, six-gun, six-shooter",http://wordnet-rdf.princeton.edu/wn30/04086273-n
+764,04090263-n,rifle,http://wordnet-rdf.princeton.edu/wn30/04090263-n
+765,04099969-n,"rocking chair, rocker",http://wordnet-rdf.princeton.edu/wn30/04099969-n
+766,04111531-n,rotisserie,http://wordnet-rdf.princeton.edu/wn30/04111531-n
+767,04116512-n,"rubber eraser, rubber, pencil eraser",http://wordnet-rdf.princeton.edu/wn30/04116512-n
+768,04118538-n,rugby ball,http://wordnet-rdf.princeton.edu/wn30/04118538-n
+769,04118776-n,"rule, ruler",http://wordnet-rdf.princeton.edu/wn30/04118776-n
+770,04120489-n,running shoe,http://wordnet-rdf.princeton.edu/wn30/04120489-n
+771,04125021-n,safe,http://wordnet-rdf.princeton.edu/wn30/04125021-n
+772,04127249-n,safety pin,http://wordnet-rdf.princeton.edu/wn30/04127249-n
+773,04131690-n,"saltshaker, salt shaker",http://wordnet-rdf.princeton.edu/wn30/04131690-n
+774,04133789-n,sandal,http://wordnet-rdf.princeton.edu/wn30/04133789-n
+775,04136333-n,sarong,http://wordnet-rdf.princeton.edu/wn30/04136333-n
+776,04141076-n,"sax, saxophone",http://wordnet-rdf.princeton.edu/wn30/04141076-n
+777,04141327-n,scabbard,http://wordnet-rdf.princeton.edu/wn30/04141327-n
+778,04141975-n,"scale, weighing machine",http://wordnet-rdf.princeton.edu/wn30/04141975-n
+779,04146614-n,school bus,http://wordnet-rdf.princeton.edu/wn30/04146614-n
+780,04147183-n,schooner,http://wordnet-rdf.princeton.edu/wn30/04147183-n
+781,04149813-n,scoreboard,http://wordnet-rdf.princeton.edu/wn30/04149813-n
+782,04152593-n,"screen, CRT screen",http://wordnet-rdf.princeton.edu/wn30/04152593-n
+783,04153751-n,screw,http://wordnet-rdf.princeton.edu/wn30/04153751-n
+784,04154565-n,screwdriver,http://wordnet-rdf.princeton.edu/wn30/04154565-n
+785,04162706-n,"seat belt, seatbelt",http://wordnet-rdf.princeton.edu/wn30/04162706-n
+786,04179913-n,sewing machine,http://wordnet-rdf.princeton.edu/wn30/04179913-n
+787,04192698-n,"shield, buckler",http://wordnet-rdf.princeton.edu/wn30/04192698-n
+788,04200800-n,"shoe shop, shoe-shop, shoe store",http://wordnet-rdf.princeton.edu/wn30/04200800-n
+789,04201297-n,shoji,http://wordnet-rdf.princeton.edu/wn30/04201297-n
+790,04204238-n,shopping basket,http://wordnet-rdf.princeton.edu/wn30/04204238-n
+791,04204347-n,shopping cart,http://wordnet-rdf.princeton.edu/wn30/04204347-n
+792,04208210-n,shovel,http://wordnet-rdf.princeton.edu/wn30/04208210-n
+793,04209133-n,shower cap,http://wordnet-rdf.princeton.edu/wn30/04209133-n
+794,04209239-n,shower curtain,http://wordnet-rdf.princeton.edu/wn30/04209239-n
+795,04228054-n,ski,http://wordnet-rdf.princeton.edu/wn30/04228054-n
+796,04229816-n,ski mask,http://wordnet-rdf.princeton.edu/wn30/04229816-n
+797,04235860-n,sleeping bag,http://wordnet-rdf.princeton.edu/wn30/04235860-n
+798,04238763-n,"slide rule, slipstick",http://wordnet-rdf.princeton.edu/wn30/04238763-n
+799,04239074-n,sliding door,http://wordnet-rdf.princeton.edu/wn30/04239074-n
+800,04243546-n,"slot, one-armed bandit",http://wordnet-rdf.princeton.edu/wn30/04243546-n
+801,04251144-n,snorkel,http://wordnet-rdf.princeton.edu/wn30/04251144-n
+802,04252077-n,snowmobile,http://wordnet-rdf.princeton.edu/wn30/04252077-n
+803,04252225-n,"snowplow, snowplough",http://wordnet-rdf.princeton.edu/wn30/04252225-n
+804,04254120-n,soap dispenser,http://wordnet-rdf.princeton.edu/wn30/04254120-n
+805,04254680-n,soccer ball,http://wordnet-rdf.princeton.edu/wn30/04254680-n
+806,04254777-n,sock,http://wordnet-rdf.princeton.edu/wn30/04254777-n
+807,04258138-n,"solar dish, solar collector, solar furnace",http://wordnet-rdf.princeton.edu/wn30/04258138-n
+808,04259630-n,sombrero,http://wordnet-rdf.princeton.edu/wn30/04259630-n
+809,04263257-n,soup bowl,http://wordnet-rdf.princeton.edu/wn30/04263257-n
+810,04264628-n,space bar,http://wordnet-rdf.princeton.edu/wn30/04264628-n
+811,04265275-n,space heater,http://wordnet-rdf.princeton.edu/wn30/04265275-n
+812,04266014-n,space shuttle,http://wordnet-rdf.princeton.edu/wn30/04266014-n
+813,04270147-n,spatula,http://wordnet-rdf.princeton.edu/wn30/04270147-n
+814,04273569-n,speedboat,http://wordnet-rdf.princeton.edu/wn30/04273569-n
+815,04275548-n,"spider web, spider's web",http://wordnet-rdf.princeton.edu/wn30/04275548-n
+816,04277352-n,spindle,http://wordnet-rdf.princeton.edu/wn30/04277352-n
+817,04285008-n,"sports car, sport car",http://wordnet-rdf.princeton.edu/wn30/04285008-n
+818,04286575-n,"spotlight, spot",http://wordnet-rdf.princeton.edu/wn30/04286575-n
+819,04296562-n,stage,http://wordnet-rdf.princeton.edu/wn30/04296562-n
+820,04310018-n,steam locomotive,http://wordnet-rdf.princeton.edu/wn30/04310018-n
+821,04311004-n,steel arch bridge,http://wordnet-rdf.princeton.edu/wn30/04311004-n
+822,04311174-n,steel drum,http://wordnet-rdf.princeton.edu/wn30/04311174-n
+823,04317175-n,stethoscope,http://wordnet-rdf.princeton.edu/wn30/04317175-n
+824,04325704-n,stole,http://wordnet-rdf.princeton.edu/wn30/04325704-n
+825,04326547-n,stone wall,http://wordnet-rdf.princeton.edu/wn30/04326547-n
+826,04328186-n,"stopwatch, stop watch",http://wordnet-rdf.princeton.edu/wn30/04328186-n
+827,04330267-n,stove,http://wordnet-rdf.princeton.edu/wn30/04330267-n
+828,04332243-n,strainer,http://wordnet-rdf.princeton.edu/wn30/04332243-n
+829,04335435-n,"streetcar, tram, tramcar, trolley, trolley car",http://wordnet-rdf.princeton.edu/wn30/04335435-n
+830,04336792-n,stretcher,http://wordnet-rdf.princeton.edu/wn30/04336792-n
+831,04344873-n,"studio couch, day bed",http://wordnet-rdf.princeton.edu/wn30/04344873-n
+832,04346328-n,"stupa, tope",http://wordnet-rdf.princeton.edu/wn30/04346328-n
+833,04347754-n,"submarine, pigboat, sub, U-boat",http://wordnet-rdf.princeton.edu/wn30/04347754-n
+834,04350905-n,"suit, suit of clothes",http://wordnet-rdf.princeton.edu/wn30/04350905-n
+835,04355338-n,sundial,http://wordnet-rdf.princeton.edu/wn30/04355338-n
+836,04355933-n,sunglass,http://wordnet-rdf.princeton.edu/wn30/04355933-n
+837,04356056-n,"sunglasses, dark glasses, shades",http://wordnet-rdf.princeton.edu/wn30/04356056-n
+838,04357314-n,"sunscreen, sunblock, sun blocker",http://wordnet-rdf.princeton.edu/wn30/04357314-n
+839,04366367-n,suspension bridge,http://wordnet-rdf.princeton.edu/wn30/04366367-n
+840,04367480-n,"swab, swob, mop",http://wordnet-rdf.princeton.edu/wn30/04367480-n
+841,04370456-n,sweatshirt,http://wordnet-rdf.princeton.edu/wn30/04370456-n
+842,04371430-n,"swimming trunks, bathing trunks",http://wordnet-rdf.princeton.edu/wn30/04371430-n
+843,04371774-n,swing,http://wordnet-rdf.princeton.edu/wn30/04371774-n
+844,04372370-n,"switch, electric switch, electrical switch",http://wordnet-rdf.princeton.edu/wn30/04372370-n
+845,04376876-n,syringe,http://wordnet-rdf.princeton.edu/wn30/04376876-n
+846,04380533-n,table lamp,http://wordnet-rdf.princeton.edu/wn30/04380533-n
+847,04389033-n,"tank, army tank, armored combat vehicle, armoured combat vehicle",http://wordnet-rdf.princeton.edu/wn30/04389033-n
+848,04392985-n,tape player,http://wordnet-rdf.princeton.edu/wn30/04392985-n
+849,04398044-n,teapot,http://wordnet-rdf.princeton.edu/wn30/04398044-n
+850,04399382-n,"teddy, teddy bear",http://wordnet-rdf.princeton.edu/wn30/04399382-n
+851,04404412-n,"television, television system",http://wordnet-rdf.princeton.edu/wn30/04404412-n
+852,04409515-n,tennis ball,http://wordnet-rdf.princeton.edu/wn30/04409515-n
+853,04417672-n,"thatch, thatched roof",http://wordnet-rdf.princeton.edu/wn30/04417672-n
+854,04418357-n,"theater curtain, theatre curtain",http://wordnet-rdf.princeton.edu/wn30/04418357-n
+855,04423845-n,thimble,http://wordnet-rdf.princeton.edu/wn30/04423845-n
+856,04428191-n,"thresher, thrasher, threshing machine",http://wordnet-rdf.princeton.edu/wn30/04428191-n
+857,04429376-n,throne,http://wordnet-rdf.princeton.edu/wn30/04429376-n
+858,04435653-n,tile roof,http://wordnet-rdf.princeton.edu/wn30/04435653-n
+859,04442312-n,toaster,http://wordnet-rdf.princeton.edu/wn30/04442312-n
+860,04443257-n,"tobacco shop, tobacconist shop, tobacconist",http://wordnet-rdf.princeton.edu/wn30/04443257-n
+861,04447861-n,toilet seat,http://wordnet-rdf.princeton.edu/wn30/04447861-n
+862,04456115-n,torch,http://wordnet-rdf.princeton.edu/wn30/04456115-n
+863,04458633-n,totem pole,http://wordnet-rdf.princeton.edu/wn30/04458633-n
+864,04461696-n,"tow truck, tow car, wrecker",http://wordnet-rdf.princeton.edu/wn30/04461696-n
+865,04462240-n,toyshop,http://wordnet-rdf.princeton.edu/wn30/04462240-n
+866,04465501-n,tractor,http://wordnet-rdf.princeton.edu/wn30/04465501-n
+867,04467665-n,"trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi",http://wordnet-rdf.princeton.edu/wn30/04467665-n
+868,04476259-n,tray,http://wordnet-rdf.princeton.edu/wn30/04476259-n
+869,04479046-n,trench coat,http://wordnet-rdf.princeton.edu/wn30/04479046-n
+870,04482393-n,"tricycle, trike, velocipede",http://wordnet-rdf.princeton.edu/wn30/04482393-n
+871,04483307-n,trimaran,http://wordnet-rdf.princeton.edu/wn30/04483307-n
+872,04485082-n,tripod,http://wordnet-rdf.princeton.edu/wn30/04485082-n
+873,04486054-n,triumphal arch,http://wordnet-rdf.princeton.edu/wn30/04486054-n
+874,04487081-n,"trolleybus, trolley coach, trackless trolley",http://wordnet-rdf.princeton.edu/wn30/04487081-n
+875,04487394-n,trombone,http://wordnet-rdf.princeton.edu/wn30/04487394-n
+876,04493381-n,"tub, vat",http://wordnet-rdf.princeton.edu/wn30/04493381-n
+877,04501370-n,turnstile,http://wordnet-rdf.princeton.edu/wn30/04501370-n
+878,04505470-n,typewriter keyboard,http://wordnet-rdf.princeton.edu/wn30/04505470-n
+879,04507155-n,umbrella,http://wordnet-rdf.princeton.edu/wn30/04507155-n
+880,04509417-n,"unicycle, monocycle",http://wordnet-rdf.princeton.edu/wn30/04509417-n
+881,04515003-n,"upright, upright piano",http://wordnet-rdf.princeton.edu/wn30/04515003-n
+882,04517823-n,"vacuum, vacuum cleaner",http://wordnet-rdf.princeton.edu/wn30/04517823-n
+883,04522168-n,vase,http://wordnet-rdf.princeton.edu/wn30/04522168-n
+884,04523525-n,vault,http://wordnet-rdf.princeton.edu/wn30/04523525-n
+885,04525038-n,velvet,http://wordnet-rdf.princeton.edu/wn30/04525038-n
+886,04525305-n,vending machine,http://wordnet-rdf.princeton.edu/wn30/04525305-n
+887,04532106-n,vestment,http://wordnet-rdf.princeton.edu/wn30/04532106-n
+888,04532670-n,viaduct,http://wordnet-rdf.princeton.edu/wn30/04532670-n
+889,04536866-n,"violin, fiddle",http://wordnet-rdf.princeton.edu/wn30/04536866-n
+890,04540053-n,volleyball,http://wordnet-rdf.princeton.edu/wn30/04540053-n
+891,04542943-n,waffle iron,http://wordnet-rdf.princeton.edu/wn30/04542943-n
+892,04548280-n,wall clock,http://wordnet-rdf.princeton.edu/wn30/04548280-n
+893,04548362-n,"wallet, billfold, notecase, pocketbook",http://wordnet-rdf.princeton.edu/wn30/04548362-n
+894,04550184-n,"wardrobe, closet, press",http://wordnet-rdf.princeton.edu/wn30/04550184-n
+895,04552348-n,"warplane, military plane",http://wordnet-rdf.princeton.edu/wn30/04552348-n
+896,04553703-n,"washbasin, handbasin, washbowl, lavabo, wash-hand basin",http://wordnet-rdf.princeton.edu/wn30/04553703-n
+897,04554684-n,"washer, automatic washer, washing machine",http://wordnet-rdf.princeton.edu/wn30/04554684-n
+898,04557648-n,water bottle,http://wordnet-rdf.princeton.edu/wn30/04557648-n
+899,04560804-n,water jug,http://wordnet-rdf.princeton.edu/wn30/04560804-n
+900,04562935-n,water tower,http://wordnet-rdf.princeton.edu/wn30/04562935-n
+901,04579145-n,whiskey jug,http://wordnet-rdf.princeton.edu/wn30/04579145-n
+902,04579432-n,whistle,http://wordnet-rdf.princeton.edu/wn30/04579432-n
+903,04584207-n,wig,http://wordnet-rdf.princeton.edu/wn30/04584207-n
+904,04589890-n,window screen,http://wordnet-rdf.princeton.edu/wn30/04589890-n
+905,04590129-n,window shade,http://wordnet-rdf.princeton.edu/wn30/04590129-n
+906,04591157-n,Windsor tie,http://wordnet-rdf.princeton.edu/wn30/04591157-n
+907,04591713-n,wine bottle,http://wordnet-rdf.princeton.edu/wn30/04591713-n
+908,04592741-n,wing,http://wordnet-rdf.princeton.edu/wn30/04592741-n
+909,04596742-n,wok,http://wordnet-rdf.princeton.edu/wn30/04596742-n
+910,04597913-n,wooden spoon,http://wordnet-rdf.princeton.edu/wn30/04597913-n
+911,04599235-n,"wool, woolen, woollen",http://wordnet-rdf.princeton.edu/wn30/04599235-n
+912,04604644-n,"worm fence, snake fence, snake-rail fence, Virginia fence",http://wordnet-rdf.princeton.edu/wn30/04604644-n
+913,04606251-n,wreck,http://wordnet-rdf.princeton.edu/wn30/04606251-n
+914,04612504-n,yawl,http://wordnet-rdf.princeton.edu/wn30/04612504-n
+915,04613696-n,yurt,http://wordnet-rdf.princeton.edu/wn30/04613696-n
+916,06359193-n,"web site, website, internet site, site",http://wordnet-rdf.princeton.edu/wn30/06359193-n
+917,06596364-n,comic book,http://wordnet-rdf.princeton.edu/wn30/06596364-n
+918,06785654-n,"crossword puzzle, crossword",http://wordnet-rdf.princeton.edu/wn30/06785654-n
+919,06794110-n,street sign,http://wordnet-rdf.princeton.edu/wn30/06794110-n
+920,06874185-n,"traffic light, traffic signal, stoplight",http://wordnet-rdf.princeton.edu/wn30/06874185-n
+921,07248320-n,"book jacket, dust cover, dust jacket, dust wrapper",http://wordnet-rdf.princeton.edu/wn30/07248320-n
+922,07565083-n,menu,http://wordnet-rdf.princeton.edu/wn30/07565083-n
+923,07579787-n,plate,http://wordnet-rdf.princeton.edu/wn30/07579787-n
+924,07583066-n,guacamole,http://wordnet-rdf.princeton.edu/wn30/07583066-n
+925,07584110-n,consomme,http://wordnet-rdf.princeton.edu/wn30/07584110-n
+926,07590611-n,"hot pot, hotpot",http://wordnet-rdf.princeton.edu/wn30/07590611-n
+927,07613480-n,trifle,http://wordnet-rdf.princeton.edu/wn30/07613480-n
+928,07614500-n,"ice cream, icecream",http://wordnet-rdf.princeton.edu/wn30/07614500-n
+929,07615774-n,"ice lolly, lolly, lollipop, popsicle",http://wordnet-rdf.princeton.edu/wn30/07615774-n
+930,07684084-n,French loaf,http://wordnet-rdf.princeton.edu/wn30/07684084-n
+931,07693725-n,"bagel, beigel",http://wordnet-rdf.princeton.edu/wn30/07693725-n
+932,07695742-n,pretzel,http://wordnet-rdf.princeton.edu/wn30/07695742-n
+933,07697313-n,cheeseburger,http://wordnet-rdf.princeton.edu/wn30/07697313-n
+934,07697537-n,"hotdog, hot dog, red hot",http://wordnet-rdf.princeton.edu/wn30/07697537-n
+935,07711569-n,mashed potato,http://wordnet-rdf.princeton.edu/wn30/07711569-n
+936,07714571-n,head cabbage,http://wordnet-rdf.princeton.edu/wn30/07714571-n
+937,07714990-n,broccoli,http://wordnet-rdf.princeton.edu/wn30/07714990-n
+938,07715103-n,cauliflower,http://wordnet-rdf.princeton.edu/wn30/07715103-n
+939,07716358-n,"zucchini, courgette",http://wordnet-rdf.princeton.edu/wn30/07716358-n
+940,07716906-n,spaghetti squash,http://wordnet-rdf.princeton.edu/wn30/07716906-n
+941,07717410-n,acorn squash,http://wordnet-rdf.princeton.edu/wn30/07717410-n
+942,07717556-n,butternut squash,http://wordnet-rdf.princeton.edu/wn30/07717556-n
+943,07718472-n,"cucumber, cuke",http://wordnet-rdf.princeton.edu/wn30/07718472-n
+944,07718747-n,"artichoke, globe artichoke",http://wordnet-rdf.princeton.edu/wn30/07718747-n
+945,07720875-n,bell pepper,http://wordnet-rdf.princeton.edu/wn30/07720875-n
+946,07730033-n,cardoon,http://wordnet-rdf.princeton.edu/wn30/07730033-n
+947,07734744-n,mushroom,http://wordnet-rdf.princeton.edu/wn30/07734744-n
+948,07742313-n,Granny Smith,http://wordnet-rdf.princeton.edu/wn30/07742313-n
+949,07745940-n,strawberry,http://wordnet-rdf.princeton.edu/wn30/07745940-n
+950,07747607-n,orange,http://wordnet-rdf.princeton.edu/wn30/07747607-n
+951,07749582-n,lemon,http://wordnet-rdf.princeton.edu/wn30/07749582-n
+952,07753113-n,fig,http://wordnet-rdf.princeton.edu/wn30/07753113-n
+953,07753275-n,"pineapple, ananas",http://wordnet-rdf.princeton.edu/wn30/07753275-n
+954,07753592-n,banana,http://wordnet-rdf.princeton.edu/wn30/07753592-n
+955,07754684-n,"jackfruit, jak, jack",http://wordnet-rdf.princeton.edu/wn30/07754684-n
+956,07760859-n,custard apple,http://wordnet-rdf.princeton.edu/wn30/07760859-n
+957,07768694-n,pomegranate,http://wordnet-rdf.princeton.edu/wn30/07768694-n
+958,07802026-n,hay,http://wordnet-rdf.princeton.edu/wn30/07802026-n
+959,07831146-n,carbonara,http://wordnet-rdf.princeton.edu/wn30/07831146-n
+960,07836838-n,"chocolate sauce, chocolate syrup",http://wordnet-rdf.princeton.edu/wn30/07836838-n
+961,07860988-n,dough,http://wordnet-rdf.princeton.edu/wn30/07860988-n
+962,07871810-n,"meat loaf, meatloaf",http://wordnet-rdf.princeton.edu/wn30/07871810-n
+963,07873807-n,"pizza, pizza pie",http://wordnet-rdf.princeton.edu/wn30/07873807-n
+964,07875152-n,potpie,http://wordnet-rdf.princeton.edu/wn30/07875152-n
+965,07880968-n,burrito,http://wordnet-rdf.princeton.edu/wn30/07880968-n
+966,07892512-n,red wine,http://wordnet-rdf.princeton.edu/wn30/07892512-n
+967,07920052-n,espresso,http://wordnet-rdf.princeton.edu/wn30/07920052-n
+968,07930864-n,cup,http://wordnet-rdf.princeton.edu/wn30/07930864-n
+969,07932039-n,eggnog,http://wordnet-rdf.princeton.edu/wn30/07932039-n
+970,09193705-n,alp,http://wordnet-rdf.princeton.edu/wn30/09193705-n
+971,09229709-n,bubble,http://wordnet-rdf.princeton.edu/wn30/09229709-n
+972,09246464-n,"cliff, drop, drop-off",http://wordnet-rdf.princeton.edu/wn30/09246464-n
+973,09256479-n,coral reef,http://wordnet-rdf.princeton.edu/wn30/09256479-n
+974,09288635-n,geyser,http://wordnet-rdf.princeton.edu/wn30/09288635-n
+975,09332890-n,"lakeside, lakeshore",http://wordnet-rdf.princeton.edu/wn30/09332890-n
+976,09399592-n,"promontory, headland, head, foreland",http://wordnet-rdf.princeton.edu/wn30/09399592-n
+977,09421951-n,"sandbar, sand bar",http://wordnet-rdf.princeton.edu/wn30/09421951-n
+978,09428293-n,"seashore, coast, seacoast, sea-coast",http://wordnet-rdf.princeton.edu/wn30/09428293-n
+979,09468604-n,"valley, vale",http://wordnet-rdf.princeton.edu/wn30/09468604-n
+980,09472597-n,volcano,http://wordnet-rdf.princeton.edu/wn30/09472597-n
+981,09835506-n,"ballplayer, baseball player",http://wordnet-rdf.princeton.edu/wn30/09835506-n
+982,10148035-n,"groom, bridegroom",http://wordnet-rdf.princeton.edu/wn30/10148035-n
+983,10565667-n,scuba diver,http://wordnet-rdf.princeton.edu/wn30/10565667-n
+984,11879895-n,rapeseed,http://wordnet-rdf.princeton.edu/wn30/11879895-n
+985,11939491-n,daisy,http://wordnet-rdf.princeton.edu/wn30/11939491-n
+986,12057211-n,"yellow lady's slipper, yellow lady-slipper, Cypripedium calceolus, Cypripedium parviflorum",http://wordnet-rdf.princeton.edu/wn30/12057211-n
+987,12144580-n,corn,http://wordnet-rdf.princeton.edu/wn30/12144580-n
+988,12267677-n,acorn,http://wordnet-rdf.princeton.edu/wn30/12267677-n
+989,12620546-n,"hip, rose hip, rosehip",http://wordnet-rdf.princeton.edu/wn30/12620546-n
+990,12768682-n,"buckeye, horse chestnut, conker",http://wordnet-rdf.princeton.edu/wn30/12768682-n
+991,12985857-n,coral fungus,http://wordnet-rdf.princeton.edu/wn30/12985857-n
+992,12998815-n,agaric,http://wordnet-rdf.princeton.edu/wn30/12998815-n
+993,13037406-n,gyromitra,http://wordnet-rdf.princeton.edu/wn30/13037406-n
+994,13040303-n,"stinkhorn, carrion fungus",http://wordnet-rdf.princeton.edu/wn30/13040303-n
+995,13044778-n,earthstar,http://wordnet-rdf.princeton.edu/wn30/13044778-n
+996,13052670-n,"hen-of-the-woods, hen of the woods, Polyporus frondosus, Grifola frondosa",http://wordnet-rdf.princeton.edu/wn30/13052670-n
+997,13054560-n,bolete,http://wordnet-rdf.princeton.edu/wn30/13054560-n
+998,13133613-n,"ear, spike, capitulum",http://wordnet-rdf.princeton.edu/wn30/13133613-n
+999,15075141-n,"toilet tissue, toilet paper, bathroom tissue",http://wordnet-rdf.princeton.edu/wn30/15075141-n
